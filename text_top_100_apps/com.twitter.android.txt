@@ -1,0 +1,150 @@
+Skip to main content
+Help Center
+Contact Us
+Help Center
+Twitter app support
+Help with Twitter for Android
+Help with Twitter for Android
+Having trouble installing the latest Twitter for Android app?
+
+If you’re having trouble installing the latest Twitter for Android app, check to see how much space is available on your phone. Ideally, your device should have a minimum of 50MB of available space.
+ 
+
+To see how much space is available on your device, follow these instructions:
+
+From your device's home screen, tap the Settings icon.
+In the Device section, open Storage.
+If your device has less than 50MB available, you may need to uninstall other apps to clear space.
+Once you have more space available, try downloading the app again.
+
+
+If you have enough space available and you’re still having trouble installing the app, try the following:
+
+Cancel the download in the Google Play Store, then restart the download.
+If restarting the download doesn’t work, try logging out of Twitter. Then retry downloading the app.
+If you’re still unable to download the app, try uninstalling the Twitter app from your device. After it’s uninstalled, restart your phone and then re-install the Twitter app from the Google Play Store.
+If you’re still having trouble, check the Google Play Help Center for tips to troubleshoot download issues.
+
+Note: The Twitter for Android app is available for phones running Android 7.93.4 and above. We no longer support older versions. If you remain on these versions, please note that you may not be able to install or update Twitter for Android app in the Google Play Store. Please also note that the app may also stop working as expected. To experience the most up-to-date Twitter for Android experience, update your Android device OS and download the latest version in the store, or visit twitter.com in your browser.
+
+
+Try clearing the app's data
+ 
+
+Clearing the app's data can help the app run faster and solves many common issues. Clearing data from the app will not remove your account from the app or any of your account information, but it will reset your notification and sync settings to their default settings.
+
+From your device's home screen, tap the Settings icon.
+Select Applications.
+Select the Twitter app, scroll down and tap Clear Data.
+If you've cleared your data but are still experiencing the issue, try turning your phone off and then on.
+ 
+Check that your time zone settings are set to update automatically
+ 
+
+If you're seeing "Unauthorized" or "Invalid username and Password" when you try to sign in, this is likely caused by incorrect time zone settings or an outdated version of the Twitter client application. Please make sure your Twitter client is up to date with the latest version and that the date, time and timezone settings are set to update automatically.
+
+Press the menu button from from your home screen.
+Tap Settings.
+Select Date & Time.
+Make sure the option to Set Automatically is enabled.
+ 
+Log out of the app and log back in
+ 
+
+If clearing your app's data or turning your phone off and then on again didn't work, you should try logging out of the app and then logging back in. If you’ve enabled login verification on your account, be sure to store a backup code before logging out.
+
+To log out of Twitter for Android:
+
+In the top menu, you will either see a navigation menu icon  or your profile icon. Tap whichever icon you have and select Settings and privacy.
+Tap Account, then tap Log out. This will not deactivate your account, rather this will only log your account out of the app.
+Confirm the removal of the account by tapping OK.
+ 
+
+To log back in to your account:
+
+
+After logging out of the account, you can add it back by opening the app and tapping Log in.
+Enter your username and password.
+Tap Log in.
+ 
+Check your network connection
+ 
+
+First try powering down your device for a few moments. Turn your device back on and make sure you have a strong data connection.
+
+If you are using WiFi to connect to the Twitter for Android app, try an alternate WiFi connection. If one works and the other does not, it is most likely that the WiFi connection does not accept SSL or is blocking Twitter.
+
+If you have a network connection but WiFi is turned on, your device will default to the WiFi connection.
+ 
+
+Uninstall and reinstall the app
+ 
+
+If you’ve enabled login verification on your account, be sure to store a backup code before uninstalling the app.
+
+To uninstall the Twitter for Android app:
+
+From your home screen, press the menu button and select Applications.
+Select Manage Applications.
+Select Twitter.
+Tap the Uninstall icon at the top.
+If the Twitter for Android app came preloaded on your device, it may not be possible to remove the app completely. Uninstalling will uninstall the latest update. After uninstalling the latest version, you can update the app again from the app store.
+ 
+
+To install the Twitter for Android app:
+
+
+Open the Google Play app or another app store that features the Twitter for Android app.
+Search for Twitter for Android.
+Select Download and accept the permissions.
+Once the Twitter for Android app finishes downloading, open the app and sign in.
+Share this article
+Tweet
+Twitter platform
+Twitter.com
+Status
+Card validator
+Embed a Tweet
+Privacy Center
+Transparency Center
+Twitter, Inc.
+About the company
+Twitter for Good
+Company news
+Brand toolkit
+Jobs and internships
+Investors
+Help
+Help Center
+Using Twitter
+Twitter Media
+Ads Help Center
+Managing your account
+Email Preference Center
+Rules and policies
+Contact us
+Developer resources
+Developer home
+Documentation
+Forums
+Communities
+Developer blog
+Engineering blog
+Developer terms
+Business resources
+Advertise
+Twitter for business
+Resources and guides
+Twitter for marketers
+Marketing insights
+Brand inspiration
+Twitter Flight School
+© 2022 Twitter, Inc.
+Cookies
+Privacy
+Terms and conditions
+English 
+
+By using Twitter’s services you agree to our Cookies Use. We use cookies for purposes including analytics, personalisation, and ads.
+
+OK

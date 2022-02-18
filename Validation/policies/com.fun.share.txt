@@ -1,0 +1,189 @@
+YoYo Privacy Policy
+
+Date of Last Revision: July 28,2021
+
+YoYo(" "we," "us," or "our") takes the private nature of your information very seriously. This policy regarding our privacy practices (the "Privacy Policy") describes how we treat the information we collect when you visit and use our website FunShare.co and the YoYo Mobile Applications (collectively the "Site") and/or YoYo's other domains, products, advertising products, services, and/or content, including our mobile applications (collectively with the Site, the "Services"). When you use the Services, you also consent to the collection, transfer, manipulation, storage, disclosure and other uses of your information as described in this Privacy Policy; please read it carefully.
+
+ 
+
+What This Privacy Policy Covers
+
+This Privacy Policy covers our treatment of information gathered when you are using or accessing the Services. This Privacy Policy also covers our treatment of any information about you that our partners share with us or that we share with our partners. This Privacy Policy does not apply to the practices of third parties that we do not own, control, or manage, including but not limited to any third party websites, services, applications, or businesses (collectively “Third Party Services”). While we try to work only with those Third Party Services that share our respect for your privacy, we don't take responsibility for the content or privacy policies of those Third Party Services. We encourage you to carefully review the privacy policies of all Third Party Services you access.
+
+ 
+
+What We Collect and How We Use It
+Account Information:
+
+Certain visitors to YoYo’s services choose to interact with YoYo in ways that require YoYo to gather personally-identifying information. The amount and type of information that YoYo gathers depends on the nature of the interaction. Some of our services require you to set up a basic YoYo account, so we need to collect a few important details about you, such as: a username, a password, an email address, a phone number, full name, display name, moniker (pseudonym), profile pictures, etc. We may use your phone number to verify your Account and if you provide YoYo with your phone number, you agree to receive missed calls / text messages to that number from YoYo. Additionally, our customer service may contact and communicate with you, if necessary. We may use your email address to verify your Account and to communicate with you, as described in more detail below.
+
+We may use Account Information, alone or together with other information, to enhance and improve the Services, such as by personalization.
+
+You can keep yourself fairly anonymous on YoYo, but remember that your posts, comments, shares, username, etc are all visible to the public by default.
+
+Email Communications with Us:
+
+As part of the Services, you may occasionally receive email and other communications from us. Administrative communications relating to your Account (e.g., for purposes of Account recovery or password reset) are considered part of the Services and your Account, which you may not be able to opt-out from receiving. We also may send you other kinds of emails, which you can opt-out of by using the “Opt-Out” link or via an alternate method as mentioned in the emails themselves.
+
+Note that we will never email you to ask for your password or other Account Information; if you receive such an email, please forward it to us.
+
+We send two kinds of email: ones about fun stuff happening on YoYo, and ones with important information about your account. You can opt out of the former, but not the latter.
+
+Information about Your Account on Third Party Services:
+
+You can link your Account to certain Third Party Services. In order to do so, you may provide us with your username or other user ID for a Third Party Services, and you may then be required to log into that Service. After you complete this login process, we will receive a token that allows us to access your account on that Third Party Services so that we can, for example, post your content to that Third Party Services when you ask us to. We do not receive or store your passwords for your Third Party Services accounts. Additionally, you may link your Facebook, Twitter, etc account to YoYo, which allows us to obtain information from those accounts (such as your friends or contacts). The information we get from those services often depends on your settings or their privacy policies, so be sure to check what those are.
+
+Information Obtained from Third Party Services:
+
+In some cases, we partner with Third Party Services that may provide information about you. Such information could include, for example, your gender, if you have disclosed that information to that Third Party Services and made it available for YoYo to access. To the extent we obtain such information, we may use it to develop new Services or to improve or enhance the Services.
+
+When you connect other Third Party Services to your YoYo account, those Third Party Services might share information about you with us. What gets shown to us is determined by their privacy policies.
+
+User Content:
+
+By default, all sharing through the Services is public, and when you provide us with content it is published so that anyone can view it. Content published and shared publicly is accessible to everyone, including search engines. In addition, information shared publicly may be copied and shared throughout the Internet, including through actions or features native to the Services, such as Sharing, Resharing, forwarding, etc.
+
+At its core, YoYo is a public platform. Don’t be afraid to share amazing things, but do understand that it can be hard to completely remove things from the internet once they’ve been shared or reshared a few times.
+
+Native Actions:
+
+The Services allow you to perform native actions that are integral to our products, such as liking a post, commenting in a post, sharing a post, replying to a post, etc. Liking, sharing, and replying are public actions – anyone can expand the “activities” view on a post, for example, to see who liked, shared, or replied to a post. We use information about native actions to improve the Services, develop new Services, and, particularly, to personalize your YoYo experience. Personalization using this information may include presenting you with new posts relevant to what you’ve liked, providing you with better search results, and showing you advertising more relevant to your interests
+
+When you share information or content like text, photos, videos, gifs, etc as well as shares, likes, replies, comments, etc via the Services, you should think carefully about what you are making public.
+
+Information About User Content:
+
+In some cases, we may collect information about content you provide to the Services. For example, if the recipient has viewed the content, replayed the content, and the metadata that is provided with the content. When it's included as part of your images, we may collect information describing your camera, camera settings, or EXIF information. This information allows us to improve the Services and provide additional features and functionality.
+
+Camera and Photos
+
+Many of our services require us to collect images and other information from your device’s camera and photos. We’ll access your camera and photos only after you give us your consent.
+
+Information Related to Use of the Services:
+
+These days, whenever you use a website, mobile application or other Internet service, certain information is almost always created and recorded automatically. The same is true when you use our products. We collect information about how people use the Services, including those with an Account. This type of information may be collected in our log files each time you interact with (i.e., make a request to) the Services. We use internal tools and third party applications and services (like Google Analytics, etc) to collect and analyze this information. Some of this information may also be associated with the Internet Protocol Address (“IP Address”) used to access the Services; some may be connected with your Account; and some may only be collected and used in aggregate form (as a statistical measure that wouldn’t identify you or your Account). We also collect your IP Address when you make a post or perform actions like commenting, sharing, etc. We may use this information about how you and others interact with the Services for a number of things generally related to enhancing, improving, protecting, and developing new Services, including but not limited to: providing users with personalized content; providing users with targeted advertising; improving our search results; identifying trending or popular content; fighting spam, malware, identity theft and generally keeping our users and community safe; and for legal and safety reasons as set forth in “Information Disclosed for Our Protection and the Protection of Others.”
+
+We use information about how you interact with YoYo in order to personalize it for you, to keep both you and our community safe from harm, and to improve YoYo for everyone who uses it.
+
+Information Related to Your Web Browser:
+
+We automatically receive and record information from your web browser when you interact with the Services, such as your browser type and version, what sort of device you are using, your operating system and version, your language preference, the website or service that referred you to the Services, the date and time of each request you make to the Services, your screen display information, and information from any cookies we have placed on your web browser (as described below). We also sometimes detect whether you are using certain web browser extensions and store that information in a manner associated with your Account. We use web browser-related information to enhance and improve the Services.
+
+Information Related to Your Mobile Device:
+
+We may collect and store information related to your mobile device. We may also ask you to provide your phone number to enable new products and improve the Services, such as by enabling multi-factor authentication for Account login.
+
+Information Collected Using Cookies:
+
+A cookie, also known as a web cookie, browser cookie, and HTTP cookie, is a piece of text stored by a user's web browser. A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us if you fill in a contact form or email us. You can choose to accept or decline cookies, and delete existing ones. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. The help section of your chosen browser or it’s accompanying website will provide instructions on how to accept, decline and delete cookies.
+
+Declining cookies may prevent you from taking full advantage of the website, however, as some functionality like login, etc may not work.
+
+Analytics and Advertising Services Provided by Others
+
+Some services that we use (including Third Party Services such as Advertising partners, Analytics partners, etc), such as Google Analytics, etc may also place their own cookies (or by similar technologies) on your browser. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. Note that, unless otherwise disclosed, this Privacy Policy covers our use of cookies only and does not cover the use of cookies by third parties.
+
+Information About Your Contacts:
+
+Certain features of the Services allow you to provide us with your contact lists, so that we can connect you with people in our Services that are also on those contact lists. We may, with your consent collect information from your device’s phonebook. As an example, you can send us your mobile phone contact information through our mobile applications, which then allows us to provide you with a list of those contacts that use the Services so that you can “follow” them. As another example, when you let us access your device phonebook, we may share information about you with other users who have your phone number in their device phonebook
+
+ 
+
+How we Share Information
+
+We may share information about you in the following ways:
+
+Information Shared with the Public Through the Services:
+
+As noted in “User Content” and “Native Actions,” above, by default, content published through the Services and many actions you take on the Services are shared with the public. Because this kind of information can be seen by anyone and may be indexed by search engines, you should be careful about what you choose to disclose publicly and make sure it’s information you want to share with everyone.
+
+The content you create on YoYo is, by default, public. This means that anyone can see it, and that search engines can index it.
+
+User Consent or Direction:
+
+We may share or disclose your information at your direction, such as when you authorize a third-party web client or application to access your account.
+
+Information You Share with Third Party Services:
+
+The services may also contain third-party links and search results, include third-party integrations, or be a co-branded or third-party-branded service that’s being provided jointly with or by another company. By going to those links, using the third-party integration, or using a co-branded or third-party-branded service, you may be providing information (including personal information) directly to the third party, us, or both. You may also choose to share information that you provide to us, like posts, with those Third Party Services (for example, by sharing posts to Twitter or Facebook). That’s where our Privacy Policy ends and their policies begin. Make sure you are comfortable with the policies of any services you’re considering sharing to before connecting them to your YoYo account. You acknowledge and agree that we are not responsible for how those third parties collect or use your information. As always, we encourage you to review the privacy policies of every third-party website or service that you visit or use, including those third parties you interact with through our services. This Privacy Policy only governs information we collect and you are responsible for reading and understanding those Third Party Services' privacy policies.
+
+Information Shared with Our Agents in Order to Operate and Improve the Services:
+
+In some cases, we share information that we store (such as IP Addresses) with third parties, such as service providers, consultants, and other agents (collectively "Agents"), for the purposes of operating, enhancing, and improving the Services, and developing new products and services. For example, we may share information with service providers in order to fight spam, and third-party consultants may have access to information in the process of improving our processes and technology. Agents with whom we share such information for these reasons are generally bound by confidentiality obligations and, unless we tell you differently, our Agents do not have any right to use information we share with them beyond the scope and duration of what is necessary to assist us.
+
+Information Disclosed Pursuant to Business Transfers:
+
+In some cases, we may choose to buy or sell business assets. In these transactions, user information is typically one of the transferred business assets. Moreover, if we, or substantially all of our assets, were acquired, or if we go out of business or enter bankruptcy, user information would be one of the assets that is transferred or acquired by a third party. You acknowledge that such transfers may occur, and that any acquirer of us or our assets may continue to use your Personal Information as set forth in this policy.
+
+Information Disclosed for Our Protection and the Protection of Others:
+
+We believe in freedom of expression, and, to the extent reasonable, we try to protect our community from baseless legal demands. That said, we also reserve the right to access, preserve, and disclose any information as we reasonably believe is necessary, in our sole discretion, to (i) satisfy any law, regulation, legal process, governmental request, or governmental order, (ii) enforce this Privacy Policy and our terms and conditions, including investigation of potential violations hereof, (iii) detect, prevent, or otherwise address fraud, security, trust and safety, or technical issues (including exchanging information with other companies and organizations for the purposes of improving security and preventing fraud, spam, and malware), (iv) respond to user support requests, or (v) protect the rights, property, health or safety of us, our users, any third parties or the public in general.
+
+Information We Share with Your Consent or at Your Request:
+
+If you ask us to release information that we have about your Account, we will do so if reasonable and not unduly burdensome.
+
+To Service Providers Performing Services on Our Behalf:
+
+We may contract with third party companies to perform services on our behalf, including but not limited to marketing assistance, e-mail delivery, hosting services, customer service, and data analysis. We require any third party service providers to maintain the confidentiality of the information disclosed to them and are not permitted to use your Personal Information for any purpose other than to provide services to YoYo.
+
+Information Shared with Other Third Parties:
+
+We may share or disclose non-private information, Aggregate Information, or other non-personally identifying information with people and entities that we do business with.
+
+ 
+
+The Security of Your Information
+
+Your Account Information is protected by a password for your privacy and security. We may enable additional security features in the future, like multi-factor authentication. You need to prevent unauthorized access to your Account and information by creating a unique, secure, and protected password and limiting access to your computer and browser by signing off after you have finished accessing your Account on the Services.
+
+We take appropriate security measures to protect against unauthorized access to or unauthorized alteration, disclosure or destruction of data. These include internal reviews of our data collection, storage and processing practices and security measures, including appropriate encryption and physical security measures to guard against unauthorized access to systems where we store personal data.
+
+We seek to protect your information (including your Account Information) to ensure that it is kept private; However, as effective as our security measures are, no security system is impenetrable. We can't guarantee the security of any information. Unauthorized entry or use, hardware or software failure, and other factors may compromise the security of user information at any time.
+
+ 
+
+What Information You Can Access
+
+If you are a registered user, you can access most information associated with your Account by logging into the Services and checking your Account Settings page. Registered and unregistered users can access and delete cookies through their web browser settings.
+
+ 
+
+Our policy towards children
+
+This Website is not intended for children under the age of 12 and we do not knowingly collect any Personal Information from such children. Children under the age of 12 should not use our Website or our Services at any time. In the event that we learn that we have inadvertently gathered Personal Information from children under the age of 12, we will use reasonable efforts to erase such information from our records.
+
+ 
+
+How to Delete Your Account and Data
+
+If you want to delete your Account and Data, you can do so by emailing us at support@funshareapp.com and providing proof of authority over the Account. What constitutes "proof of authority" will vary depending on the circumstances, but generally will require sufficient identifying information so that we can be confident you are the Account owner.
+
+We keep your personal information only as long as we need it for the legal basis relied upon and as permitted by applicable law.
+
+You may permanently delete your Account and Data at any time.
+
+When your Account is deactivated, we take reasonable efforts to make sure it is no longer viewable on the App. For up to 28 days, it is still possible to restore your Account if it was accidentally or wrongfully deactivated. After 28 days, we begin the process of deleting your personal information from our systems, unless:
+
+we must keep it to comply with applicable law (for instance, if you make purchases within the App, some personal data may need to be kept for accounting purposes);
+we must keep it to evidence our compliance with applicable law;
+there is an outstanding issue, claim or dispute requiring us to keep the relevant information until it is resolved; or
+the information must be kept for our legitimate business interests, such as fraud prevention and enhancing Users’ safety and security. For example, information may need to be kept to prevent a user who was banned for unsafe behaviour or security incidents from opening a new account.
+
+Where YoYo uses machine learning, for example, to help us detect and prevent fraudulent card transactions, and to detect and prevent spam communications on the App (as explained above), we may need to keep personal information for a longer period than the retention periods explained above, to enable the machine learning to work properly. Where this is the case, we always seek to minimise the amount of personal information that is used and we ensure that it is ring-fenced and kept securely from other User personal information. We regularly review the period for which personal information is required for machine learning purposes and delete any identifiable information when it is no longer required.
+
+To prevent abuse and/or misuse of YoYo by a User following termination or deletion of a profile/Account we shall retain such information as we deem in our sole discretion may be necessary to ensure that User does not open a new Account and profile in breach of our Terms and Conditions of Use and to ensure compliance with all laws and regulations.
+
+Warning: Even after you remove information from your profile or delete your Account, copies of that information may still be viewable and/or accessed to the extent such information has been previously shared with others, or copied or stored by others. We cannot control this, nor do we accept any liability for this. If you have given third party applications or websites access to your personal information, they may retain such information to the extent permitted under their terms of service or privacy policies.
+
+ 
+
+Changes to This Privacy Policy
+
+We may revise this Privacy Policy from time to time. The most current version of the policy will govern our use of your information. If we make a change to this policy that, in our sole discretion, is material, we will attempt to notify you and other users of the Site by sending a notice to the email address or similar contact provided to us and/or by placing a notice on our Site. You should periodically check the Site for such notices. By continuing to access or use the Services after those changes become effective, you agree to be bound by the revised Privacy Policy.
+
+ 
+
+Where to Direct Questions or Concerns
+
+If you have any questions or concerns regarding privacy using the Services, send the email to support@funshareapp.com

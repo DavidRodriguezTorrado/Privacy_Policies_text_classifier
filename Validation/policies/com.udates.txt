@@ -1,0 +1,115 @@
+For the purpose of this Privacy Policy, we are a Data Controller of your personal information. What personal information do we collect from the people that visit our website or app?
+
+When using or registering on our Service, as appropriate, you may be asked to enter identifying personal data such as your email address, credit card information or other details to help you with your experience. Some of personal data might be provided by you at your own discretion such as your content, photos, videos.
+
+We also collect information of your activity on our Service, hardware and software information relatedto your devices, your wireless and mobile network connection, your location data. When do we collect information?
+
+We collect information from you when you register on our Service, fill out a form or enter information on our Service.
+
+How do we use your information?
+
+We may use the information you provide in the following ways:
+
+To personalize user's experience and to allow us to deliver the type of content and product offerings in which you are most interested.
+To improve our Service in order to better serve you.
+To allow us to better service you in responding to your customer service requests.
+To administer a contest, promotion, survey or other Service features.
+To send periodic emails regarding other products and services.
+To quickly process your transactions.
+To send marketing and non-marketing sms.
+What are grounds for processing of your information?
+
+Our legal basis for collecting and using your personal information, as described in this Privacy Policy, depends on the information we collect and the specific context in which we collect it. We may process your personal information because:
+
+We need to perform a contract with you, such as when you create a Policy with us.
+You have given us permission to do so.
+The processing is in our legitimate interests and it's not overridden by your rights.
+For payment processing purposes.
+To comply with the law.
+How do we protect visitor information?
+
+Our Service is scanned on a regular basis for security holes and known vulnerabilities in order to make your visit to our Service as safe as possible.
+
+Your personal information is contained behind secured networks and is only accessible by a limited number of persons who have special access rights to such systems, and are required to keep the information confidential. In addition, all sensitive/credit information you supply is encrypted via Secure Socket Layer (SSL) technology.
+
+We implement a variety of security measures when a user places an order enters, submits, or accesses their information to maintain the safety of your personal information.
+
+All transactions are processed through a gateway provider and are not stored or processed on our servers.
+
+Do we use 'cookies'?
+
+Yes. Cookies are small files that a site or its service provider transfers to your computer's hard drive through your Web browser (if you allow) that enables the site's or service provider's systems to recognize your browser and capture and remember certain information. For instance, we use cookies to help us understand your preferences based on previous or current Service activity, which enables us to provide you with improved services. We also use cookies to help us compile aggregate data about site traffic and site interaction so that we can offer better Service experiences and tools in the future.
+
+We use cookies to:
+
+Understand and save user's preferences for future visits.
+Keep track of advertisements.
+Compile aggregate data about site traffic and site interactions in order to offer better site experiences and tools in the future. We may also use trusted third party services that track this information on our behalf.
+
+You can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies. You do this through your browser (like Internet Explorer) settings. Each browser is a little different, so look at your browser's Help menu to learn the correct way to modify your cookies.
+
+If you disable cookies off, some features will be disabled. It won't affect the users experience that make your site experience more efficient and some of our services will not function properly.
+
+Data Controller Contact Information
+
+Data controller of the website is SIA Battika, reg. number 40003354915, Latvia, Riga, Matisa iela 61 - 33, LV-1009.
+
+Third Party Disclosure
+
+We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include website hosting partners and other parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others' rights, property, or safety.
+
+However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
+
+Transfer Of Your Personal Information
+
+Your information, including personal information, may be transferred to — and maintained on — computers located outside of your state, province, country or other governmental jurisdiction where the data protection laws may differ than those from your jurisdiction.
+
+We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this Privacy Policy and no transfer of your personal information will take place to an organization or a country unless there are adequate controls in place including the security of your data and other personal information. When personal information is to be transferred in a country that has not been designated by the European Commission as providing an adequate level of protection for personal information, we will ensure an adequate level of protection by any of the recognized methods, including but not limited to entry into the standard contractual clauses for the transfer of personal information to processors established in third countries approved by the European Commission from time to time.
+
+Disclosure Of Your Personal Information
+
+If we are involved in a merger, acquisition or asset sale, your personal information may be transferred. We will provide notice before your personal information is transferred and becomes subject to a different Privacy Policy.
+
+Under certain circumstances, we may be required to disclose your personal information if required to do so by law or in response to valid requests by public authorities (e.g. a court or a government agency), or it is necessary to detect, prevent and address fraud and other illegal activity, to protect ourselves, you and others, including as part of investigations.
+
+Retention of Your Personal Information
+
+We will retain your personal information only for as long as is necessary for the purposes set out in this Privacy Policy. We will retain and use your information to the extent necessary to comply with our legal obligations (for example, if we are required to retain your data to comply with applicable laws), resolve disputes, and enforce our legal agreements and policies.
+
+Children
+
+Our Service is not directed to individuals under 18. We do not knowingly collect personal information from children under 18. If we become aware that a child under 18 has provided us with personal information, we will take steps to delete such information. If you become aware that a child has provided us with personal information, please contact our customer support.
+
+Your Data Protection Rights
+
+You have certain data protection rights. In certain circumstances, you have the following data protection rights:
+
+The right to access, update or to delete the personal information we have on you
+The right of rectification
+The right to object
+The right of restriction
+The right to withdraw consent
+
+Please note that we may ask you to verify your identity before responding to such requests.
+
+Payments processors
+
+We provide paid products and/or services on our Website. In that case, we use third-party services for payment processing (e.g. payment processors).
+
+We will not store or collect your payment card details. That information is provided directly to our third-party payment processors whose use of your personal information is governed by their Privacy Policy. These payment processors adhere to the standards set by PCI-DSS as managed by the PCI Security Standards Council.
+
+uDates SMS Notifier Policy
+
+When you opt-in to the service, we will send you an SMS message to confirm your registration. This service is used to send you notifications about updates, alerts, information, promotions, specials, and other marketing offers.
+You can cancel the SMS service at any time. Just text "STOP" to the short code. After you send the SMS message "STOP" to us, we will send you an SMS message to confirm that you have been unsubscribed. After this, you will no longer receive SMS messages from us. If you want to join again, just sign up as you did the first time and we will start sending SMS messages to you again.
+If you are experiencing issues with the messaging program you can reply with the keyword HELP for more assistance, or you can get help directly at support@udates.io
+Carriers are not liable for delayed or undelivered messages
+As always, message and data rates may apply for any messages sent to you from us and to us from you. You will receive no more than 2 messages a week. If you have any questions about your text plan or data plan, it is best to contact your wireless provider.
+If you have any questions regarding privacy, please read our privacy policy: https://www.udates.io/policy/?mobile=true
+Contacting Us
+
+If there are any questions regarding this privacy policy you may contact us via email support@udates.io or by post.
+
+SIA Battika, reg. number 40003354915, Latvia, Riga, Matisa iela 61 - 33, LV-1009
+
+×

@@ -1,0 +1,1657 @@
+・
+THE POKÉMON COMPANY PRIVACY NOTICE FOR POKÉMON HOME（For users outside Asia）
+・
+AVIS SUR LA CONFIDENTIALITÉ DE THE POKÉMON COMPANY POUR POKÉMON HOME（Pour les utilisateurs hors Asie）
+・
+INFORMATIVA SULLA PRIVACY DI THE POKÉMON COMPANY RELATIVA A POKÉMON HOME（Per gli utenti al di fuori dei Paesi asiatici）
+・
+THE POKÉMON COMPANY DATENSCHUTZERKLÄRUNG FÜR POKÉMON HOME（Für Benutzer außerhalb Asiens）
+・
+POLÍTICA DE PRIVACIDAD DE THE POKÉMON COMPANY RELATIVA A POKÉMON HOME（Para usuarios fuera de Asia）
+・
+THE POKÉMON COMPANY关于Pokémon HOME的隐私声明（针对亚洲以外的用户）
+・
+THE POKÉMON COMPANY關於POKÉMON HOME的隱私權聲明（適用於居住在亞洲以外的用 戶）
+・
+Pokémon HOME Privacy Policy（For Users residing in Asia other than Japan/Korea）
+・
+Pokémon HOME相关隐私政策（针对居住在日本和韩国以外亚洲国家/地区的用户）
+・
+Pokémon HOME隱私權政策（適用於居住在日本和韓國以外亞洲國家/地區的用戶）
+・
+Pokémon HOME関するプライバシーポリシー（日本にお住まいのユーザー用）
+・
+Pokémon HOME 개인정보 처리방침（한국에 거주하는 유저용）
+
+
+
+
+
+THE POKÉMON COMPANY PRIVACY NOTICE FOR POKÉMON HOME
+For users outside Asia* (See the end of this notice for a list of countries/regions in Asia.)
+1. INTRODUCTION
+This privacy notice (Privacy Notice) sets out the ways in which we, The Pokémon Company, and its affiliates Pokémon Center Co., Ltd., The Pokémon Company International, Inc., and Pokémon Korea, Inc., collect and use your personal data (your personal information) in connection with Pokémon HOME (our App). It also explains what rights you have to access or change your personal data.
+2. ABOUT US
+2.1	The Pokémon Company is a company registered in Japan, with our address as set out below.
+2.2	You can contact us as follows:
+
+The Pokémon Company International, Inc.
+Attention: Pokémon HOME
+Address: 10400 NE 4th Street, Suite 2800
+              Bellevue, WA 98004 USA
+Email: privacyquestions@pokemon.com
+3. INFORMATION WE COLLECT ABOUT YOU
+3.1 Information that you provide to us.
+We don’t require personal information to use the App. If you choose not to disclose personal information, however, you will not be able to enjoy certain features of the App.
+
+3.1.1	We will collect any information that you provide to us when you:
+
+(a)	access certain features or functions in our App that require personal information;
+(b)	make an inquiry, provide feedback, or make a complaint via email or our customer support site; and
+(c)	submit correspondence to us via post, email, or our customer support site.
+
+3.1.2	The information you provide to us when you use our App will include (depending on the circumstances):
+
+(a)	Identity data. Country or region where you are located and date of birth; and
+(b)	Player profile data. You may also provide a username, transfer/backup ID (to let you transfer your profile data to a new device) and language preferences.
+
+
+NOTE: Do not use your real name, initials, or other customer-identifiable information in a username. This includes:
+・Any in-game ID, passwords, et cetera
+・Inquiry information
+3.2 Information we collect about you.
+(a)	Transactional data. We will collect information related to your purchase transactions through our App, including the date and time, the amounts charged, and other related transaction details;
+(b)	Information contained in correspondence. We will collect any information contained in any correspondence between us. For example, if you contact us for customer support, we keep a record of that correspondence;
+(c)	Technical data. We will also collect certain information about how you use our App and the device that you use to access our App, even where you have not created an account or logged in. This might include your geographical location, device information (such as your hardware model, operating system information, unique device identifiers, terminal identifier, advertisement identifier, terminal information, terminal setting information, et cetera), advertising ID (in apps that display advertising), unique player identifiers, such as a transfer/backup ID and key, player ID, player key, access key, the data transmitted by your browser (such as your IP address, time zone settings, access status / HTTP status code, language settings, and time zone settings referral source), information about your interactions with the App, including time- and date-stamped information such as page views, requests, number of sessions, number of downloads, users’ game progress, and gameplay-related data including game errors, in-app purchases, length of visit to the App, keystroke logs, and similar information. This information may be collected by a third-party analytics service provider on our behalf and/or may be collected using cookies or similar technologies. For more information on cookies, please read paragraph 7 below;
+(d)	App permissions. We may also request permission to access apps and certain features on your device. Our App may request access to GPS when you consent to our collecting geolocation data. We may also request access to your device’s camera features so you may add friends to the App, and microphone features to enable voice search where that audio may be sent to your device’s operating system provider (as required by the provider and governed by their privacy practices) in a way that does not identify you.
+4. HOW WE USE INFORMATION ABOUT YOU AND RECIPIENTS OF YOUR INFORMATION
+4.1	We will use your information for the purposes listed below either on the basis of:
+
+(a)	performance of your contract with us and the provision of our services to you;
+(b)	your consent (where we request it);
+(c)	our need to comply with a legal or regulatory obligation; or
+(d)	our legitimate interests.
+
+4.2	We use your information on the basis of the above (see paragraph 4.1) and for our legitimate business objectives, including for the following purposes:
+
+(a)	To provide access to our App. To provide you with access to our App in a manner convenient and optimal and with personalized content relevant to you and to allow you to have a record of your gameplay within the App;
+(b)	To allow you to access certain App features. To enable you to access features such as in-App purchases and gameplay;
+(c)	To enable you to play with other players. We will use the information you have provided (such as your username and language settings) to enable you to play with other players;
+(d)	To process and facilitate transactions between us. We will use your information to process transactions and payments, and to collect and recover money owed to us;
+(e)	User and customer support. To provide customer service and support, deal with inquiries or complaints about our App, and to share your information with our App developers, IT support provider, and payment services provider as necessary to provide customer support;
+(f)	To send push notifications. To send you push notifications about your use of our App, our news, events, new App features, products, or services that we believe may interest you, provided that we have the requisite permission to do so;
+(g)	Analysis. To use data analytics to improve our App, products/services, marketing, customer relationships, and experiences;
+(h)	Fraud and unlawful activity detection and prevention. To protect, investigate, and deter against fraudulent, unauthorized, or illegal activity, including identity fraud; to protect the rights and property of Pokémon, our agents, our customers, and others, including to enforce our terms, policies, rules, and agreements; to protect the safety and security of any person; and/or to protect the safety and security of Pokémon’s and our partners’ services, websites, and applications;
+(i)	Compliance with policies, procedures, and laws. To enable us to comply with our policies and procedures and to enforce our legal rights, or to share your information with our technical and legal advisors, and to comply with laws or respond to lawful requests and legal process, including, for example, complying with a court order or subpoena.
+
+4.3	If you are in the EU or the United Kingdom and have any concerns about our processing, please refer to details of “The Rights of Users in the EU or the United Kingdom” in paragraph 10 below.
+5. WHO WE MIGHT SHARE YOUR INFORMATION WITH
+5.1	In connection with the purposes and on the lawful grounds described above, we will share your personal information when relevant with third parties, such as:
+
+(a)	App users that you play. Other App users who you play with, who are based both inside and outside the EU or the United Kingdom;
+(b)	Our service providers. Third-party vendors, consultants, and other service providers who work for us and access your personal information to do that work;
+(c)	Other third-parties. Third-parties with your consent when you agree to share your information with other third parties in order to use their services with our App, subject to their separate privacy policies We will share your information with Niantic, Inc. in order to provide the services when you choose to connect your Nintendo Account to Pokémon GO ;
+(d)	Corporate affiliates. The Pokémon Center Co., Ltd., The Pokémon Company International, Inc., and Pokémon Korea, Inc., based in Japan, the UK, and USA, and South Korea;
+(e)	Prospective sellers and buyers of our business. In connection with or during negotiation of any merger, financing, acquisition, bankruptcy, dissolution, transaction, or proceeding involving sale, transfer, divestiture, or disclosure of all or a portion of our business or assets;
+(f)	Any other third parties (including professional advisers). Any other third parties (including legal or other advisors, regulatory authorities, courts, law enforcement agencies and government agencies) based in the UK, USA, Japan, and other countries/regions to enable us to enforce our legal rights, or to protect the rights, property, or safety of our employees, or where such disclosure may be permitted or required by law.
+6. USE OF INFORMATION COLLECTION MODULES FROM THIRD PARTIES
+We may use the Information Collection Module of a third party to investigate trends in the use of the App, effectively operate the App, prevent fraud, and advertise to customers. In this case, the following organizations may be provided with customer information for this purpose: Please also refer to the privacy notice set by the relevant company.
+[Advertising SDK] Metaps Co., Ltd. (Metapslinks)
+[Push Notifications] Google Inc. (Google Firebase)
+[Crash Data through Nintendo Switch] Nintendo Co., Ltd.
+7. COOKIES AND TRACKING
+7.1	We, and others, use cookies, web beacons, device IDs, and other tracking mechanisms to ensure that you get the most out of our App. Cookies are small amounts of information in the form of text files which we store on the device you use to access our App. Cookies and other tracking mechanisms, such as device IDs, allow us, and others, to monitor your use of the software, simplify your use of our App, and to help us and others associate the mobile devices you use, your activities across websites, and your browsers for advertising purposes.
+7.2	If you do not want cookies to be installed on your device, you can change the settings on your device to reject cookies. For more information about how to reject cookies using your settings, please visit http://www.aboutcookies.org. Please note that if you set your internet browser to reject cookies, you may not be able to access all of the functions of our App. Since certain opt-out preferences are also stored in a cookie on your device (such as opt-outs from advertising companies), please note that if you remove all cookies, you will need to renew your opt-out choices. Some internet browsers may transmit “Do Not Track” signals. Because uniform standards for “Do Not Track” signals have not been adopted, our App may not be aware of or process “Do Not Track” signals.
+7.3	Our website may contain content and links to other sites that are operated by third parties that may also operate cookies and other tracking mechanisms. We do not control these third-party sites or their tracking activities, and this Privacy Notice does not apply to them. Please consult the terms, conditions, and Privacy Notice of the relevant third-party site to find out how that site collects and uses your information and to establish whether and for what purpose it uses cookies.
+8. HOW WE LOOK AFTER YOUR INFORMATION AND HOW LONG WE KEEP IT FOR
+8.1	We use appropriate technological and operational security measures to protect your information against unauthorized access or unlawful use.
+8.2	We will retain your information for as long as is appropriate to provide you with the services that you have requested from us or for as long as we reasonably require to retain the information for our lawful business purposes, such as for legal compliance and enforcement purposes, and for resolving disputes. Actual retention periods depend on a variety of factors such as the type of product, the type and sensitivity of the data, business needs, customer expectations and needs, the types of available user controls, and the form in which the data is stored.
+9. INTERNATIONAL TRANSFERS OF YOUR INFORMATION
+9.1	Our company is located in Japan, and the personal information that we collect from you will predominantly be stored in France and Germany. This will involve a transfer of data outside the EEA or the United Kingdom.
+9.2	Whenever we transfer your personal data from inside the EEA or the United Kingdom to outside of the EEA or the United Kingdom, we ensure a similar degree of protection is afforded to it by ensuring at least one of the following transfer solutions is implemented:
+
+(a)	Where we use certain service providers, we may use specific contracts approved by the European Commission that give personal data the same protection it has in Europe. For further details, see European Commission: Model contracts for the transfer of personal data to third countries; and
+(b)	Where we use providers based in the USA, we may transfer data to them if they are part of the Privacy Shield, which requires them to provide similar protection to personal data shared between Europe and the USA. For further details, see European Commission: EU-US Privacy Shield.
+
+9.3	Please contact us using the contact details in paragraph 2 of this Privacy Notice if you want further information on the specific mechanism used by us when transferring your personal data out of the EEA or the United Kingdom.
+10. THE RIGHTS OF USERS IN THE EU OR THE UNITED KINGDOM
+10.1	If you are in the EU or the United Kingdom, you have certain rights with respect to the information that we hold about you, including:
+
+(a)	the right to be informed of the ways in which we use your information, as we seek to do in this Privacy Notice;
+(b)	the right to ask us not to process your personal data for marketing purposes;
+(c)	the right to request access to the information that we hold about you;
+(d)	the right to request that we correct or rectify any information that we hold about you which is out of date or incorrect;
+(e)	in certain circumstances, the right to ask us to stop processing information about you; and
+(f)	the right to lodge a complaint about us with the UK Information Commissioner’s Office (https://ico.org.uk/).
+
+Please note that we may need to retain certain information for our own record-keeping and research purposes. We may also need to send you service-related communications relating to your website user account even when you have requested not to receive marketing communications. There may be exceptions to these rights in certain circumstances, and where you cannot exercise a right due to an exception, we will provide that explanation.
+10.2	In accordance with new data protection laws that are in force from May 25, 2018, you have certain additional rights in respect to the information that we hold about you, including:
+
+(a)	in addition to your right to lodge a complaint about us with the UK Information Commissioner’s Office (https://ico.org.uk/), you are also able to lodge a complaint with the relevant authority in your country/region of work or residence;
+(b)	the right to withdraw your consent for our use of your information in reliance of your consent, which you can do by contacting us using any of the details in paragraph 2 of this Privacy Notice;
+(c)	the right to object to our using your information on the basis of our legitimate interests, and there is something about your particular situation which makes you want to object to processing on this ground;
+(d)	the right to receive a copy of any information we hold about you (or request that we transfer this to another service provider) in a structured, commonly used, machine-readable format, in certain circumstances; and
+(e)	the right to ask us to limit or cease processing or erase information we hold about you, in certain circumstances.
+
+10.3	You may exercise your rights above by contacting us using the details in paragraph 2 of this Privacy Notice; or to stop receiving push notifications, you can update your preferences in your device settings.
+11. THIRD-PARTY LINKS
+Our App may include links to third-party websites, plug-ins, and apps. Clicking on those links or enabling those connections may allow third parties to collect or share data about you. We do not control these third-party websites, plug-ins, and apps and are not responsible for their privacy statements. When you leave our website, we encourage you to read the privacy notice of every third party you visit.
+12. WHAT TYPES OF INFORMATION DO WE COLLECT ABOUT CHILDREN?
+12.1	If a user has indicated that they are a child when trying to use our App, we will direct the child to a different experience within our App that lets a child use our services much like any other user but that does not allow any additional personal information (as defined under COPPA) to be collected.
+12.2	We collect only a subset of the personal information above when a user identifies themselves as a child, including username and unique identifiers. Children can use our App, view content, and enjoy many features without collection of any personal information (as defined under COPPA) and where consent of the parent is required by law, we will request it.
+13. ADDITIONAL PRIVACY RIGHTS FOR CALIFORNIA RESIDENTS
+13.1	This section provides you with additional disclosures required under California law.
+13.2	If you are a California consumer whose personal information is collected through the App (“customer”), the California Consumer Privacy Act (“CCPA”) provides you with certain rights in respect to that personal information. In particular, you have a right to request that companies provide you with the following information:
+
+(a)	The categories and specific pieces of personal information we have collected about you;
+(b)	The categories or sources from which we collect personal information;
+(c)	The purposes for collecting and using personal information;
+(d)	The categories of third parties with which we share personal information;
+(e)	The categories of personal information disclosed about you for a business purpose.
+
+13.3	You also have a right to request that we delete personal information under certain circumstances, subject to a number of exceptions. Additionally, you have a right not to be discriminated against for exercising any of these rights.
+13.4	You may exercise your rights above by contacting us using the details in paragraph 2 of this Privacy Notice. If you submit a request, we will require you to verify your identity where, if feasible, we may match your identification information with personal information we have about you, depending on the type of request made and verification measures proportional to the risk of the personal information involved with the request(s). There is no reasonable method by which we can verify your identity to the degree of certainty required by law for certain pieces of personal information, for example: unique identifiers such as cookie IDs, device ID, and IP address (where that information is not held by us in connection with directly identifiable information). There may be exceptions to these rights in certain circumstances, and where you cannot exercise a right due to an exception, Pokémon will provide that information. Pokémon will use reasonable efforts to fulfil your request within the response times of the applicable laws.
+13.5	Pokémon does not sell your personal information as defined by the CCPA and has not done so in the past 12 months.
+13.6	In addition to the purpose in which your personal information is shared with other third parties (including professional advisers) in Section 5.1(e) and 6 above, sharing includes sharing for business purposes that require access to our systems that hold personal information (such as supplying cloud data storage, maintaining the security of our systems, and providing customer support). In the past 12 months, we have disclosed to vendors all of the categories of personal information described in Section 3.
+13.7	California Civil Code Section 1798.83 permits customers who are California residents to request certain information regarding disclosure of personal information to third parties for their own direct marketing purposes. We do not share our customers’ personal information with unaffiliated third parties for their own direct marketing purposes without your consent. For inquiries about our disclosure policy, please contact us using the details in paragraph 2.
+14. DATA PROTECTION OFFICER
+14.1	If you wish to contact our Data Protection Officer, please use the following details:
+
+(a)	The Pokémon Company
+(b)	Attention: Data Protection Officer
+(c)	Address: Roppongi Hills Mori Tower 8F
+
+(i)	6-10-1 Roppongi, Minato-ku
+(ii)	Tokyo 106-6108 Japan
+15. CHANGES TO THIS PRIVACY NOTICE AND YOUR DUTY TO INFORM US OF CHANGES
+We may amend this Privacy Notice at any time by changing the last updated date. If we make material changes to how we collect, use, or share your personal information, we will describe the changes, and, if required by law, seek your consent for such changes.
+It is important that the personal data we hold about you is accurate and current. Please keep us informed if your personal data changes during your relationship with us by updating your profile account information or contacting us via the contact details in paragraph 2 of this Privacy Notice.
+This Privacy Notice was updated on November 11,2020.
+*Asia
+Republic of India
+Republic of Indonesia
+Republic of Singapore
+Kingdom of Thailand
+Islamic Republic of Pakistan
+Republic of the Philippines
+Brunei Darussalam
+Malaysia
+Republic of Korea
+Hong Kong
+Macau
+Taiwan
+Japan
+
+
+
+AVIS SUR LA CONFIDENTIALITÉ DE THE POKÉMON COMPANY POUR POKÉMON HOME
+Pour les utilisateurs hors Asie* (voir la liste des pays/régions d’Asie au bas du présent Avis)
+1. INTRODUCTION
+Le présent Avis sur la confidentialité (Avis sur la confidentialité) indique comment nous, The Pokémon Company, ainsi que nos filiales Pokémon Center Co., Ltd., The Pokémon Company International, Inc. et Pokémon Korea, Inc. recueillons et utilisons vos données à caractère personnel (vos informations personnelles) dans le cadre de Pokémon HOME (notre Application). Ledit Avis explique également vos droits relatifs à l’accès ou à la modification de vos données à caractère personnel.
+2. À PROPOS DE NOUS
+2.1	The Pokémon Company est une société immatriculée au Japon, sise à l’adresse mentionnée ci-dessous.
+2.2	Vous pouvez nous contacter comme suit.
+
+The Pokémon Company International, Inc.
+À l’attention de : Pokémon HOME
+Adresse : 10400 NE 4th Street, Suite 2800
+              Bellevue, WA 98004 USA
+E-mail : privacyquestions@pokemon.com
+3. INFORMATIONS COLLECTÉES VOUS CONCERNANT
+3.1 Informations que vous nous communiquez
+L'utilisation de l'Application ne requiert pas d'informations personnelles. Toutefois, si vous choisissez de ne pas divulguer vos informations personnelles, vous ne pourrez pas profiter de certaines fonctionnalités de l'Application.
+
+3.1.1	Nous recueillerons toute information que vous nous communiquez lorsque vous :
+
+(a)	accédez à certaines fonctionnalités ou fonctions dans notre Application qui nécessitent des informations personnelles ;
+(b)	faites une demande, un commentaire ou émettez une réclamation par e-mail ou sur notre site d’assistance client ;
+(c)	communiquez avec nous par voie postale, par e-mail ou sur le site de notre service client.
+
+3.1.2	Les informations que vous nous donnez lorsque vous utilisez notre Application comprendront (selon les circonstances) les données suivantes :
+
+(a)	les données relatives à votre identité, à savoir le pays ou la région où vous vous trouvez et votre date de naissance ; et
+(b)	les données de profil de joueur, à savoir un surnom, votre ID de transfert/sauvegarde (pour transférer vos données de profil vers un nouvel appareil) et votre choix de langue.
+
+
+REMARQUE : n'utilisez pas votre vrai nom, vos initiales ou d'autres informations permettant de vous identifier personnellement avec un surnom. Ces informations comprennent :
+・un ID dans le jeu, des mots de passe, etc. ;
+・des informations de demande.
+3.2 Informations collectées vous concernant
+(a)	Données relatives à des transactions : nous recueillerons les informations liées à vos transactions d’achat sur notre Application, notamment la date et l’heure d’achat, les montants facturés, ainsi que tous les autres détails liés aux transactions.
+(b)	Informations contenues dans une correspondance : nous recueillerons toutes les informations contenues dans toute correspondance échangée avec nous. Par exemple, si vous contactez le service client, nous conservons un enregistrement de cette correspondance.
+(c)	Données techniques : nous recueillerons également certaines informations sur votre manière d’utiliser notre Application ainsi que sur l’appareil utilisé pour y accéder, même si vous n’avez pas créé de compte ou si vous n’êtes pas connecté. Ces données peuvent inclure votre position géographique, des informations concernant votre appareil (modèle, système d’exploitation utilisé, identifiant unique, identifiant de terminal, identifiant publicitaire, informations relatives au terminal, informations sur la configuration du terminal, etc.), l'identifiant publicitaire (pour les applis affichant de la publicité), les identifiants uniques de joueur tels que l’identifiant et la clé de transfert/sauvegarde, l'identifiant du joueur, la clé du joueur, la clé d’accès, les données transmises par votre navigateur (tel que votre adresse IP, le réglage du fuseau horaire, le code de statut d’accès/HTTP, les paramètres de langue et la source de référence du réglage de fuseau horaire), les informations concernant vos interactions avec l'Application comprenant des informations horodatées telles que les pages visitées, les demandes, le nombre de sessions, le nombre de téléchargements, la progression dans le jeu et les données liées au jeu comme les erreurs, les achats dans le jeu, la durée des visites sur l'Application, les journaux de pression de touche, ainsi que toutes les informations similaires. Ces informations peuvent être recueillies en notre nom par un fournisseur de service d’analyse tiers et/ou à l’aide de cookies ou de technologies similaires. Pour de plus amples informations sur les cookies, veuillez consulter le paragraphe 7 ci-dessous.
+(d)	Permissions de l’Application : Nous pouvons également demander la permission d’accéder à certaines applications et fonctionnalités de votre appareil. Avec votre accord, notre Application peut demander l’accès au GPS afin de recueillir des données de géolocalisation. Nous pouvons également demander l'accès aux fonctionnalités de photo de votre appareil pour ajouter des amis dans l'Application, mais aussi de microphone pour activer la recherche vocale, ces informations audio pouvant être envoyées au fournisseur de système d'exploitation de votre appareil (comme l'exige le fournisseur et conformément à ses pratiques relatives à la confidentialité) de telle sorte qu'il serait impossible de vous identifier.
+4. COMMENT NOUS ET LES DESTINATAIRES DE VOS INFORMATIONS LES UTILISONS
+4.1	Nous utiliserons vos informations aux fins énumérées ci-après, sur la base de :
+
+(a)	l’exécution du contrat passé avec nous et la prestation de services auprès de vous ;
+(b)	votre consentement (quand nous le demandons) ;
+(c)	la nécessité de nous conformer aux obligations légales ou réglementaires ; ou
+(d)	nos intérêts légitimes.
+
+4.2	Nous utilisons vos informations sur la base de ce qui est décrit ci-dessus (voir paragraphe 4.1) et pour nos objectifs commerciaux légitimes, y compris pour les fins suivantes :
+
+(a)	Pour vous donner accès à notre Application : pour vous donner accès à notre Application de manière appropriée et optimisée, avec du contenu personnalisé vous correspondant et vous permettant d’avoir un enregistrement de votre partie dans notre Application.
+(b)	Pour vous permettre d’accéder à certaines fonctionnalités de l’Application : pour vous permettre d’accéder aux fonctionnalités telles que les achats intégrés à l’Application et le jeu.
+(c)	Pour vous permettre de jouer avec d’autres joueurs : pour vous permettre de jouer avec d’autres joueurs, certaines informations (telles que votre nom d’utilisateur et vos paramètres de langue) seront partagées.
+(d)	Pour traiter et faciliter les transactions effectuées avec nous : pour traiter les transactions et les paiements, pour recueillir et récupérer l’argent que vous nous devez.
+(e)	Service utilisateur et client : pour offrir un service et une assistance client, traiter les demandes et les réclamations concernant notre Application et pour partager vos informations avec les développeurs de notre Application, les prestataires d’assistance informatique et les fournisseurs de services de paiements si nécessaire, afin d’apporter une assistance client.
+(f)	Pour envoyer des notifications push : pour vous envoyer des notifications push concernant l’utilisation de notre Application, nos nouveautés, les évènements, les nouvelles fonctionnalités de l’Application, les produits ou les services qui, selon nous, pourraient vous intéresser, sous réserve d’avoir l’autorisation requise pour le faire.
+(g)	Analyse : pour utiliser des analyses de données afin d’améliorer notre Application, les produits/services, le marketing, les relations clients et les expériences.
+(h)	Détection et prévention d’activité frauduleuse et illégale : pour protéger, enquêter et prévenir les activités frauduleuses, non autorisées ou illégales, comprenant l’usurpation d’identité ; pour protéger les droits et la propriété de Pokémon, nos mandataires, nos clients et d’autres personnes, y compris pour appliquer nos conditions, politiques, règles et accords ; pour protéger la sécurité et la sûreté de toute personne ; et/ou pour protéger la sécurité et la sûreté des services, sites Internet et applications de Pokémon et de nos partenaires.
+(i)	La conformité avec nos politiques, procédures et lois : pour nous permettre d’être conformes avec nos politiques et procédures et pour faire respecter nos droits légaux, ou pour partager vos informations avec nos conseillers techniques et juridiques, et pour nous conformer aux lois ou pour répondre à une demande faite en vertu de la loi et de procédures juridiques, y compris, par exemple, pour nous conformer à une ordonnance d’un tribunal ou une assignation à comparaître.
+
+4.3	Si vous résidez au sein de l'UE ou au Royaume-Uni et avez des préoccupations concernant notre manière de procéder, veuillez vous référer aux détails de la section "Droits des utilisateurs de l'UE ou du Royaume-Uni" du paragraphe 10 ci-dessous.
+5. AVEC QUI NOUS POURRIONS PARTAGER VOS INFORMATIONS
+5.1	Dans le cadre des finalités et des bases légales décrites ci-dessus, nous partagerons vos informations personnelles (lorsqu’elles sont pertinentes) avec des tiers, comme indiqué ci-dessous.
+
+(a)	Les utilisateurs de l’Application avec lesquels vous jouez : les autres utilisateurs de l’Application avec qui vous jouez, qu’ils se trouvent dans ou en dehors de l’Union européenne ou du Royaume-Uni.
+(b)	Nos fournisseurs de service : Les fournisseurs tiers, les consultants et tous les autres fournisseurs de service travaillant avec nous et ayant accès à vos informations personnelles pour faire leur travail.
+(c)	Tiers : Les tiers avec lesquels vous consentez de partager vos informations pour utiliser leurs services avec notre Application, en accord avec leurs propres avis sur la confidentialité. Nous partagerons vos informations avec Niantic, Inc. afin d’offrir les services quand vous choisissez de connecter votre compte Nintendo à Pokémon GO.
+(d)	Sociétés affiliées : The Pokémon Center Co., Ltd., The Pokémon Company International, Inc. et Pokémon Korea, Inc., basées au Japon, au Royaume-Uni, aux États-Unis et en Corée du Sud.
+(e)	Vendeurs et acheteurs potentiels dans le cadre de nos activités : en liaison avec ou pendant une négociation lors d’une fusion, d’un financement, d’une acquisition, d'une faillite, d’une dissolution, d’une transaction ou lors d’un processus comprenant une vente, un transfert, une cession ou la divulgation dans leur totalité ou en partie de nos activités ou actifs.
+(f)	Autres tiers (y compris les conseillers professionnels) : tous les autres tiers (y compris les conseillers juridiques ou autres, les autorités réglementaires, les tribunaux, les organismes chargés de faire respecter la loi et les agences gouvernementales) basés au Royaume-Uni, aux États-Unis d’Amérique, au Japon et dans les autres pays/régions pour nous permettre de faire respecter nos droits, ou pour protéger les droits, les biens ou la sécurité de nos employés, ou lorsqu'une telle divulgation serait permise ou exigée par la loi.
+6. UTILISATION DE MODULES TIERS DE COLLECTE D'INFORMATIONS
+Il se peut que nous utilisions le module de collecte d'informations d'un tiers pour étudier des tendances relatives à l'utilisation de notre Application, faire fonctionner de manière efficace notre Application, éviter les fraudes et proposer de la publicité aux clients. Le cas échéant, les organisations suivantes peuvent recevoir les informations des clients à cette fin : veuillez également vous rapporter à l'avis sur la confidentialité de la société en question.
+[Advertising SDK] Metaps, Inc. (MetapsLinks)
+[Push Notifications] Google LLC (Google Firebase)
+[Crash Data through Nintendo Switch] Nintendo Co., Ltd.
+7. COOKIES ET SUIVI
+7.1	Nous (et les autres) utilisons des cookies, des balises Web, des identifiants d’appareil, et d’autres mécanismes de suivi pour nous assurer que vous exploitez au mieux notre Application. Les cookies sont des petits fichiers d’informations sous forme de texte que nous stockons sur l’appareil que vous utilisez pour accéder à notre Application. Les cookies et les autres mécanismes de traçage tels que les identifiants d’appareil nous permettent, ainsi qu’à d’autres, de surveiller votre utilisation du logiciel, de simplifier votre utilisation de notre Application et nous aident (ainsi que d’autres) à associer à des fins publicitaires vos activités sur les sites Internet, les navigateurs et les appareils mobiles que vous utilisez.
+7.2	Si vous ne voulez pas que des cookies soient installés sur votre appareil, vous pouvez modifier ses paramètres pour rejeter les cookies. Pour plus d’informations sur la manière de refuser les cookies à l’aide de vos paramètres, veuillez consulter le site http://www.aboutcookies.org. Veuillez noter que si vous paramétrez votre navigateur pour refuser les cookies, il se peut que vous ne soyez pas en mesure d’accéder à la totalité des fonctions de notre Application. Dans la mesure où certaines préférences en matière d'option de retrait sont également stockées dans un cookie au sein de votre appareil (comme, par exemple, l'option de retrait concernant les agences de publicité), veuillez noter que si vous effacez tous les cookies, vous devrez renouveler vos options de retrait. Certains navigateurs peuvent transmettre des signaux "Do Not Track" (Ne pas suivre). Comme aucune norme uniforme concernant les signaux "Do Not Track" n’a été adoptée, notre Application peut ne pas détecter ou ne pas traiter ces signaux.
+7.3	Notre site Internet peut contenir du contenu et des liens vers d’autres sites qui sont exploités par des tiers pouvant aussi utiliser des cookies et d’autres mécanismes de suivi. Nous ne contrôlons pas ces sites tiers ou leurs activités de suivi, et le présent Avis sur la confidentialité ne leur est pas applicable. Veuillez consulter les conditions générales ainsi que l'Avis sur la confidentialité du site tiers correspondant pour savoir comment celui-ci collecte et utilise vos informations, et pour déterminer si et à quelles fins il utilise des cookies.
+8. COMMENT NOUS PRENONS EN CHARGE VOS INFORMATIONS ET COMBIEN DE TEMPS NOUS LES CONSERVONS
+8.1	Nous utilisons des mesures de sécurité technologiques et opérationnelles adaptées pour protéger vos informations contre un accès non autorisé ou une utilisation illégale.
+8.2	Nous conserverons vos informations aussi longtemps que nécessaire pour vous offrir les services que vous nous avez demandés ou aussi longtemps que nous exigeons raisonnable de conserver les informations à des fins légitimes, telles que la conformité juridique ou à des fins d’exécution, et pour les résolutions de litiges. Les périodes de conservation effectives dépendent de nombreux facteurs, tels que le type de produit, le type et la sensibilité des données, les besoins commerciaux, les attentes et besoins du client, les types de contrôles utilisateur disponibles, ainsi que la forme sous laquelle les données sont stockées.
+9. TRANSFERTS INTERNATIONAUX DE VOS INFORMATIONS
+9.1	Notre société est sise au Japon et les informations que nous recueillons de votre part seront stockées principalement en France et en Allemagne. Cela impliquera un transfert de données en dehors de l’EEE ou du Royaume-Uni.
+9.2	Chaque fois que nous transférons vos données à caractère personnel de l’intérieur vers l’extérieur de l’EEE ou du Royaume-Uni vers un pays n’étant pas considéré par la Commission européenne comme ayant un niveau de protection des données adéquat, nous nous assurons qu’un niveau similaire de protection soit mis en œuvre en garantissant qu’au moins une des solutions suivantes de transfert soit utilisée.
+
+(a)	Lorsque nous recourons à certains prestataires de services, nous pouvons utiliser des contrats spécifiques approuvés par la Commission Européenne qui offrent aux données à caractère personnel la même protection qu’elles ont en Europe. Pour de plus amples renseignements, consultez Commission européenne : les clauses contractuelles types pour le transfert de données à caractère personnel vers des sous-traitants établis dans des pays tiers.
+(b)	Lorsque nous recourons à des fournisseurs situés aux États-Unis, nous pouvons leur transférer les données s’ils font partie du Privacy Shield (bouclier de protection), qui exige qu’ils fournissent une protection similaire aux données à caractère personnel partagées entre l’Europe et les États-Unis. Pour de plus amples renseignements, consultez Commission européenne : Privacy Shield UE-États-Unis.
+
+9.3	N'hésitez pas à nous contacter aux coordonnées se trouvant en haut du présent Avis sur la confidentialité si vous souhaitez obtenir davantage d'informations sur le mécanisme spécifique que nous utilisons en cas de transfert de vos données à caractère personnel en dehors de l'EEE ou du Royaume-Uni.
+10. DROITS DES UTILISATEURS DE L'UE OU DU ROYAUME-UNI
+10.1	Si vous vous trouvez dans l'UE ou au Royaume-Uni, vous disposez de certains droits concernant les informations que nous avons sur vous, tels que :
+
+(a)	le droit d’être informé sur les façons dont nous utilisons vos informations, comme nous cherchons à le faire dans le présent Avis sur la confidentialité ;
+(b)	le droit de nous demander de ne pas traiter vos données à caractère personnel à des fins commerciales ;
+(c)	le droit de demander à accéder aux informations dont nous disposons vous concernant ;
+(d)	le droit de nous demander de corriger ou rectifier les informations que nous avons sur vous, qu’elles soient obsolètes ou incorrectes ;
+(e)	dans certains cas, le droit de nous demander d’arrêter le traitement des informations vous concernant ; et
+(f)	le droit de porter plainte contre nous au Bureau du commissaire à l’information du Royaume-Uni (https://ico.org.uk/).
+
+Veuillez noter que nous sommes susceptibles de conserver certaines informations pour notre propre archivage et à des fins de recherche. Il se peut également que nous devions vous envoyer des communiqués relatifs au service par rapport à votre compte utilisateur sur le site Internet, même si vous avez demandé à ne pas recevoir de communications marketing. Dans certains cas, lorsqu’il existe des exceptions à ces droits, et lorsque vous ne pouvez pas exercer un droit à cause d’une exception, nous vous fournirons cette explication.
+10.2	Conformément aux nouvelles lois sur la protection des données en vigueur depuis le 25 mai 2018, vous disposez de certains droits supplémentaires quant aux informations dont nous disposons vous concernant, notamment :
+
+(a)	outre le droit de présenter à notre encontre une réclamation auprès du Bureau du commissaire à l’information du Royaume-Uni (https://ico.org.uk/), vous pouvez également présenter une réclamation auprès des autorités compétentes dans le pays/la région où vous travaillez ou votre pays/région de résidence ;
+(b)	le droit de retirer votre accord concernant l’utilisation de vos informations lié à votre consentement, ce que vous pouvez faire en nous contactant grâce aux coordonnées situées en haut du présent Avis sur la confidentialité ;
+(c)	le droit de refuser que nous utilisions vos informations sur la base de nos intérêts légitimes et si votre situation particulière vous incite à refuser que nous traitions lesdites informations pour ledit motif ;
+(d)	le droit de recevoir une copie des informations dont nous disposons vous concernant (ou de demander à ce que nous les transférions à un autre fournisseur de service) dans un format structuré, généralement utilisé et exploitable par une machine et dans certaines circonstances ; et
+(e)	le droit de nous demander de limiter ou d'arrêter le traitement ou encore d'effacer les informations dont nous disposons vous concernant, dans certains circonstances.
+
+10.3	Vous pouvez exercer les droits susmentionnés en invoquant les dispositions du paragraphe 2 du présent Avis sur la confidentialité ; ou pour cesser de recevoir des notifications push, vous pouvez mettre à jour vos préférences dans les paramètres de votre appareil.
+11. LIENS VERS DES TIERS
+Notre Application comprend des liens vers des sites Internet, plug-ins et applications tierces. En cliquant sur ces liens ou en activant ces connexions, vous pouvez également autoriser lesdits tiers à recueillir ou à partager des données vous concernant. Nous n'avons aucun contrôle sur lesdits sites Internet, plug-ins et applications tierces et nous ne sommes pas responsables de leurs déclarations de confidentialité. Lorsque vous quittez notre site Internet, nous vous encourageons à consulter l'avis sur la confidentialité de chaque élément tiers auquel vous accédez.
+12. QUELS TYPES D'INFORMATIONS RECUEILLONS-NOUS CONCERNANT LES ENFANTS ?
+12.1	Si un utilisateur indique qu’il est un enfant lors d’une tentative d’utilisation de notre Application, nous le dirigerons vers une expérience différente dans notre Application qui le laissera utiliser nos services comme n’importe quel autre utilisateur mais qui n’autorisera pas la collecte de données à caractère personnel supplémentaires (tel que défini dans la loi COPPA, relative à la protection de la vie privée des enfants sur Internet).
+12.2	Nous collectons seulement un sous-ensemble des données à caractère personnel énumérées ci-dessus quand un utilisateur s’identifie comme étant un enfant, y compris pour le nom d’utilisateur et l’identifiant unique. Les enfants peuvent utiliser notre Application, consulter notre contenu et profiter de nombreuses fonctionnalités sans que des informations à caractère personnel ne soient recueillies (tel que défini dans la loi COPPA). Si le consentement des parents est exigé par la loi, nous le demanderons.
+13. DROITS SUPPLÉMENTAIRES À LA CONFIDENTIALITÉ POUR LES RÉSIDENTS CALIFORNIENS
+13.1	La présente section vous fournit des informations supplémentaires en vertu de la Loi californienne.
+13.2	Si vous êtes un client de l'État de Californie dont les informations à caractère personnel sont recueillies via l'Application (« client »), la loi California Consumer Privacy Act (loi « CCPA ») vous octroie certains droits par rapport aux informations à caractère personnel. Plus particulièrement, vous disposez du droit de demander à ce que les sociétés vous donnent les informations suivantes :
+
+(a)	les catégories et éléments spécifiques d'informations à caractère personnel recueillies vous concernant ;
+(b)	les catégories ou sources à partir desquelles nous avons recueilli les informations à caractère personnel ;
+(c)	les fins de collecte et d'utilisation des informations à caractère personnel ;
+(d)	les catégories de tiers avec lesquels nous partageons les informations à caractère personnel ;
+(e)	les catégories d'informations à caractère personnel vous concernant divulguées à des fins commerciales.
+
+13.3	Vous avez également le droit de demander à ce que nous supprimions les informations à caractère personnel sous certaines conditions, avec toutefois certaines exceptions. De plus, vous avez le droit de ne pas subir de discrimination suite à l'exercice desdits droits.
+13.4	Vous pouvez exercer les droits susmentionnés en nous contactant grâce aux coordonnées indiquées dans le paragraphe 2 du présent Avis sur la confidentialité. Si vous envoyez une requête, nous vous demanderons de confirmer votre identité, ce qui implique, dans la mesure du possible, de faire correspondre vos informations d'identification avec les informations à caractère personnel dont nous disposons vous concernant, suivant le type de requête effectuée et les mesures de vérification proportionnelles à la sensibilité des informations à caractère personnel impliquées dans la ou les requêtes. Il n'existe aucun moyen raisonnable de vérifier votre identité au degré de certitude exigé par la loi pour certains éléments d'information à caractère personnel, comme des identifiants uniques tels que des identifiants de cookie, l'identifiant d'appareil et l'adresse IP (ces informations n'étant pas détenues par nous en lien avec les informations directement identifiables). Des exceptions à ces droits sont susceptibles d'exister dans certaines circonstances et lorsqu'il sera impossible d'exercer vos droits, Pokémon vous fournira ces informations. Pokémon mettra en œuvre des efforts raisonnables pour accéder à votre demande dans les délais de réponse prévus par les lois applicables.
+13.5	Pokémon ne vend pas vos informations à caractère personnel, comme défini dans la loi CCPA, et ne l'a pas fait au cours des 12 derniers mois.
+13.6	Outre les fins auxquelles vos informations à caractère personnel sont partagées avec d'autres tiers (y compris des conseillers professionnels), décrites dans les sections 5.1(e) et 6 ci-dessus, il faut compter le partage à des fins commerciales nécessitant l'accès à nos systèmes sur lesquels se trouvent vos informations à caractère personnel (fourniture d'un stockage de données cloud, entretien de la sécurité de nos systèmes et assurance de l'assistance client). Au cours des 12 derniers mois, nous avons divulgué à des prestataires toutes les catégories d'informations à caractère personnel décrites dans la section 3.
+13.7	Le paragraphe 1798.83 du Code civil californien permet aux clients résidant en Californie de demander certaines informations concernant la divulgation d'informations à caractère personnel à des tiers à des fins de marketing direct qui leurs sont propres. Nous ne partageons pas les informations à caractère personnel de nos clients avec des tiers non affiliés pour leurs propres fins de marketing direct sans votre consentement. Pour toute question concernant notre politique de divulgation, veuillez nous contacter à l'aide des coordonnées indiquées dans le paragraphe 2.
+14. DÉLÉGUÉ À LA PROTECTION DES DONNÉES
+14.1	Si vous souhaitez contacter notre Délégué à la protection des données, veuillez utiliser les coordonnées suivantes :
+
+(a)	The Pokémon Company
+(b)	À l’attention de : Délégué à la protection des données
+(c)	Adresse : Roppongi Hills Mori Tower 8F
+
+(i)	6-10-1 Roppongi, Minato-ku
+(ii)	Tokyo 106-6108 Japan
+15. MODIFICATIONS DU PRÉSENT AVIS SUR LA CONFIDENTIALITÉ ET VOTRE DEVOIR DE NOUS INFORMER EN CAS DE MODIFICATIONS
+Nous pouvons à tout moment modifier le présent Avis sur la confidentialité en modifiant la dernière date de mise à jour. Si nous apportons des modifications substantielles sur la façon dont nous recueillons, utilisons ou partageons vos données à caractère personnel, nous donnerons une description de ces modifications et, si la loi l’exige, nous demanderons votre accord pour de telles modifications.
+Il est important que les données à caractère personnel que nous avons sur vous soient précises et à jour. Veuillez nous informer des modifications de vos données à caractère personnel au cours de notre relation contractuelle en mettant à jour les informations de votre compte de profil ou en nous contactant par le biais des coordonnées situées au début du présent Avis sur la confidentialité. Le présent Avis sur la confidentialité prend effet à partir du 11 novembre 2020.
+*Asie
+République d’Inde
+République d’Indonésie
+République de Singapour
+Royaume de Thaïlande
+République Islamique du Pakistan
+République des Philippines
+Brunei Darussalam
+Malaisie
+República de Corea
+Hong Kong
+Macao
+Taïwan
+Japon
+
+
+
+INFORMATIVA SULLA PRIVACY DI THE POKÉMON COMPANY RELATIVA A POKÉMON HOME
+Per gli utenti al di fuori dei Paesi asiatici* (per la lista dei Paesi asiatici/delle regioni asiatiche si rimanda all'elenco al termine della presente informativa)
+1. INTRODUZIONE
+La presente informativa sulla privacy (Informativa sulla privacy) definisce le modalità con le quali noi, The Pokémon Company, e le società controllate Pokémon Center Co., Ltd., The Pokémon Company International, Inc., e Pokémon Korea, Inc., raccogliamo e utilizziamo i vostri dati personali (le vostre informazioni personali) con riferimento a Pokémon HOME (la nostra App). L'Informativa sulla privacy illustra, inoltre, i vostri diritti riguardo all'accesso o alla modifica dei vostri dati personali.
+2. CHI SIAMO
+2.1	The Pokémon Company è una società costituita in Giappone con indirizzo come di seguito indicato.
+2.2	Potete contattarci al seguente recapito.
+
+The Pokémon Company International, Inc.
+Alla cortese attenzione di: Pokémon HOME
+Indirizzo: 10400 NE 4th Street, Suite 2800
+              Bellevue, WA 98004 USA
+E-mail: privacyquestions@pokemon.com
+3. INFORMAZIONI CHE RACCOGLIAMO SU DI VOI
+3.1 Informazioni che ci fornite.
+Non richiediamo informazioni personali per usare l’App. Se scegliete di non divulgare informazioni personali, tuttavia, non potrete accedere a determinate funzionalità della nostra App.
+
+3.1.1	Raccoglieremo tutte le informazioni che ci fornite quando:
+
+(a)	accedete a determinate funzionalità o funzioni nella nostra App, che richiedono informazioni personali;
+(b)	inoltrate una richiesta, fornite un feedback o presentate un reclamo tramite e-mail o tramite il nostro sito di assistenza clienti; e
+(c)	ci inviate corrispondenza tramite posta, e-mail o il sito dell’assistenza clienti.
+
+3.1.2	Le informazioni che ci fornite quando utilizzate la nostra App comprendono (a seconda delle circostanze):
+
+(a)	Dati di identità. Paese o regione in cui risiedete e data di nascita; e
+(b)	Dati del profilo giocatore. Potete anche fornire un nome utente, un ID di trasferimento/backup (per poter trasferire i vostri dati profilo a un nuovo dispositivo) e le preferenze sulla lingua.
+
+
+NOTA: Non utilizzate il vostro nome reale, le vostre iniziali o altre informazioni identificative dell’utente in un nome utente. Ciò riguarda:
+・qualsiasi ID di gioco, password, etc.
+・informazioni per richieste inoltrateci
+3.2 Informazioni che raccogliamo su di voi.
+(a)	Dati della transazione Raccoglieremo informazioni relative alle vostre operazioni di acquisto effettuate tramite la nostra App, quali la data e l'ora, gli importi addebitati e altri dettagli relativi alla transazione;
+(b)	Informazioni contenute nella corrispondenza. Raccoglieremo tutte le informazioni contenute in qualsiasi scambio di corrispondenza intercorso tra di noi. A titolo esemplificativo, qualora ci contattiate per ricevere assistenza, terremo traccia di tale corrispondenza;
+(c)	Dati tecnici. Inoltre, raccoglieremo determinate informazioni riguardo alle modalità con le quali utilizzate la nostra App e al dispositivo che utilizzate per accedervi, anche nel caso in cui non abbiate creato un account o effettuato l'accesso. Tali informazioni possono includere la vostra posizione geografica, informazioni sul dispositivo (quali il modello di hardware, informazioni sul sistema operativo, identificativi univoci del dispositivo, identificativo del terminale, identificativo pubblicitario, informazioni sul terminale, impostazioni del terminale, etc.), ID pubblicitari (in app che mostrano pubblicità), identificativi univoci del giocatore, quali ID e codice di trasferimento/backup, ID giocatore, codice giocatore, codice di accesso, i dati trasmessi dal vostro browser (quali il vostro indirizzo IP, le impostazioni di fuso orario, il codice di stato di accesso/stato HTTP, le impostazioni della lingua e il sito di rinvio delle impostazioni di fuso orario), informazioni sulle vostre interazioni con la nostra App, comprese le informazioni con indicazione di ora e data, quali visualizzazioni di pagine, richieste, numero di sessioni, numero di download, progressi di gioco degli utenti e dati relativi alla partita, compresi errori di gioco, acquisti all'interno dell'App, durata della visita nella nostra App, cronologia di pressione dei tasti e informazioni simili. Tali informazioni possono essere raccolte da provider di servizi analitici terzi per nostro conto e/o possono essere raccolte tramite utilizzo di cookie o tecnologie simili. Per ulteriori informazioni sui cookie, si prega di leggere il paragrafo 7 di seguito.
+(d)	Autorizzazioni delle App. Possiamo inoltre richiedere l'autorizzazione ad accedere ad app e ad alcune funzionalità del vostro dispositivo. La nostra App può richiedere l'accesso al GPS nel momento in cui acconsentite alla raccolta da parte nostra dei dati di geolocalizzazione. Possiamo anche richiedere l'accesso alle funzioni della fotocamera del dispositivo in modo che possiate aggiungere amici all'App e funzioni del microfono per consentire la ricerca vocale, dove l'audio può essere inviato al fornitore del sistema operativo del vostro dispositivo (come richiesto dal fornitore e regolato dalle loro pratiche sulla privacy) in modo tale da non identificarvi.
+4. COME UTILIZZIAMO LE INFORMAZIONI SU DI VOI E I DESTINATARI DELLE VOSTRE INFORMAZIONI
+4.1	Utilizzeremo le vostre informazioni per le finalità elencate di seguito:
+
+(a)	per dare esecuzione al contratto stipulato con noi e per fornirvi i nostri servizi;
+(b)	sulla base del vostro consenso (ove da noi richiesto);
+(c)	qualora dovessimo adempiere a un obbligo di legge o normativo; oppure
+(d)	sulla base dei nostri legittimi interessi.
+
+4.2	Utilizziamo le vostre informazioni sulla base di quanto sopra espresso (v. paragrafo 4.1) e per il conseguimento dei nostri legittimi obiettivi commerciali che comprendono le seguenti finalità:
+
+(a)	Consentire l'accesso alla nostra App. Consentirvi di accedere alla nostra App in modo agevole e ottimale, fornirvi contenuti personalizzati e permettervi di salvare i dati della vostra partita all'interno della nostra App;
+(b)	Permettervi di accedere ad alcune funzionalità dell'App. Per consentirvi di accedere a funzionalità quali gli acquisti all'interno dell'App e le partite;
+(c)	Consentirvi di giocare con altri giocatori. Per consentirvi di giocare con altri giocatori, utilizzeremo alcune informazioni che ci avete fornito (quali nome utente e impostazioni della lingua);
+(d)	Elaborare e facilitare le transazioni tra voi e noi. Utilizzeremo le vostre informazioni per elaborare le transazioni e i pagamenti e riscuotere e recuperare somme a noi dovute;
+(e)	Fornire assistenza agli utenti e ai clienti. Per fornire assistenza ai clienti, gestire richieste o reclami riguardo alla nostra App e condividere le vostre informazioni con gli sviluppatori della nostra App, i nostri fornitori di assistenza informatica e i nostri fornitori di servizi di pagamento nella misura necessaria a fornire assistenza al cliente;
+(f)	Inviare notifiche push. Per inviarvi notifiche push sul vostro utilizzo della nostra App, sulle nostre novità, sugli eventi, su nuove funzionalità, prodotti o servizi dell'App che riteniamo possano essere di vostro interesse, purché disponiamo della necessaria autorizzazione in tal senso;
+(g)	Effettuare analisi. Per utilizzare l'analisi dei dati al fine di migliorare la nostra App, i prodotti/servizi, il marketing, le relazioni con i clienti e la loro esperienza;
+(h)	Individuare e prevenire frodi e attività illecite. Per fornire tutela da, indagare e scoraggiare pratiche fraudolente, non autorizzate o illecite, compreso il furto di identità; per tutelare i diritti e la proprietà di Pokémon, dei nostri agenti, dei nostri clienti e dei terzi e per far rispettare i nostri termini, le nostre politiche, le nostre norme e i nostri contratti; per tutelare l'incolumità e la sicurezza di qualsiasi persona; e/o per tutelare l'incolumità e la sicurezza dei servizi, dei siti web e delle applicazioni di Pokémon e dei suoi partner; e
+(i)	Rispettare le policy, le procedure e le leggi. Per consentirci di rispettare le nostre policy e procedure e far valere i nostri diritti legali o per condividere le vostre informazioni con i nostri consulenti tecnici e legali e per rispettare leggi o rispondere a richieste legittime o adempiere a provvedimenti giudiziari quali, a titolo esemplificativo, ordinanze di tribunali o mandati di comparizione.
+
+4.3	Se siete residenti nell'UE o nel Regno Unito e avete dubbi in merito al trattamento dei vostri dati da parte nostra, vi preghiamo di fare riferimento ai dettagli contenuti nei "Diritti degli utenti nell'UE o nel Regno Unito" al paragrafo 10 di seguito.
+5. SOGGETTI CON I QUALI POTREMMO CONDIVIDERE LE VOSTRE INFORMAZIONI
+5.1	In riferimento alle finalità e sulla base delle motivazioni legali sopra descritte, condivideremo le vostre informazioni personali, laddove necessario, con soggetti terzi, quali:
+
+(a)	Utenti di app che utilizzate. Altri utenti di App con cui si gioca, che hanno sede sia all'interno che all'esterno dell'UE o del Regno Unito;
+(b)	I nostri fornitori di servizi. Fornitori, consulenti e altri fornitori di servizi di terze parti che lavorano per noi e hanno accesso alle vostre informazioni personali per svolgere tale lavoro
+(c)	Altri soggetti terzi. Terze parti che dispongono del vostro consenso nel momento in cui accettate di condividere le vostre informazioni con altri soggetti terzi per poter utilizzare i loro servizi con la nostra App, in conformità con le loro proprie informative sulla privacy. Condivideremo le vostre informazioni con Niantic, Inc. allo scopo di fornire i servizi quando scegliete di collegare il vostro account Nintendo a Pokémon GO;
+(d)	Società affiliate. The Pokémon Center Co., Ltd., The Pokémon Company International, Inc., e Pokémon Korea, Inc., con sede rispettivamente in Giappone, Regno Unito, USA e Corea del Sud;
+(e)	Potenziali venditori e acquirenti della nostra impresa commerciale. In riferimento a, o nel corso di negoziazioni finalizzate a fusioni, finanziamenti, acquisizioni, fallimenti, scioglimenti, transazioni o procedimenti aventi ad oggetto la vendita, il trasferimento, la cessione o la liquidazione, in tutto o in parte, della nostra impresa commerciale o del suo patrimonio;
+(f)	Qualsiasi altro soggetto terzo (compresi i consulenti professionali). Qualsiasi altro soggetto terzo (compresi i consulenti legali o di altro genere, le autorità di regolamentazione, i tribunali, le autorità preposte all'applicazione delle leggi e gli enti governativi), nel Regno Unito, negli Stati Uniti d'America, in Giappone e in altri paesii/altre regioni, a cui dovessimo ricorrere per far valere i nostri diritti legali o per tutelare i diritti, i beni o l'incolumità dei nostri dipendenti o laddove tale divulgazione sia ammessa o richiesta dalla legge
+6. USO DI MODULI DI RACCOLTA INFORMAZIONI DA TERZI
+Possiamo utilizzare il modulo di raccolta informazioni di terzi per analizzare le tendenze nell'uso dell'App, gestire efficacemente l'App, prevenire le frodi e fare pubblicità ai clienti. In questo caso, alle seguenti organizzazioni possono essere fornite informazioni cliente a tal fine: vi preghiamo di fare riferimento anche all'informativa sulla privacy predisposta dalla società interessata.
+[Advertising SDK] Metaps, Inc. (MetapsLinks)
+[Push Notifications] Google LLC (Google Firebase)
+[Crash Data through Nintendo Switch] Nintendo Co., Ltd.
+7. COOKIE E TRACCIAMENTO
+7.1	Noi e altri soggetti usiamo cookie, web beacon, dispositivi IDs e altri meccanismi di monitoraggio per garantire che voi otteniate il massimo dalla nostra App. I cookie sono piccole quantità di informazioni sotto forma di file di testo che vengono memorizzati sul dispositivo utilizzato dall'utente per accedere alla nostra App. I cookie e altri meccanismi di monitoraggio, come gli ID dei dispositivi, consentono a noi e ad altri di monitorare l'utilizzo del software da parte dell'utente, semplificano l'utilizzo della nostra App e aiutano noi e altri ad associare a fini pubblicitari i dispositivi mobili usati dall'utente, le attività dell'utente in siti web e i browser usati dall'utente.
+7.2	Qualora non vogliate che siano installati cookie sul vostro dispositivo, potete modificare le impostazioni sul vostro dispositivo in modo da rifiutarli. Per ulteriori informazioni su come rifiutare i cookie utilizzando le impostazioni, visitare la pagina http://www.aboutcookies.org. Vi facciamo presente che, impostando il vostro browser Internet in modo che rifiuti i cookie, potreste non essere in grado di accedere a tutte le funzioni della nostra App. Poiché anche alcune preferenze di esclusione sono conservate in cookie sul vostro dispositivo (quali l'esclusione di società inserzioniste), è opportuno tenere presente che, qualora si rimuovessero tutti i cookie, sarà necessario rinnovare le vostre opzioni di esclusione. Alcuni browser Internet possono trasmettere segnali di non tracciamento ("Do Not Track"). Dal momento che non sono stati adottati standard uniformi per i segnali "Do Not Track", la nostra App può non rilevare o elaborare i segnali "Do Not Track".
+7.3	Nel nostro sito web possono essere presenti contenuti di altri siti e link che rinviano a tali altri siti gestiti da terzi che possono utilizzare cookie e altri meccanismi di tracciamento. Tali siti di terzi e la relativa attività di tracciamento sono fuori dal nostro controllo e al riguardo la presente Informativa sulla privacy non è applicabile. Vi preghiamo di consultare i termini e le condizioni e l'informativa sulla privacy del relativo sito di terzi per conoscere le modalità di raccolta e utilizzo delle vostre informazioni da parte di tale sito e accertare se e per quali finalità lo stesso utilizza cookie.
+8. COME TUTELIAMO LE VOSTRE INFORMAZIONI E PER QUANTO TEMPO LE CONSERVIAMO
+8.1	Adottiamo opportune misure di sicurezza tecnologiche e operative atte a tutelare le vostre informazioni dall'accesso non autorizzato o dall'utilizzo illecito.
+8.2	Conserveremo le vostre informazioni per il tempo opportuno ai fini della fornitura dei servizi che ci avete richiesto o per il tempo che sia per noi ragionevolmente necessario per finalità di natura legale della nostra impresa, quali il rispetto e l'applicazione delle disposizioni di legge e la risoluzione di controversie. Il periodo di conservazione effettivo dipende da una varietà di fattori, quali il tipo di prodotto, il tipo e il grado di sensibilità dei dati, le esigenze aziendali, le aspettative e le esigenze del cliente, i tipi di controlli l'utente disponibili e la forma in cui sono conservati i dati.
+9. TRASFERIMENTI INTERNAZIONALI DELLE VOSTRE INFORMAZIONI
+9.1	La nostra società ha sede in Giappone e le vostre informazioni personali da noi raccolte saranno conservate prevalentemente in Francia e Germania. Ciò comporterà un trasferimento di dati al di fuori del SEE o del Regno Unito.
+9.2	Ogniqualvolta trasferiamo i vostri dati personali dall'interno all'esterno del SEE o del Regno Unito, garantiamo che tali dati godano sempre dello stesso livello di protezione assicurandoci di adottare almeno una delle seguenti soluzioni di trasferimento:
+
+(a)	Quando ci avvaliamo di determinati fornitori di servizi, possiamo utilizzare contratti specifici approvati dalla Commissione europea che conferiscono ai dati personali la stessa protezione di cui godono in Europa. Per ulteriori dettagli, vedere Commissione europea: Clausole contrattuali standard per il trasferimento di dati personali a Paesi terzi; e
+(b)	Laddove utilizziamo fornitori con sede negli Stati Uniti, possiamo trasferire dati a tali fornitori nell'ambito dello Scudo per la Privacy, qualora vi aderiscano, in virtù del quale gli stessi sono obbligati a garantire eguale protezione ai dati personali condivisi tra Europa e Stati Uniti. Per ulteriori dettagli, vedere Commissione europea: Scudo per la Privacy UE-USA.
+
+9.3	Vi preghiamo di contattarci utilizzando i recapiti riportati al paragrafo 2 della presente Informativa sulla privacy se si desiderano ulteriori informazioni sul meccanismo specifico da noi utilizzato per trasferire i vostri dati personali al di fuori del SEE o del Regno Unito.
+10. I DIRITTI DEGLI UTENTI NELL'UE O NEL REGNO UNITO
+10.1	Se siete nell'UE o nel Regno Unito, avete determinati diritti riguardo alle informazioni in nostro possesso, tra cui:
+
+(a)	il diritto di essere informati sulle modalità da noi adottate nell'utilizzo delle vostre informazioni, che è l'obiettivo della presente Informativa sulla privacy;
+(b)	il diritto di chiederci di non trattare i vostri dati personali per finalità di commercializzazione;
+(c)	il diritto di richiedere accesso alle informazioni che deteniamo su di voi;
+(d)	il diritto di richiedere la correzione o la rettifica di qualsiasi informazione su di voi in nostro possesso che risulti obsoleta o inesatta;
+(e)	in determinate circostanze, il diritto di chiederci di interrompere il trattamento delle informazioni su di voi; e
+(f)	il diritto di presentare un reclamo contro di noi presso l'Information Commissioner’s Office del Regno Unito (https://ico.org.uk/).
+
+Vi facciamo presente che potremmo aver bisogno di conservare alcune informazioni per i nostri scopi di registrazione e di ricerca. Potremmo anche aver bisogno di inviare comunicazioni relative al vostro account utente del sito web anche quando avete richiesto di non ricevere comunicazioni di marketing. Ci possono essere eccezioni a tali diritti in determinate circostanze e, qualora non possiate esercitare un diritto a causa di un'eccezione, vi forniremo tale spiegazione.
+10.2	In conformità alle nuove leggi sulla protezione dei dati in vigore dal 25 maggio 2018, disponete di alcuni diritti aggiuntivi riguardo alle informazioni in nostro possesso, tra cui:
+
+(a)	oltre al diritto di presentare un reclamo contro di noi presso l'Information Commissioner’s Office del Regno Unito (https://ico.org.uk/), avete la possibilità di presentare un reclamo presso l'autorità d'interesse nel vostro Paese/nella vostra regione di lavoro o residenza; e
+(b)	il diritto di ritirare il vostro consenso per il nostro utilizzo dei vostri dati in base al vostro consenso, cosa che potete fare contattandoci utilizzando uno qualsiasi dei recapiti riportati al paragrafo 2 della presente Informativa sulla privacy;
+(c)	il diritto di opporsi al nostro utilizzo delle vostre informazioni sulla base dei nostri interessi legittimi per l'esistenza di una vostra situazione particolare che vi spinge a rifiutare il trattamento su questa base;
+(d)	il diritto di ricevere una copia di qualsiasi informazione in nostro possesso (o la richiesta di trasferirla a un altro fornitore di servizi) in un formato strutturato, comunemente usato, leggibile a macchina, in determinate circostanze; e
+(e)	il diritto di chiederci di limitare o interrompere il trattamento o cancellare le informazioni in nostro possesso su di voi, in determinate circostanze.
+
+10.3	È possibile esercitare i diritti di cui sopra contattandoci utilizzando i recapiti di cui al paragrafo 2 della presente Informativa sulla privacy, oppure, per interrompere la ricezione di notifiche push, è possibile aggiornare le preferenze nelle impostazioni del dispositivo.
+11. LINK DI TERZI
+La nostra App può includere link a siti web, plug-in e applicazioni di terze parti. Facendo clic su tali link o abilitando tali collegamenti, è possibile che terzi possano raccogliere o condividere i dati che vi riguardano. Non controlliamo questi siti web, plug-in e app di terze parti e non siamo responsabili delle loro dichiarazioni sulla privacy. Quando lasciate il nostro sito web, vi invitiamo a leggere l'informativa sulla privacy di ogni terza parte che visitate.
+12. CHE TIPO DI INFORMAZIONI RACCOGLIAMO SUI BAMBINI?
+12.1	Se un utente ha indicato di essere un bambino quando tenta di utilizzare la nostra App, lo indirizzeremo a un'esperienza diversa all'interno della nostra App che consente a un bambino di utilizzare i nostri servizi come qualsiasi altro utente, ma che non consente la raccolta di ulteriori informazioni personali (come definito in COPPA).
+12.2	Raccogliamo solo una parte delle informazioni personali di cui sopra quando un utente si identifica come un bambino, compresi nome utente e identificativi univoci. I bambini possono utilizzare la nostra App, visualizzare i contenuti e usufruire di molte funzioni senza la raccolta di informazioni personali (come definito in COPPA) e, qualora il consenso del genitore sia richiesto dalla legge, lo richiederemo.
+13. ULTERIORI DIRITTI DI PRIVACY PER I RESIDENTI IN CALIFORNIA
+13.1	Il presente paragrafo fornisce informazioni aggiuntive richieste dalla legge californiana.
+13.2	Se siete un consumatore californiano i cui dati personali sono raccolti tramite l'App ("cliente"), il California Consumer Privacy Act ("CCPA") vi conferisce alcuni diritti in relazione a tali dati personali. In particolare, avete il diritto di richiedere che le aziende vi forniscano le seguenti informazioni:
+
+(a)	Le categorie e le specifiche informazioni personali che abbiamo raccolto su di voi.
+(b)	Le categorie o fonti da cui raccogliamo i dati personali.
+(c)	Le finalità di raccolta e utilizzo dei dati personali.
+(d)	Le categorie di terzi con cui condividiamo i dati personali.
+(e)	Le categorie di dati personali che vi riguardano a fini commerciali
+
+13.3	Avete inoltre il diritto di richiedere la cancellazione dei dati personali in determinate circostanze, fatte salve alcune eccezioni. Inoltre, avete il diritto di non essere discriminati per aver esercitato uno qualsiasi di questi diritti.
+13.4	È possibile esercitare i diritti di cui sopra contattandoci utilizzando i recapiti di cui al paragrafo 2 della presente Informativa sulla privacy. Se inviate una richiesta, vi chiederemo di verificare la vostra identità dove, se possibile, possiamo abbinare i vostri dati identificativi con i dati personali che abbiamo su di voi, a seconda del tipo di richiesta effettuata e delle misure di verifica proporzionali al rischio dei dati personali coinvolti nella richiesta (o nelle richieste). Non esiste un metodo ragionevole con cui possiamo verificare la vostra identità nel grado di certezza richiesto dalla legge per alcune informazioni personali, ad esempio: identificativi univoci come ID cookie, ID del dispositivo e indirizzo IP (laddove tali informazioni non sono in nostro possesso in relazione a informazioni direttamente identificabili). Ci possono essere eccezioni a tali diritti in determinate circostanze e, qualora non possiate esercitare un diritto a causa di un'eccezione, Pokémon vi fornirà tali informazioni. Pokémon si adopererà ragionevolmente per soddisfare la richiesta dell'utente entro i tempi di risposta previsti dalle leggi applicabili.
+13.5	Pokémon non vende le vostre informazioni personali come definite dal CCPA e non lo ha fatto negli ultimi 12 mesi.
+13.6	Oltre alle finalità per cui le vostre informazioni personali sono condivise con altre terze parti (inclusi i consulenti professionali) di cui ai precedenti paragrafi 5.1(e) e 6, un’altra finalità prevista è la condivisione per scopi aziendali che richiedono l'accesso ai nostri sistemi contenenti informazioni personali (come la fornitura di spazio di archiviazione di dati nel cloud, il mantenimento della sicurezza dei nostri sistemi e la fornitura di assistenza clienti). Negli ultimi 12 mesi, abbiamo comunicato ai fornitori tutte le categorie di dati personali descritte nel paragrafo 3.
+13.7	L'articolo 1798.83 del Codice Civile della California consente ai clienti residenti in California di richiedere determinate informazioni relative alla divulgazione di informazioni personali a terzi per i propri scopi di marketing diretto. Non condividiamo i dati personali dei nostri clienti con terzi non affiliati per i loro scopi di marketing diretto senza il consenso dell'utente. Per richieste di informazioni sulla nostra policy in materia di divulgazione, non esitate a contattarci utilizzando i recapiti di cui al paragrafo 2.
+14. RESPONSABILE DELLA PROTEZIONE DEI DATI
+14.1	Qualora desideriate contattare il nostro Responsabile della Protezione dei Dati, potete farlo al seguente recapito:
+
+(a)	The Pokémon Company
+(b)	Alla cortese attenzione di: Responsabile della Protezione Dati
+(c)	Indirizzo: Roppongi Hills Mori Tower 8F
+
+(i)	6-10-1 Roppongi, Minato-ku
+(ii)	Tokyo 106-6108 Giappone
+15. VARIAZIONI ALLA PRESENTE INFORMATIVA SULLA PRIVACY E OBBLIGO DA PARTE VOSTRA DI INFORMARCI RIGUARDO A EVENTUALI VARIAZIONI
+Possiamo modificare la presente Informativa sulla privacy in qualsiasi momento cambiando la data relativa all'ultimo aggiornamento. Qualora apportassimo variazioni sostanziali alle modalità con le quali raccogliamo, utilizziamo o condividiamo le vostre informazioni personali, forniremo una descrizione di tali variazioni e, se richiesto dalla legge, chiederemo il vostro consenso a tali variazioni.
+
+È importante che i vostri dati personali in nostro possesso siano precisi e aggiornati. Vi preghiamo di informarci qualora vi siano variazioni dei vostri dati personali nel corso del nostro rapporto aggiornando le informazioni contenute nell'account del vostro profilo o contattandoci ai recapiti indicati al paragrafo 2 della presente Informativa sulla privacy. La presente Informativa sulla privacy è stata aggiornata il 11 novembre 2020.
+*Asia
+Repubblica dell'India
+Repubblica di Indonesia
+Repubblica di Singapore
+Regno di Thailandia
+Repubblica islamica del Pakistan
+Repubblica delle Filippine
+Brunei Darussalam
+Malesia
+Repubblica di Corea
+Hong Kong
+Macau
+Taiwan
+Giappone
+
+
+
+THE POKÉMON COMPANY DATENSCHUTZERKLÄRUNG FÜR POKÉMON HOME
+Für Benutzer außerhalb Asiens* (eine Liste der Länder/Regionen in Asien finden Sie am Ende dieser Erklärung.)
+1. EINFÜHRUNG
+In der vorliegenden Datenschutzerklärung (Datenschutzerklärung) wird beschrieben, wie wir, The Pokémon Company, und unsere Tochterunternehmen Pokémon Center Co., Ltd., The Pokémon Company International, Inc. und Pokémon Korea, Inc. Ihre personenbezogenen Daten (Ihre persönlichen Informationen) im Zusammenhang mit Pokémon HOME (unserer App) erfassen und verwenden. Außerdem wird erläutert, welche Rechte Sie haben, wenn es um Zugriff auf Ihre personenbezogenen Daten geht, bzw. um deren Änderung.
+2. ÜBER UNS
+2.1	The Pokémon Company ist ein in Japan registriertes Unternehmen mit nachstehend angegebenem Firmensitz.
+2.2	Sie können uns wie folgt kontaktieren.
+
+The Pokémon Company International, Inc.
+Attention: Pokémon HOME
+Adresse: 10400 NE 4th Street, Suite 2800
+              Bellevue, WA 98004 USA
+E-Mail: privacyquestions@pokemon.com
+3. INFORMATIONEN, DIE WIR ÜBER SIE ERFASSEN
+3.1 Informationen, die Sie uns zur Verfügung stellen.
+Wir benötigen für die Nutzung der App keine personenbezogenen Daten. Wenn Sie jedoch keine personenbezogenen Daten offenlegen möchten, können Sie bestimmte Funktionen der App nicht nutzen.
+
+3.1.1	Wir erfassen alle Informationen, die Sie uns zur Verfügung stellen, wenn Sie Folgendes tun:
+
+(a)	Sie greifen in unserer App auf bestimmte Features oder Funktionen zu, für die personenbezogene Informationen erforderlich sind.
+(b)	Sie stellen eine Anfrage, geben Feedback oder reichen per E-Mail oder auf unserer Kundensupport-Website eine Beschwerde ein.
+(c)	Sie senden uns Ihre Korrespondenz per Post, E-Mail oder über unsere Kundensupport-Website.
+
+3.1.2	Wir erfassen alle Informationen, die Sie uns zur Verfügung stellen, wenn Sie Folgendes tun:
+
+(a)	Identitätsdaten. Das Land oder die Region, in dem/der Sie wohnhaft sind, und Ihr Geburtsdatum.
+(b)	Spielerprofildaten. Sie können auch einen Spitznamen, eine Übertragungs-/Sicherungs-ID (zum Übertragen Ihrer Profildaten auf ein neues Gerät) und Spracheinstellungen angeben.
+
+
+HINWEIS: Verwenden Sie in einem Spitznamen nicht Ihren echten Namen, Ihre Initialen oder andere von Kunden identifizierbare Informationen. Dies umfasst unter anderem:
+・beliebige In-Game-IDs, Passwörter usw.
+・Anfrageinformationen
+3.2 Informationen, die wir über Sie erfassen.
+(a)	Transaktionsdaten. Wir erfassen über unsere App Informationen zu Ihren Kauftransaktionen, einschließlich Datum und Uhrzeit, berechneten Beträgen und anderen zugehörigen Transaktionsdetails.
+(b)	In der Korrespondenz enthaltene Informationen. Wir werden alle Informationen erfassen, die in jeglicher Korrespondenz mit uns enthalten sind. Wenn Sie beispielsweise unseren Kunden-Support kontaktieren, führen wir Aufzeichnungen über diese Korrespondenz.
+(c)	Technische Daten. Wir erfassen auch bestimmte Informationen darüber, wie Sie unsere App und das Gerät verwenden, mit dem Sie auf unsere App zugreifen, auch wenn Sie kein Konto erstellt oder sich nicht angemeldet haben. Dies kann Ihren geografischen Standort, Geräteinformationen (wie Hardwaremodell, Betriebssysteminformationen, eindeutige Gerätekennungen, Terminalkennungen, Anzeigenkennungen, Terminalinformationen, Terminaleinstellungsinformationen usw.), Werbe-ID (in Apps, die Werbung anzeigen), eindeutige Player-IDs wie Transfer-/Backup-IDs und -Schlüssel, Spieler-IDs, Spieler-Schlüssel, Zugriffsschlüssel, die von Ihrem Browser übertragenen Daten (wie Ihre IP-Adresse, Zeitzoneneinstellungen, Zugriffsstatus/HTTP-Statuscode, Spracheinstellungen, Verweisquelle für Zeitzoneneinstellungen), Informationen zu Ihren Interaktionen mit der App, einschließlich Informationen mit Zeit- und Datumsstempel, wie Seitenaufrufe, Anforderungen, Anzahl der Sitzungen, Anzahl der Downloads, Spielfortschritt der Benutzer und spielbezogene Daten, einschließlich Spielfehler, In-App-Käufe, Besuchsdauer der App, Tastendruckprotokolle und ähnliche Informationen, umfassen. Diese Informationen können in unserem Namen von einem Drittanbieter für Analysedienste und/oder mithilfe von Cookies oder ähnlichen Technologien erfasst werden. Weitere Informationen zu Cookies finden Sie im nachstehenden Abschnitt 7.
+(d)	App-Berechtigungen. Möglicherweise fordern wir auch die Genehmigung an, auf Apps und bestimmte Funktionen Ihres Geräts zuzugreifen. Unsere App erfordert möglicherweise den Zugriff auf Standortdaten, wenn Sie der Erfassung von Geolokalisierungsdaten zustimmen. Möglicherweise fordern wir auch den Zugriff auf die Kamerafunktionen Ihres Geräts an, damit Sie Freunde und Mikrofonfunktionen zur App hinzufügen können, um die Sprachsuche zu ermöglichen, bei der diese Audiodaten so an den Betriebssystemanbieter Ihres Geräts gesendet werden (gemäß den Anforderungen des Anbieters und den Datenschutzbestimmungen des Anbieters), dass Sie nicht zu identifizieren sind.
+4. WIE WIR INFORMATIONEN ÜBER SIE UND EMPFÄNGER IHRER INFORMATIONEN VERWENDEN
+4.1	Wir werden Ihre Informationen für die unten aufgeführten Zwecke verwenden, mit folgenden möglichen Grundlagen:
+
+(a)	Erfüllung Ihres Vertrags mit uns und Erbringung unserer Dienstleistungen Ihnen gegenüber;
+(b)	Ihrer Einwilligung (wo wir sie benötigen);
+(c)	unserer Verpflichtung, rechtliche oder gesetzliche Vorgaben zu erfüllen; oder
+(d)	unser berechtigtes Interesse.
+
+4.2	Wir verwenden Ihre Informationen auf der Grundlage des oben Genannten (siehe Abschnitt 4.1) und für unsere legitimen Geschäftsziele unter anderem für folgende Zwecke:
+
+(a)	Gewährung des Zugriffs auf unsere App. Gewährung des optimalen und bequemen Zugriffs auf unsere App und die für Sie relevanten personalisierten Inhalte und Ermöglichung einer Aufzeichnung Ihres Spiels in der App;
+(b)	Gewährung des Zugriffs auf bestimmte App-Funktionen. Gewährung des Zugriffs auf Funktionen wie In-App-Käufe und Spiele;
+(c)	Einräumung der Möglichkeit, mit anderen Spielern spielen zu können. Wir verwenden die von Ihnen bereitgestellten Informationen (wie Ihren Benutzernamen und Ihre Spracheinstellungen), damit Sie mit anderen Spielern spielen zu können.
+(d)	Verarbeitung und Erleichterung von Transaktionen zwischen uns und Ihnen. Wir verwenden Ihre Daten zur Abwicklung von Transaktionen und Zahlungen sowie zum Einzug und zur Rückforderung von uns geschuldeten Beträgen.
+(e)	Benutzer- und Kundensupport. Wir verwenden Ihre Daten zur Bereitstellung von Kundendienst und -Support, Bearbeitung von Anfragen oder Beschwerden zu unserer App und Weitergabe Ihrer Informationen an unsere App-Entwickler, IT-Support-Anbieter und Zahlungsdienstleister, sofern dies zur Bereitstellung von Kundensupport erforderlich ist.
+(f)	Sendung von Push-Benachrichtigungen. Wir verwenden Ihre Daten zur Sendung von Push-Benachrichtigungen über Ihre Nutzung unserer App, unserer Nachrichten, Ereignisse, neuen App-Funktionen, Produkte oder Dienstleistungen, von denen wir glauben, dass sie Sie interessieren, sofern wir die erforderliche Berechtigung dazu haben.
+(g)	Analyse. Wir verwenden Ihre Daten für Datenanalysen zur Verbesserung von App, Produkten/Dienstleistungen, Marketing, Kundenbeziehungen und -erlebnis.
+(h)	Aufdeckung und Verhinderung von Betrug und rechtswidrigen Handlungen. Wir verwenden Ihre Daten zur Aufdeckung und Verhütung von Betrug und illegalen Aktivitäten, zu Schutz und Abschreckung sowie Untersuchung bezüglich betrügerischer, unerlaubter oder illegaler Aktivitäten, einschließlich Identitätsbetrug; zum Schutz der Rechte und des Eigentums von Pokémon, unseren Vertretern, Kunden und anderen, einschließlich Durchsetzung unserer Geschäftsbedingungen, von Richtlinien, Vorschriften und Vereinbarungen; zum Schutz der Sicherheit einer jeden Person bzw. zum Schutz der Sicherheit der Dienste, Websites und Anwendungen von Pokémon und unseren Partnern.
+(i)	Einhaltung von Richtlinien, Verfahren und Gesetzen. Wir verwenden Ihre Daten zur Einhaltung von Richtlinien, Verfahren und Gesetzen, um es uns zu ermöglichen, unsere Richtlinien und Verfahren einzuhalten und unsere gesetzlichen Rechte durchzusetzen oder Ihre Daten an unsere technischen und juristischen Berater weiterzugeben und Gesetze einzuhalten oder auf rechtmäßige Anfragen und rechtliche Verfahren zu reagieren, einschließlich der Befolgung eines Gerichtsbeschlusses oder einer Vorladung.
+
+4.3	Wenn Sie sich in der EU oder im Vereinigten Königreich befinden und Bedenken hinsichtlich unserer Verarbeitung haben, lesen Sie bitte die Details unter „Die Rechte von Benutzern in der EU oder im Vereinigten Königreich“ im nachstehenden Abschnitt 10.
+5. WEM WIR IHRE INFORMATIONEN MITTEILEN KÖNNEN
+5.1	Im Zusammenhang mit den oben angeführten Zwecken und auf Basis der vorgenannten Rechtsgrundlagen teilen wir Ihre persönlichen Daten im erforderlichen Fall mit Dritten, beispielsweise folgenden:
+
+(a)	App-Benutzer, mit denen Sie spielen. Andere App-Benutzer, mit denen Sie spielen, die sich in der EU oder im Vereinigten Königreich oder außerhalb derselben aufhalten;
+(b)	Unsere Dienstleister. Drittanbieter-Dienstleister, Berater und sonstige Dienstanbieter, die mit uns kooperieren und im Rahmen ihrer Aufgaben auf Ihre Daten zugreifen müssen;
+(c)	Andere Dritte. Drittparteien mit Ihrer Einwilligung, wenn Sie der Weitergabe Ihrer Informationen an andere Drittparteien zustimmen, um deren Dienste mit unserer App zu nutzen, gemäß den Datenschutzrichtlinien der jeweiligen Drittpartei. Wir werden Ihre Informationen mit Niantic, Inc. zur Bereitstellung der Dienste teilen, wenn Sie sich dazu entscheiden, Ihren Nintendo-Account mit Pokémon GO zu verknüpfen.
+(d)	Konzernunternehmen. The Pokémon Center Co., Ltd., The Pokémon Company International, Inc. und Pokémon Korea, Inc. mit Sitz in Japan, dem Vereinigten Königreich, den USA und Südkorea;
+(e)	Potenzielle Verkäufer und Käufer unseres Geschäfts. Im Zusammenhang mit oder während der Aushandlung von Zusammenschlüssen, Finanzierungen, Akquisitionen, Konkursen, Auflösungen, Transaktionen oder Verfahren, die den Verkauf, die Übertragung, die Veräußerung oder die Offenlegung unseres gesamten Geschäfts oder eines Teils unseres Vermögens umfassen;
+(f)	Etwaige andere Dritte (einschließlich professioneller Berater). Alle anderen Drittparteien (einschließlich juristischer oder sonstiger Berater, Aufsichtsbehörden, Gerichte, Strafverfolgungsbehörden und Regierungsbehörden) mit Sitz im Vereinigten Königreich, den USA, Japan und anderen Ländern/Regionen, damit wir unsere gesetzlichen Rechte durchsetzen oder die Rechte, das Eigentum oder die Sicherheit unserer Mitarbeiter schützen können, oder wo eine solche Offenlegung gesetzlich erlaubt oder vorgeschrieben ist.
+6. NUTZUNG VON INFORMATIONSERFASSUNGSMODULEN VON DRITTEN
+Wir können das Informationserfassungsmodul eines Drittanbieters verwenden, um Trends in der Nutzung der App zu untersuchen, die App effektiv zu betreiben, Betrug zu verhindern und Werbung für sie zu machen. In diesem Fall können den folgenden Organisationen Kundeninformationen zu diesem Zweck zur Verfügung gestellt werden: Bitte beachten Sie auch die Datenschutzhinweise des jeweiligen Unternehmens.
+[Advertising SDK] Metaps, Inc. (MetapsLinks)
+[Push Notifications] Google LLC (Google Firebase)
+[Crash Data through Nintendo Switch] Nintendo Co., Ltd.
+7. COOKIES UND NACHVERFOLGUNG
+7.1	Wir und andere Parteien verwenden Cookies, Web Beacons, Geräte-IDs und andere Nachverfolgungsmechanismen, um sicherzustellen, dass Sie unsere App optimal nutzen. Cookies sind kleine Informationsmengen in Form von Textdateien, die wir auf dem Gerät speichern, mit dem Sie auf unsere App zugreifen. Cookies und andere Nachverfolgungsmechanismen wie Geräte-IDs ermöglichen es uns und anderen, Ihre Nutzung der Software zu überwachen, die Nutzung unserer App zu vereinfachen und uns und anderen zu helfen, Ihre Aktivitäten über Websites, Browser und mobile Geräte hinweg für Werbezwecke zu verknüpfen.
+7.2	Wenn Sie nicht möchten, dass Cookies auf Ihrem Gerät installiert werden, können Sie die Einstellungen auf Ihrem Gerät ändern und Cookies ablehnen. Weitere Informationen zum Ablehnen von Cookies über Ihre Einstellungen finden Sie unter http://www.aboutcookies.org. Bitte beachten Sie, dass Sie möglicherweise nicht auf alle Funktionen unserer App zugreifen können, wenn Sie Ihren Internetbrowser so einstellen, dass Cookies abgelehnt werden. Da bestimmte Ablehnungseinstellungen auch in einem Cookie auf Ihrem Gerät gespeichert sind (z. B. Ablehnungen von Werbefirmen), beachten Sie bitte, dass Sie Ihre Ablehnungseinstellungen erneuern müssen, wenn Sie alle Cookies entfernen. Einige Internetbrowser übertragen möglicherweise „Do Not Track“-Signale. Da keine einheitlichen Standards für „Do Not Track“-Signale übernommen wurden, sind unserer App möglicherweise keine „Do Not Track“-Signale bekannt oder werden nicht verarbeitet.
+7.3	Unsere Website kann Inhalte und Links zu anderen Websites enthalten, die von Dritten betrieben werden, die ebenfalls Cookies und andere Nachverfolgungsmechanismen verwenden. Wir kontrollieren diese Websites von Drittanbietern oder deren Nachverfolgungsaktivitäten nicht und diese Datenschutzerklärung gilt für diese Websites nicht. Bitte konsultieren Sie die Allgemeinen Geschäftsbedingungen und die Datenschutzerklärung der entsprechenden Drittanbieter-Website, um herauszufinden, wie diese Website Ihre Informationen erfasst und verwendet, und um festzustellen, ob und zu welchem Zweck Cookies verwendet werden.
+8. WIE WIR IHRE INFORMATIONEN SUCHEN UND WIE LANGE WIR SIE AUFRECHTERHALTEN
+8.1	Wir setzen geeignete technische und betriebliche Sicherheitsmaßnahmen ein, um Ihre Daten vor unbefugtem Zugriff oder rechtswidriger Nutzung zu schützen.
+8.2	Wir werden Ihre Informationen so lange aufbewahren, wie dies für die Erbringung der von Ihnen gewünschten Dienstleistungen angemessen ist, oder solange, wie wir verpflichtet sind, die Informationen für unsere rechtmäßigen Geschäftszwecke aufzubewahren, z. B. für die Einhaltung und Durchsetzung von Gesetzen und zur Beilegung von Streitigkeiten. Die tatsächliche Speicherdauer hängt von einer Vielzahl von Faktoren ab, wie der Art des Produkts, der Art und Sensibilität der Daten, den Geschäftsanforderungen, den Erwartungen und Bedürfnissen der Kunden, der Art der verfügbaren Benutzerkontrollen und der Form, in der die Daten gespeichert werden.
+9. INTERNATIONALE WEITERGABE IHRER DATEN
+9.1	Unser Unternehmen hat seinen Sitz in Japan und Ihre von uns erfassten personenbezogenen Daten werden überwiegend in Frankreich und Deutschland gespeichert. Dies umfasst eine Datenübermittlung außerhalb des Europäischen Wirtschaftsraums (EWR) oder des Vereinigten Königreichs.
+9.2	Wenn wir Ihre personenbezogenen Daten von innerhalb des EWR oder des Vereinigten Königreichs in ein Land außerhalb des EWR oder des Vereinigten Königreichs übertragen, gewährleisten wir ein ähnliches Maß an Sicherheit, indem mindestens eine der folgenden Übertragungslösungen angewendet wird:
+
+(a)	Wenn wir bestimmte Dienstleister in Anspruch nehmen, können wir spezielle, von der Europäischen Kommission genehmigte Verträge verwenden, die personenbezogenen Daten denselben Schutz wie in Europa gewähren. Weitere Details finden Sie unter Europäische Kommission: Musterverträge für die Übermittlung personenbezogener Daten an Drittländer; und
+(b)	Wenn wir Anbieter mit Sitz in den USA in Anspruch nehmen, können wir Daten an diese übertragen, wenn diese Teil des Privacy-Shield-Systems sind, das einen ähnlichen Schutz für personenbezogene Daten vorsieht, die zwischen Europa und den USA ausgetauscht werden. Weitere Details finden Sie unter Europäische Kommission: EU-US-Privacy Shield.
+
+9.3	Wenden Sie sich bitte über die Kontaktinformationen oben in dieser Datenschutzerklärung an uns, wenn Sie weitere Informationen zu den Mechanismen wünschen, die wir bei der Übermittlung Ihrer personenbezogenen Daten aus dem EWR oder dem Vereinigten Königreich verwenden.
+10. DIE RECHTE DER NUTZER IN DER EU ODER IM VEREINIGTEN KÖNIGREICH
+10.1	Wenn Sie sich in der EU oder im Vereinigten Königreich befinden, haben Sie bestimmte Rechte in Bezug auf die Informationen, die wir über Sie haben. Diese umfassen:
+
+(a)	das Recht, über die Art und Weise der Verwendung Ihrer Informationen informiert zu werden, wie wir dies in dieser Datenschutzerklärung anstreben;
+(b)	das Recht, uns aufzufordern, Ihre personenbezogenen Daten nicht für Marketingzwecke zu verarbeiten;
+(c)	das Recht, Zugang zu den Informationen zu verlangen, die wir über Sie haben;
+(d)	das Recht, zu verlangen, dass wir alle Informationen, die wir über Sie haben, die veraltet oder falsch sind, korrigieren oder berichtigen;
+(e)	unter bestimmten Umständen das Recht, uns aufzufordern, die Verarbeitung von Informationen über Sie einzustellen;
+(f)	das Recht, eine Beschwerde über uns beim UK Information Commissioner's Office einzureichen (https://ico.org.uk/).
+
+Bitte beachten Sie, dass wir möglicherweise bestimmte Informationen für unsere eigenen Aufzeichnungs- und Forschungszwecke aufbewahren müssen. Möglicherweise müssen wir Ihnen auch dienstbezogene Mitteilungen zu Ihrem Website-Benutzerkonto senden, selbst wenn Sie uns angewiesen haben, keine Marketingmitteilungen an Sie zu senden. Unter bestimmten Umständen kann es Ausnahmen von diesen Rechten geben, und wenn Sie aufgrund einer Ausnahme ein Recht nicht ausüben können, werden wir diese Erklärung abgeben.
+10.2	Gemäß den Datenschutzgesetzen, die seit dem 25. Mai 2018 in Kraft sind, haben Sie bestimmte zusätzliche Rechte in Bezug auf die Informationen, die wir über Sie speichern, z. B. folgende:
+
+(a)	zusätzlich zu Ihrem Recht, beim UK Information Commissioner's Office (https://ico.org.uk/) eine Beschwerde über uns einzureichen, auch eine Beschwerde bei der zuständigen Behörde in dem Land oder der Region, in dem/der Sie arbeiten oder wohnhaft sind, einzureichen
+(b)	das Recht, Ihre Einwilligung zu unserer Nutzung Ihrer Daten in Abhängigkeit von Ihrer Einwilligung zu widerrufen. Hierzu können Sie sich über die Angaben in Abschnitt 2 mit uns in Verbindung setzen.
+(c)	das Recht, der Nutzung Ihrer Informationen durch uns aufgrund unserer berechtigten Interessen zu widersprechen, wenn es an Ihrer Situation etwas Besonderes gibt, das Sie dazu veranlasst, der Verarbeitung aus diesem Grund zu widersprechen;
+(d)	das Recht, unter bestimmten Umständen eine Kopie aller Informationen, die wir über Sie haben, in einem strukturierten, allgemein verwendeten, maschinenlesbaren Format anzufordern (oder anzufordern, dass diese Kopie an einen anderen Dienstanbieter weitergeleitet wird);
+(e)	das Recht, uns aufzufordern, Ihre personenbezogenen Daten nicht zu verarbeiten bzw. die Verarbeitung einzustellen oder Informationen, die wir über Sie speichern, zu löschen.
+
+10.3	Sie können Ihre oben genannten Rechte ausüben, indem Sie uns über die Angaben in Abschnitt 2 dieser Datenschutzerklärung kontaktieren. Wenn Sie keine Push-Benachrichtigungen mehr erhalten möchten, können Sie Ihre Einstellungen in Ihren Geräteeinstellungen aktualisieren.
+11. LINKS VON DRITTANBIETERN
+Unsere App kann Links zu Websites, Plug-ins und Apps von Drittanbietern enthalten. Wenn Sie auf diese Links klicken oder diese Verbindungen aktivieren, können Dritte möglicherweise Daten über Sie erfassen oder weitergeben. Wir kontrollieren diese Websites, Plug-Ins und Apps von Drittanbietern nicht und sind nicht für deren Datenschutzerklärungen verantwortlich. Wenn Sie unsere Website verlassen, empfehlen wir Ihnen, die Datenschutzerklärungen aller von Ihnen besuchten Dritten zu lesen.
+12. WELCHE ARTEN VON DATEN ERFASSEN WIR ÜBER KINDER?
+12.1	Wenn ein Benutzer bei dem Versuch, unsere App zu verwenden, angibt, dass er ein Kind ist, leiten wir das Kind in einen anderen Bereich unserer App weiter, die es einem Kind ermöglicht, unsere Dienste zu nutzen, wie es bei jedem anderen Benutzer der Fall ist, der aber keine Erfassung zusätzlicher personenbezogener Informationen zulässt (wie unter COPPA definiert).
+12.2	Wir erfassen nur einen Teil der oben genannten personenbezogenen Informationen, wenn sich ein Benutzer als Kind identifiziert, einschließlich Benutzername und eindeutiger Kennungen. Kinder können unsere App nutzen, Inhalte anzeigen und viele Funktionen nutzen, ohne dass personenbezogene Daten (wie unter COPPA definiert) erfasst werden. Wenn die Zustimmung der Eltern gesetzlich vorgeschrieben ist, fordern wir diese an.
+13. ZUSÄTZLICHE PERSÖNLICHKEITSRECHTE FÜR EINWOHNER KALIFORNIENS
+13.1	In diesem Abschnitt finden Sie zusätzliche Angaben, die nach kalifornischem Recht erforderlich sind.	
+13.2	Wenn Sie ein kalifornischer Verbraucher sind, dessen personenbezogene Daten über die App („Kunde“) erfasst werden, gewährt Ihnen das kalifornische Verbraucherschutzgesetz („CCPA“) bestimmte Rechte in Bezug auf diese personenbezogenen Daten. Insbesondere haben Sie das Recht, von den Unternehmen folgende Informationen anzufordern:	
+
+(a)	Die Kategorien und spezifischen personenbezogenen Informationen, die wir über Sie erfasst haben.
+(b)	Die Kategorien oder Quellen, aus denen wir personenbezogene Daten erfassen.
+(c)	Die Zwecke für das Erfassen und Verwenden personenbezogener Informationen.
+(d)	Die Kategorien von Dritten, denen wir personenbezogene Daten mitteilen.
+(e)	Die Kategorien personenbezogener Informationen, die zu geschäftlichen Zwecken über Sie offengelegt werden
+
+13.3	Sie haben auch das Recht, von uns zu verlangen, unter bestimmten Umständen personenbezogene Daten vorbehaltlich einiger Ausnahmen zu löschen. Darüber hinaus haben Sie das Recht, bei der Ausübung eines dieser Rechte nicht diskriminiert zu werden.	
+13.4	Sie können Ihre oben genannten Rechte ausüben, indem Sie uns unter Verwendung der in Abschnitt 2 dieser Datenschutzerklärung angegebenen Details kontaktieren. Wenn Sie eine Anfrage einreichen, werden wir Sie auffordern, Ihre Identität nachzuweisen, sofern dies machbar ist. Je nach Art der Anfrage und der Nachweismaßnahmen, die dem Risiko der persönlichen Daten angemessen sind, können wir Ihre Identifikationsdaten mit unseren personenbezogenen Daten im Zusammenhang mit der Anfrage (den Anfragen) abgleichen. Es gibt keine vernünftige Methode, mit der wir Ihre Identität mit der gesetzlich vorgeschriebenen Sicherheit für bestimmte personenbezogene Daten überprüfen können, z. B. eindeutige Kennungen wie Cookie-IDs, Geräte-IDs und IP-Adressen (sofern diese Informationen von uns nicht im Zusammenhang mit direkt identifizierbaren Informationen gespeichert sind). Unter bestimmten Umständen kann es Ausnahmen von diesen Rechten geben, und wenn Sie aufgrund einer Ausnahme kein Recht ausüben können, wird Pokémon diese Informationen bereitstellen. Pokémon wird angemessene Anstrengungen unternehmen, um Ihre Anfrage innerhalb der gesetzlich festgelegten Reaktionszeiten zu erfüllen.	
+13.5	Gemäß dem CCPA veräußert Pokémon Ihre personenbezogenen Daten nicht und hat dies in den letzten 12 Monaten nicht getan.	
+13.6	Zusätzlich zu dem Zweck, zu dem Ihre personenbezogenen Daten an andere Dritte (einschließlich professioneller Berater) in Abschnitt 5.1 (e) und Abschnitt 6 weitergegeben werden, umfasst dies die Weitergabe zu Geschäftszwecken, die den Zugriff auf unsere Systeme erfordern, die personenbezogene Daten enthalten (z. B. die Bereitstellung von Informationen) Cloud-Datenspeicherung, Aufrechterhaltung der Sicherheit unserer Systeme und Bereitstellung von Kundensupport). In den letzten 12 Monaten haben wir personenbezogene Daten entsprechend aller in Abschnitt 3 beschriebenen Kategorien an Anbieter weitergegeben.	
+13.7	Gemäß Abschnitt 1798.83 des Zivilgesetzbuchs von Kalifornien können Kunden mit Wohnsitz in Kalifornien bestimmte Informationen in Bezug auf die Weitergabe personenbezogener Daten an Dritte für ihre eigenen Direktmarketingzwecke anfordern. Wir geben die personenbezogenen Daten unserer Kunden ohne Ihre Zustimmung nicht an nicht verbundene Dritte für eigene Direktmarketingzwecke weiter. Bei Fragen zu unserer Offenlegungsrichtlinie wenden Sie sich bitte an uns. Verwenden Sie dazu die Angaben in Abschnitt 2.	
+14. DATENSCHUTZBEAUFTRAGTER
+14.1	Wenn Sie unseren Datenschutzbeauftragten kontaktieren möchten, wenden Sie sich bitte an folgende Anschrift:
+
+(a)	The Pokémon Company
+(b)	Attention: Data Protection Officer
+(c)	Adresse: Roppongi Hills Mori Tower 8F
+
+(i)	6-10-1 Roppongi, Minato-ku
+(ii)	Tokyo 106-6108 Japan
+15. ÄNDERUNGEN DIESER DATENSCHUTZERKLÄRUNG UND IHRE VERPFLICHTUNG, UNS ÜBER ÄNDERUNGEN ZU INFORMIEREN
+Wir können die vorliegende Datenschutzerklärung jederzeit ändern, indem wir das Datum der letzten Aktualisierung ändern. Wenn wir wesentliche Änderungen an der Art und Weise der Erfassung, Verwendung oder Weitergabe Ihrer personenbezogenen Daten vornehmen, werden wir die Änderungen beschreiben und, falls gesetzlich vorgeschrieben, Ihre Zustimmung zu solchen Änderungen einholen.
+Es ist wichtig, dass die personenbezogenen Daten, die wir über Sie speichern, korrekt und aktuell sind. Bitte halten Sie uns auf dem Laufenden, wenn sich Ihre personenbezogenen Daten während Ihrer Geschäftsbeziehung mit uns ändern, indem Sie Ihre Profilkontodaten aktualisieren oder uns über die Kontaktinformationen oben in dieser Datenschutzerklärung kontaktieren. Diese Datenschutzerklärung wurde am 11. November 2020 aktualisiert.
+*Asien
+Republik Indien
+Republik Indonesien
+Republik Singapur
+Königreich Thailand
+Islamische Republik Pakistan
+Republik der Philippinen
+Brunei Darussalam
+Malaysia
+Republik Korea
+Hongkong
+Macau
+Taiwan
+Japan
+
+
+
+POLÍTICA DE PRIVACIDAD DE THE POKÉMON COMPANY RELATIVA A POKÉMON HOME
+Para usuarios fuera de Asia* (véase al final de la política la lista de países/regiones de Asia).
+1. INTRODUCCIÓN
+Esta política de privacidad (Política de privacidad) describe cómo recopilamos y utilizamos The Pokémon Company y sus filiales Pokémon Center Co., Ltd., The Pokémon Company International, Inc. y Pokémon Korea, Inc. sus datos personales (su información personal) en relación con Pokémon HOME (nuestra Aplicación). Además, describe los derechos que le asisten de acceso o rectificación de sus datos personales.
+2. SOBRE NOSOTROS
+2.1	The Pokémon Company es una empresa japonesa, cuyo domicilio social se indica más adelante.
+2.2	Puede ponerse en contacto con nosotros del modo que se indica a continuación.
+
+The Pokémon Company International, Inc.
+A/A: Pokémon HOME
+Dirección postal: 10400 NE 4th Street, Suite 2800
+                         Bellevue, WA 98004 EE. UU.
+Correo electrónico: privacyquestions@pokemon.com
+3. INFORMACIÓN QUE RECOPILAMOS SOBRE USTED
+3.1 Información que nos proporciona.
+No es necesario proporcionar información personal para usar la Aplicación. No obstante, si opta por no revelar información personal, no podrá disfrutar de ciertas funcionalidades de la Aplicación.
+
+3.1.1	Recopilaremos la información que nos proporcione cuando usted:
+	
+(a)	Acceda a ciertas funcionalidades o funciones de nuestra Aplicación que precisan información personal.
+(b)	Formule una consulta, nos facilite sus observaciones o plantee una queja por correo electrónico o a través de nuestro servicio de atención al cliente.
+(c)	Nos envíe correspondencia por correo postal o electrónico, o bien a través de nuestro servicio de atención al cliente.
+
+3.1.2	La información que nos facilite al usar nuestra Aplicación incluirá (según las circunstancias):
+	
+(a)	Datos de identidad. País o región en la que se encuentre ubicado y fecha de nacimiento.
+(b)	Datos de perfil del jugador. Podrá también facilitar un nombre de usuario, una identificación para transferir o realizar copias (para permitirle transferir sus datos de perfil a un nuevo dispositivo) y preferencias de idioma.
+
+
+NOTA: No utilice como nombre de usuario su nombre, iniciales ni ningún otro tipo de información real que le identifique, incluyendo:
+・Cualquier ID o identificador que se utilice en el juego, contraseñas, etc.
+・Solicitud de información
+3.2 Información que recopilamos sobre usted.
+(a)	Datos de la operación. Recopilaremos información relacionada con sus operaciones de compra a través de nuestra Aplicación, como la fecha y la hora, los importes facturados y otros detalles de la operación.
+(b)	Información incluida en la correspondencia. Recopilaremos la información incluida en cualquier correspondencia que mantenga con nosotros. Por ejemplo, cuando usted se pone en contacto con nosotros para solicitar los servicios de atención al cliente, mantenemos un registro de dicha correspondencia.
+(c)	Datos técnicos. Además, recopilaremos cierta información sobre el uso que haga de nuestra Aplicación y sobre el dispositivo que utilice para acceder a ella, aun cuando no haya creado una cuenta ni se haya conectado. Dicha información puede incluir su ubicación geográfica, datos sobre el dispositivo (como el modelo del aparato, información sobre el sistema operativo, los identificadores de dispositivo únicos, el identificador del terminal, los datos de configuración del terminal, etc.), el identificador publicitario (en aplicaciones que incluyan publicidad), los identificadores únicos de los jugadores, como el identificador y la clave de la transferencia o la copia de seguridad, el identificador y la clave del jugador, la clave de acceso, los datos enviados a través de su navegador (como su dirección IP, sus ajustes de zona horaria, el estado de acceso/código de estado HTTP, los ajustes de idioma y la fuente de referencia de los ajustes de zona horaria), información sobre su interacción con la Aplicación, que incluye información con un registro de fecha y hora, tales como las visitas a páginas concretas, las solicitudes, el número de sesiones, el número de descargas, el avance en el juego y datos relativos al juego, incluidos los errores en el juego, las compras en la Aplicación, la duración de la visita a la Aplicación, el registro de las teclas pulsadas e información similar). Es posible que esta información sea recopilada por un proveedor de servicios analíticos externo en nuestro nombre o mediante cookies o tecnologías similares. Si desea más información sobre el uso de cookies, lea el apartado 7 más adelante.
+(d)	Permisos de la Aplicación. También es posible que solicitemos permiso para acceder a aplicaciones y a determinadas funciones de su dispositivo. Nuestra Aplicación podrá solicitar acceso al GPS cuando usted nos autorice a recopilar sus datos de geolocalización. Además, podremos solicitarle acceso a las funciones de la cámara de su dispositivo para que pueda añadir amigos a la Aplicación, así como a las funciones del micrófono para permitir una búsqueda de voz cuando el audio pueda enviarse al proveedor del sistema operativo de su dispositivo (tal como se solicite por su proveedor y al amparo de sus prácticas de privacidad) de forma que no pueda ser usted identificado.
+4. CÓMO UTILIZAMOS SU INFORMACIÓN Y DESTINATARIOS DE LA MISMA
+4.1	Utilizaremos su información para los fines que se enumeran más adelante, en función de las siguientes bases:
+
+(a)	El cumplimiento de nuestro contrato con usted y la prestación de nuestros servicios.
+(b)	Su consentimiento (cuando lo solicitemos).
+(c)	La necesidad de cumplir con una obligación legal o normativa.
+(d)	Nuestros intereses legítimos.
+
+4.2	Utilizamos su información en los anteriores supuestos (véase el apartado 4.1) y con fines comerciales legítimos, que incluyen los siguientes:
+
+(a)	Dar acceso a nuestra Aplicación. Para proporcionarle acceso a nuestra Aplicación de manera cómoda y óptima, ofrecerle contenidos relevantes para usted y permitirle llevar un registro de su partida en nuestra Aplicación.
+(b)	Dar acceso a ciertas funciones de la Aplicación. Para que usted pueda acceder a funciones como las compras dentro de la Aplicación y el juego.
+(c)	Permitir jugar con otras personas. Usaremos la información que nos proporcione (como su nombre de usuario y sus ajustes de idioma) para que pueda jugar con otros jugadores.
+(d)	Procesar y facilitar las transacciones con nosotros. Usaremos su información para procesar las transacciones y los pagos, y para recaudar y cobrar el dinero que se nos deba.
+(e)	Prestar servicio de atención al usuario y al cliente. Para brindar atención y asistencia al cliente, gestionar las consultas y las quejas en relación con nuestra Aplicación y compartir su información personal con los desarrolladores de nuestra Aplicación, el proveedor de soporte informático y el proveedor de servicios de pago, siempre que sea necesario para prestar el servicio de atención al cliente.
+(f)	Enviar notificaciones automáticas. Para enviarle notificaciones automáticas sobre el uso que hace de nuestra Aplicación, nuestras noticias, eventos, nuevas funciones de la Aplicación, productos o servicios que creemos que pueden interesarle, siempre que usted nos haya dado su permiso para hacerlo.
+(g)	Elaborar análisis. Para realizar un análisis de datos que nos permita mejorar nuestra Aplicación, los productos o servicios, el marketing, las relaciones con el cliente y las experiencias.
+(h)	Detectar y prevenir fraudes y actividades ilícitas. Para proteger, investigar y evitar actividades fraudulentas, no autorizadas o ilegales, incluyendo, entre otras, el robo de identidad; proteger los derechos y la propiedad de Pokémon, nuestros agentes, nuestros clientes y otras personas, incluyendo la aplicación de nuestras condiciones, políticas, reglamentos y acuerdos; proteger la seguridad de cualquier persona; así como proteger la seguridad de los servicios, los sitios webs y las aplicaciones tanto de Pokémon como de nuestros socios.
+(i)	Cumplir con políticas, procedimientos y leyes. Para poder cumplir con nuestras políticas y procedimientos y hacer valer nuestros derechos legales, o compartir su información con nuestros asesores técnicos y jurídicos, así como cumplir con la ley, o responder a solicitudes legítimas y procesos legales, como, por ejemplo, para cumplir con una orden o citación judicial.
+
+4.3	Si se encuentra en la UE o el Reino Unido y le preocupa nuestro tratamiento de la información, consulte los detalles en el apartado 10: «Derechos de los usuarios en la UE o el Reino Unido».
+5. CON QUIÉN PODEMOS COMPARTIR SU INFORMACIÓN
+5.1	En relación con los fines y los motivos legítimos antes mencionados, compartiremos su información personal con las terceras personas que corresponda y que se detallan a continuación:
+
+(a)	Usuarios de la Aplicación con los que juegue. Otros usuarios de la Aplicación con los que juegue que estén tanto dentro como fuera de la UE o el Reino Unido.
+(b)	Nuestros proveedores de servicios. Proveedores, consultores y otros proveedores de servicios externos que trabajen para nosotros y accedan a su información personal para desempeñar su trabajo.
+(c)	Terceros. Terceras partes con las que haya accedido a compartir su información para poder usar sus servicios con nuestra Aplicación, sujeto a la política de privacidad correspondiente. Compartiremos su información con Niantic, Inc. con objeto de proporcionar los servicios oportunos cuando decida vincular su cuenta Nintendo a Pokémon GO.
+(d)	Filiales. The Pokémon Center Co., Ltd., The Pokémon Company International, Inc. y Pokémon Korea, Inc., con sede en Japón, el Reino Unido, EE. UU. y Corea del Sur.
+(e)	Posibles vendedores y compradores de nuestro negocio. En relación con una fusión, financiación, adquisición, concurso de acreedores, disolución, transacción o procedimiento que implique la venta, cesión, desinversión o revelación de una parte o de la totalidad de nuestra empresa o activos, o durante la negociación de cualquiera de ellos.
+(f)	Otros terceros (incluidos asesores profesionales). Cualquier tercero (incluidos los asesores jurídicos y de otra clase, las autoridades reguladoras, los tribunales, los organismos de orden público y las oficinas administrativas) con sede en el Reino Unido, EE. UU., Japón y otros países/regiones que nos permitan aplicar nuestros derechos legales, o proteger los derechos, la propiedad o la seguridad de nuestros empleados, o cuando dicha revelación esté permitida o exigida por ley.
+6. USO DE MÓDULOS DE RECOPILACIÓN DE INFORMACIÓN DE TERCEROS
+Podremos usar el Módulo de recopilación de la información de un tercero para investigar las tendencias en el uso de la Aplicación, operar de forma eficaz con la Aplicación, prevenir estafas e insertar publicidad para los clientes. En este caso, las organizaciones que se detallan a continuación podrán solicitar información para dicho fin. Consulte también la política de privacidad de la empresa correspondiente.
+[Advertising SDK] Metaps, Inc. (MetapsLinks)
+[Push Notifications] Google LLC (Google Firebase)
+[Crash Data through Nintendo Switch] Nintendo Co., Ltd.
+7. COOKIES Y SEGUIMIENTO
+7.1	Tanto nosotros como otras personas utilizamos cookies, balizas webs, identificadores de dispositivos y otros mecanismos de seguimiento para que usted pueda sacar el máximo partido a nuestra Aplicación. Las cookies son pequeños volúmenes de información en forma de archivos de texto que instalamos en el dispositivo que usted utiliza para acceder a nuestra Aplicación. Las cookies, así como otros mecanismos de seguimiento como los identificadores de dispositivos, nos permiten a nosotros y a terceros observar el uso que usted hace del software para que le resulte más sencillo utilizar la Aplicación; además, nos ayudan a nosotros y a terceros a relacionar sus actividades en sitios web, en sus navegadores y dispositivos móviles con fines publicitarios.
+7.2	Si no quiere que se instalen cookies en su dispositivo, puede modificar los ajustes de configuración para que su dispositivo las rechace. Si desea más información sobre cómo configurar los ajustes para bloquear las cookies, visite http://www.aboutcookies.org (en inglés). Tenga en cuenta que si configura su navegador de internet para que bloquee las cookies, es posible que no pueda acceder a todas las funciones de nuestra Aplicación. Dado que ciertas preferencias de bloqueo también se almacenan en una cookie instalada en su dispositivo (como la opción de bloquear el envío de publicidad), tenga en cuenta que si elimina todas las cookies, deberá volver a activar las opciones de bloqueo. Algunos navegadores de internet pueden enviar un mensaje pidiendo que no se le rastree. Dado que no se han adoptado criterios uniformes para este tipo de mensajes, es posible que nuestra Aplicación no los detecte o no los procese.
+7.3	Nuestro sitio web puede incluir contenidos y enlaces a otros sitios web operados por terceros que también pueden utilizar cookies y otros mecanismos de seguimiento. Nosotros no controlamos esos sitios de terceros ni sus actividades de seguimiento, y esta Política de privacidad no se les aplica. Consulte los términos y condiciones de la política de privacidad del sitio del tercero pertinente para averiguar cómo recopila y utiliza su información dicho sitio, y determinar si utiliza cookies y con qué finalidad.
+8. CÓMO CUIDAMOS DE SU INFORMACIÓN Y DURANTE CUÁNTO TIEMPO LA CONSERVAMOS
+8.1	Aplicamos las medidas de seguridad tecnológicas y operativas apropiadas para proteger su información contra un acceso no autorizado o un uso ilegítimo.
+8.2	Conservaremos su información tanto tiempo como sea conveniente para prestarle los servicios que nos haya solicitado, o tanto tiempo como sea razonablemente necesario para nuestros fines comerciales legítimos, así como a efectos de aplicación y de cumplimiento de la ley, o para resolver conflictos. Los periodos de conservación reales dependen de diversos factores, como el tipo de producto, el tipo y la sensibilidad de los datos, las necesidades comerciales, las expectativas y necesidades del cliente, los tipos de controles al alcance del usuario y la forma en la que se almacenan los datos.
+9. TRANSFERENCIAS INTERNACIONALES DE SU INFORMACIÓN
+9.1	Nuestra empresa está ubicada en Japón y la información personal que recopilamos sobre usted se almacenará principalmente en Francia y Alemania. Esto implicará una transferencia de datos fuera del EEE o el Reino Unido.
+9.2	Cuando transferimos sus datos personales desde el EEE o el Reino Unido al exterior del EEE o el Reino Unido, nos aseguramos de que se les proporciona un nivel similar de protección garantizando la aplicación de al menos una de las siguientes soluciones de transferencia:
+
+(a)	Cuando usamos ciertos proveedores de servicios, podemos emplear contratos concretos aprobados por la Comisión Europea que conceden a los datos la misma protección que en Europa. Para ampliar la información, consulte Comisión Europea: Modelos de contratos para la transferencia de datos personales a países terceros (en inglés).
+(b)	Cuando utilizamos proveedores con sede en EE. UU., podemos transferirles datos si son parte del Escudo de la privacidad, que les exige proporcionar una protección similar a los datos personales compartidos entre Europa y EE. UU. Para ampliar la información, consulte Comisión Europea: Escudo de la privacidad EU-EE. UU. (en inglés).
+
+9.3	Contacte con nosotros usando los datos de contacto indicados en el apartado 2 de esta Política de privacidad si desea obtener más información sobre el mecanismo concreto que empleamos cuando transferimos sus datos personales fuera del EEE o del Reino Unido.
+10. DERECHOS DE LOS USUARIOS EN LA UE O EL REINO UNIDO
+10.1	Si se encuentra en la UE o el Reino Unido, tiene ciertos derechos en relación con la información que almacenamos sobre usted, incluidos los que se detallan a continuación:
+
+(a)	Derecho a recibir información sobre los modos en los que usamos su información, tal y como pretendemos a través de la presente Política de privacidad.
+(b)	Derecho a solicitarnos que no tratemos sus datos personales con fines de marketing.
+(c)	Derecho a solicitar el acceso a la información que almacenamos sobre usted.
+(d)	Derecho a solicitar que rectifiquemos o corrijamos la información que tenemos sobre usted que sea obsoleta o incorrecta.
+(e)	En ciertas circunstancias, derecho a solicitarnos que dejemos de tratar la información sobre usted.
+(f)	Derecho a formular quejas sobre nosotros ante la Oficina del Comisionado de información del Reino Unido (UK Information Commissioner’s Office) (https://ico.org.uk/).
+
+Tenga en cuenta que es posible que necesitemos conservar cierta información para nuestros propios fines de registro e investigación. También es posible que necesitemos enviarle comunicaciones sobre el servicio en relación con su cuenta de usuario del sitio web, incluso cuando haya solicitado no recibir comunicaciones de marketing. Puede haber excepciones a estos derechos en ciertas circunstancias y, cuando no pueda ejercitar alguno debido a una excepción, le facilitaremos la explicación.
+10.2	De conformidad con las leyes de protección de datos en vigor desde el 25 de mayo de 2018, goza de ciertos derechos adicionales en relación con la información que conservamos sobre usted, incluidos los que se detallan a continuación:
+
+(a)	Además de su derecho a formular una queja contra nosotros a través de la Oficina del Comisionado de información del Reino Unido (https://ico.org.uk/), también podrá presentar una queja ante la autoridad pertinente de su país/regiones de residencia o donde trabaje.
+(b)	El derecho a revocar su consentimiento para que usemos su información dependiente de su consentimiento, que podrá ejercitar contactando con nosotros utilizando los datos que figuran en el apartado 2 de la presente Política de privacidad.
+(c)	El derecho de oposición a que usemos su información sobre la base de nuestros legítimos intereses por existir algo en su situación concreta que hace que quiera oponerse al tratamiento por este motivo.
+(d)	El derecho a recibir una copia de la información que almacenamos sobre usted (o solicitar que la transfiramos a otro proveedor de servicio) en un formato estructurado, de uso habitual y de lectura mecánica, en determinadas circunstancias.
+(e)	El derecho a solicitarnos que limitemos, dejemos de tratar o suprimamos la información que tenemos sobre usted, en ciertas circunstancias.
+
+10.3	Podrá ejercitar sus derechos indicados anteriormente contactando con nosotros por medio de los datos que aparecen en el apartado 2 de esta Política de privacidad, o para frenar la recepción de notificaciones automáticas podrá actualizar sus preferencias en los ajustes de su dispositivo.
+11. ENLACES DE TERCEROS
+Es posible que nuestra Aplicación incluya enlaces a sitios web, complementos y aplicaciones de terceros. Al hacer clic sobre dichos enlaces o activar las conexiones, es posible que terceros puedan recopilar o compartir datos sobre usted. No controlamos los sitios web, los complementos ni las aplicaciones de dichos terceros y no somos responsables de sus declaraciones de privacidad. Cuando abandone nuestro sitio web, le recomendamos que lea la política de privacidad de cada tercero que visite.
+12. TIPOS DE INFORMACIÓN QUE RECOPILAMOS SOBRE MENORES
+12.1	Si un usuario ha señalado que es menor al intentar usar nuestra Aplicación, dirigiremos al menor a una experiencia distinta dentro de nuestra Aplicación que permite a dicho menor usar nuestros servicios prácticamente como cualquier otro usuario pero no permite que se recopile información personal adicional (tal como se define en la COPPA).
+12.2	Recopilamos solo una parte de la información personal indicada anteriormente cuando el usuario se identifica como menor, lo que incluye el nombre de usuario y los identificadores únicos. Los menores pueden usar nuestra Aplicación, visualizar el contenido y disfrutar de muchas funcionalidades sin que se recopile ninguna información personal (tal como se define en la COPPA); además, solicitaremos el consentimiento de alguno de los padres cuando así lo exija la ley.
+13. DERECHOS DE PRIVACIDAD ADICIONALES PARA LOS RESIDENTES EN CALIFORNI
+13.1	Esta sección le facilita información adicional que exige la ley en California.
+13.2	Si es usted un consumidor de California cuya información personal se recopila a través de la Aplicación («cliente»), la ley de privacidad del consumidor de California (California Consumer Privacy Act, «CCPA» por sus siglas en inglés) le reconoce ciertos derechos en relación con dicha información personal. En concreto, tendrá derecho a solicitar que las empresas le faciliten la información que se detalla a continuación:
+
+(a)	Las categorías y elementos concretos de información personal que hayamos recopilado sobre usted
+(b)	Las categorías o fuentes de las que recopilamos información personal.
+(c)	La finalidad para recopilar y usar la información personal.
+(d)	Las categorías de terceros con los que compartimos información personal.
+(e)	Las categorías de información personal reveladas sobre usted con fines comerciales.
+
+13.3	También tendrá derecho a solicitar que eliminemos la información personal al amparo de determinadas circunstancias, con sujeción a algunas excepciones. Además, tendrá derecho a no ser discriminado por ejercitar alguno de esos derechos.
+13.4	Podrá ejercitar sus derechos descritos anteriormente contactando con nosotros a través de los datos del apartado 2 de la presente Política de privacidad. Si formula una solicitud, le pediremos que verifique su identidad cuando, si es posible, debamos contrastar su información de identificación con la información personal que tenemos de usted, en función del tipo de solicitud realizada y las medidas de comprobación proporcionales al riesgo que implica para la información personal la solicitud formulada. No existe un medio razonable por el que podamos comprobar su identidad hasta el grado de certeza exigido por ley para ciertos elementos de información personal; por ejemplo, los identificadores únicos tales como los identificadores de cookies, el identificador del dispositivo y la dirección IP (cuando dicha información no la almacenamos en relación con información identificable). Puede haber excepciones a estos derechos en ciertas circunstancias y cuando no pueda ejercitar alguno debido a una excepción, Pokémon le facilitará la explicación. Pokémon pondrá los medios razonables para atender su solicitud dentro de los plazos de respuesta que marquen las leyes aplicables.
+13.5	Pokémon no vende su información personal tal como se define en la CCPA y no lo ha hecho en los últimos 12 meses.
+13.6	Además de los fines para los que se comparte su información personal con otros terceros (incluidos asesores profesionales) de las secciones 5.1 (e) y 6 anteriores, se incluye compartirla con fines comerciales que exigen acceso a nuestros sistemas que almacenan información personal (como proveer de almacenamiento de datos en la nube, mantener la seguridad de nuestros sistemas y facilitar atención al cliente). En los últimos doce meses, hemos revelado a proveedores todas las categorías de información personal descritas en la sección 3.
+13.7	El artículo 1798.83 del Código Civil de California permite a los clientes residentes en California solicitar cierta información en relación con la revelación de información personal a terceros para sus propios fines de marketing directo. No compartimos la información personal de nuestros clientes con terceros no filiales para sus propios fines de marketing directo sin su consentimiento. Para formular preguntas acerca de nuestra política de revelación, contacte con nosotros mediante los datos del apartado 2.
+14. RESPONSABLE DE LA PROTECCIÓN DE DATOSM
+14.1	Si desea ponerse en contacto con nuestro Responsable de la Protección de Datos, puede hacerlo a través de las siguientes direcciones:
+
+(a)	The Pokémon Company
+(b)	A/A: Responsable de la protección de datos
+(c)	Dirección postal: Roppongi Hills Mori Tower 8F
+
+(i)	6-10-1 Roppongi, Minato-ku
+(ii)	Tokio 106-6108 Japón
+15. MODIFICACIONES DE LA POLÍTICA DE PRIVACIDAD Y OBLIGACIÓN DEL USUARIO DE INFORMARNOS DE LOS CAMBIOS
+Podremos modificar esta Política de privacidad en cualquier momento cambiando su fecha de última actualización. Si hiciéramos cualquier cambio importante relativo a la forma en la que recopilamos, utilizamos o compartimos su información personal, explicaríamos dichos cambios y, si la legislación así lo exigiese, le pediríamos su consentimiento al respecto.
+Es importante que los datos personales que conservamos sobre usted sean precisos y estén actualizados. Le rogamos que nos informe de cualquier cambio en sus datos personales mientras dure su relación con nosotros. Para ello, puede actualizar la información de su perfil, o bien ponerse en contacto con nosotros a través de cualquiera de las direcciones indicadas al principio de esta Política de privacidad. Esta Política de privacidad se actualizó el 11 de noviembre de 2020.
+*Asia
+República de la India
+República de Indonesia
+República de Singapur
+Reino de Tailandia
+República Islámica de Pakistán
+República de Filipinas
+Brunei Darussalam
+Malasia
+República de Corea
+Hong Kong
+Macao
+Taiwán
+Japón
+
+
+
+THE POKÉMON COMPANY关于Pokémon HOME的隐私声明
+针对亚洲以外的用户*（详见本声明文末亚洲国家/地区列表。）
+1. 引言
+本隐私声明（“本隐私声明”）规定The Pokémon Company及其关联公司Pokémon Center Co., Ltd.、The Pokémon Company International及Inc. Pokémon Korea, Inc.通过Pokémon HOME（“本APP”）收集和使用您的个人数据（您的个人信息）的方式。本隐私声明同时就您拥有的访问或更改个人数据的权限进行说明。
+2. 关于本公司
+2.1	The Pokémon Company是注册在日本的公司，其地址如下。
+2.2	您可通过以下方式联系本公司：
+
+The Pokémon Company International, Inc.
+收件人：Pokémon HOME
+地址：10400 NE 4th Street, Suite 2800 Bellevue, WA 98004 USA
+电子邮件：privacyquestions@pokemon.com
+3. 本公司收集的有关您的信息
+3.1 您向本公司提供的信息
+本公司不要求提供个人信息以使用本APP。但是，如您选择不披露个人信息，您可能将无法使用本APP的特定功能。
+
+3.1.1	在您进行以下操作时，本公司将收集您提供给本公司的所有信息：
+
+（a）	访问本APP中要求个人信息的特定功能或机能；
+（b）	通过电子邮件或本公司的客服网站提出咨询、提供反馈或投诉；
+（c）	通过邮寄、电子邮件或本公司的客服网站向本公司提交的通讯。
+
+3.1.2	您在使用本APP时向本公司提供的下列信息（视个别情况而定）：
+
+（a）	身份数据：您所在的国家或地区、出生日期；
+（b）	玩家资料数据：您还可以提供用户名、传输/备份ID（以便将您的个人资料数据传输至新设备）和语言首选项。
+3.2 本公司收集的有关您的信息
+（a）	交易数据。本公司将收集您在本APP内的购买交易相关信息，包括日期时间、收费金额以及其他相关交易详情；
+（b）	往来联络中包含的信息。本公司将收集与您的任何联络中包含的任何信息。例如，您与本公司联系以寻求客户协助的，本公司将会保留该联络记录；
+（c）	技术数据。即使您尚未创建帐户或未登录，本公司仍将收集有关您使用本APP的方式、以及用于访问本APP的设备的某些信息。该信息可能包括您的地理位置、设备信息（例如您的硬件型号、操作系统信息、唯一设备标识符、终端标识符、广告标识符、终端信息、终端设置信息等）、广告ID（在显示广告的APP中）、唯一玩家标识符（例如转移/备份ID及密钥、玩家ID、玩家密钥、访问密钥）、通过您使用之浏览器传输的数据（例如您的IP地址、时区设置、访问状态/ HTTP状态代码，语言设置和时区设置引用来源）、有关您与APP交互的信息（包括带有时间和日期的信息，例如页面浏览量、请求、会话数、下载次数、用户的游戏进度）、以及与游戏相关的数据（包括游戏错误、应用内购买、应用访问时间、按键日志以及其他类似信息）。此信息可能由第三方分析服务提供商代表本公司收集和/或可能使用Cookie或类似技术收集。有关cookie的更多信息，请阅读下文第7条；
+（d）	应用权限。本公司可能还会向您请求权限以访问设备上的APP和特定功能。当您同意本公司收集地理位置数据时，本APP可能会请求访问GPS。本公司还可能要求访问您设备的摄像头功能以便您在本APP中添加好友，以及使用麦克风功能来启用语音搜索，该音频可能以一种无法识别您的身份的方式发送到您设备的操作系统提供商（由提供商要求并受其隐私政策约束）。
+4. 本公司使用您相关信息的方式以及您信息的接收人
+4.1	本公司将基于以下目的使用您的信息：
+
+（a）	为履行与您之间的合同并向您提供本公司的服务；
+（b）	在本公司要求并取得您的同意时；
+（c）	为遵守法律或监管义务；
+（d）	为本公司的合法利益。
+
+4.2	本公司基于上述原则（请参见第4.1条）使用您的信息，并将其用于本公司的下述合法业务目的：
+
+（a）	为提供对本APP的访问。为提供您访问本APP的便利且最佳的方式、提供与您相关的个性化内容并允许您在本APP中存储您的游戏体验；
+（b）	为允许您访问特定App功能。为使您能够访问本APP内购买并体验游戏；
+（c）	为使您可以与其他玩家联机游戏。本公司将使用您提供的信息（例如您的用户名和语言设置）使您能够与其他玩家联机游戏；
+（d）	为处理并推进与您之间的交易。本公司将使用您的信息用于处理交易及付款以及用于收取和回收您对本公司的应付账款；
+（e）	用户及客户支持。为提供客户服务及支持，处理有关本App的咨询或投诉并在必要时与本公司的App开发人员、IT支持服务提供商和付款服务提供商共享您的信息；
+（f）	向您推送通知。如获得必要许可，本公司将向您发送本公司认为您可能会感兴趣的与本APP的使用、新闻、活动、新的APP功能、产品或服务等推送通知；
+（g）	分析。为使用数据分析以改善本APP、产品/服务、市场营销、客户关系与体验；
+（h）	检测和预防欺诈和非法活动。为保护、调查并制止欺诈、未经授权或非法活动（包括身份欺诈）；为保护Pokémon及本公司的代理人、本公司的客户以及其他人的权利和财产（包括执行本公司的条款、政策、规则和协议）；为确保任何人的安全；以及/或为确保Pokémon及本公司的合作伙伴的服务、网站和应用程序的安全性；
+（i）	为遵守政策、程序及法律。为使本公司遵守本公司的政策及程序、行使本公司的合法权利、与本公司的技术和法律顾问共享您的信息，为遵守法律或回应合法要求及法律程序（例如遵守法院命令或传票）。
+
+4.3	如您居住在EU或英国，且对本公司的处理有任何疑问，请参见下文第10条“居住在EU或英国境内用户的权利”的详细信息。
+5. 本公司可能共享您的信息的对象
+5.1	基于上述目的和合法依据，本公司将在涉及第三方时共享您的个人信息，例如：
+
+（a）	与您进行游戏的APP用户。与您联机游戏的可能位于EU或英国的境内或境外的其他APP用户；
+（b）	本公司的服务提供商。第三方供应商、顾问及其他为本公司提供服务并访问您的个人信息以提供服务的服务供应商；
+（c）	其他第三方。当您同意向第三方分享您的信息以将其服务与本APP连接使用时，依据其各自的隐私政策，可能包括该取得您同意的第三方。当您选择将您的任天堂账户连接至Pokémon GO时，本公司将与Niantic, Inc.分享您的信息以提供服务。
+（d）	关联企业。分别位于日本、英国、美国和韩国的The Pokémon Center Co., Ltd., The Pokémon Company International, Inc.,及 Pokémon Korea, Inc.。
+（e）	本公司业务的潜在买方或卖方。关于任何合并、融资、收购、破产、解散、交易或该等协商期间，或者出售、转让、处分资产或披露本公司业务或资产的全部或部分；
+（f）	其他任何第三方（包括专家顾问）。为使本公司执行本公司的法律权利或保护权利、财产或员工安全，在法律允许或要求披露时，向位于英国、美国、日本和其他国家/地区的任何其他第三方（包括法律或其他顾问、监管机构、法院、执法机构和政府机构）披露。
+6. 第三方信息收集模块的使用
+本公司可能会使用第三方的信息收集模块来调查本APP的使用动向、本APP的有效运行、防止欺诈及向客户提供广告。在此情况下，本公司可能会为此目的向以下机构提供客户信息。请另行查阅该等公司设置的隐私声明。
+[广告SDK] Metaps Co.，Ltd.（Metapslinks）
+[推送通知] Google Inc.（Google Firebase）
+[收集自Nintendo Switch的系统崩溃数据]任天堂株式会社
+7. Cookie及追踪
+7.1	本公司及其他方使用Cookie、网络信标、设备ID及其他追踪方式来确保您充分使用本APP。Cookies是本公司存储在您用于访问本APP的设备上的小型文本形式的信息。Cookie和其他追踪方式（例如设备ID）允许本公司及其他方追踪您对软件的使用、简化您对本APP的使用，并帮助本公司及其他方关联您使用的移动设备、您在网站上的活动记录以及您使用的浏览器以达到广告目的。
+7.2	如您不希望在设备上安装cookie，您可以更改设备上的设置以拒绝cookie。有关如何通过设置拒绝Cookie，请访问http://www.aboutcookies.org以获取更多信息。请注意，如您将互联网浏览器设置为拒绝Cookie，您可能无法访问本APP的所有功能。由于某些选择退出偏好设置也存储在设备上的Cookie中（例如拒绝广告公司），请注意如您删除所有cookie，您需要重新选择退出选项。部分互联网浏览器可能会发出“请勿追踪”信号。由于“请勿追踪”信号的统一标准尚未被采用，因此本APP可能无法识别或处理“请勿追踪”信号。
+7.3	本公司的网站可能包含由第三方运营的其他网站的内容和链接，该等网站也可能使用cookie或其他追踪方式。本公司无法控制该等第三方网站或其追踪活动，且本隐私声明也不适用于该等公司。请查阅相关第三方网站的条款、条件和隐私声明以了解该等网站如何收集和使用您的信息，并确定其是否以及出于何种目的使用Cookie。
+8. 本公司如何管理您的信息以及保管期限
+8.1	本公司采用适当的技术和运行安全措施来保护您的信息，防止未经授权的访问或非法使用。
+8.2	本公司将在适当的期限内保管您的信息以向您提供您所要求的服务，或为本公司的合法商业目的（例如出于法律合规、执法目的以及解决争议），在合理要求的期限内保管您的信息。实际保留期限取决于多种因素，例如产品类型、数据类型与敏感程度、业务需求、客户的期望与需求、可用的用户控件的类型以及数据的存储形式。
+9. 您信息的跨国转移
+9.1	本公司位于日本，向您收集的个人信息将主要存储在法国和德国。这将涉及向EEA或英国之外的数据传输。
+9.2	当本公司将您的个人数据从EEA或英国内转移到EEA或英国外时，本公司将确保采用以下至少一种转移解决方案，以确保为您提供相近程度的保护：
+
+（a）	本公司使用特定服务提供商的，本公司可能会使用欧盟委员会（European Commission）所认可的就个人数据提供与欧洲相同程度保护的特定合同。有关更多详细信息，请参阅European Commission: Model contracts for the transfer of personal data to third countries；
+（b）	本公司使用位于美国的提供商的，如该等公司是隐私盾（Privacy Field）的成员，且被要求就欧洲和美国之间共享的个人数据提供相近的保护的，本公司可将数据传输给该等公司。有关更多详细信息，请参阅European Commission: EU-US Privacy Shield。
+
+9.3	如您希望了解有关本公司将您的个人信息转移至EEA或英国之外的地区时采用的具体机制的更多信息，请通过本隐私声明第2条的规定与本公司联系。
+10. 居住在EU或英国境内用户的权利
+10.1	如您居住在EU或英国，您对于本公司持有的有关您的信息享有下述权利：
+
+（a）	被告知本隐私声明所在记载的说明本公司使用您信息的方式的权利；
+（b）	要求本公司不得出于市场营销目的处理您的个人数据的权利；
+（c）	请求访问本公司持有的有关您的信息的权利；
+（d）	要求本公司更正或纠正本公司掌握的有关您的任何过时或不正确信息的权利；
+（e）	在特定情况下，要求本公司停止处理有关您的信息的权利；
+（f）	向UK Information Commissioner办公室（https://ico.org.uk/）投诉本公司的权利。
+
+请注意本公司出于记录保存及研究目的，可能需要保存特定信息。即使您拒绝接收市场营销通讯，本公司仍可能需要向您发送与您的网站用户帐户有关的服务相关通讯内容。在特定情况下，上述权利可能会存在例外，如您因例外而无法行使权利，本公司将另行提供解释。
+10.2	根据2018年5月25日起生效的新数据保护法，您对于本公司持有的有关您的信息拥有下述特定附加权利：
+
+（a）	除向UK Information Commissioner办公室（https://ico.org.uk/）投诉本公司外，您还可以向您工作或居住的国家/地区的有关当局提出投诉；
+（b）	撤回对本公司使用您的信息的同意的权利，您可以通过使用本隐私声明第2条的规定与本公司联系；
+（c）	在您有特定理由时，反对本公司出于自身合法利益而使用您的信息的权利；
+（d）	在特定情况下，以结构化、常用的机器可读格式接收本公司持有的有关您的任何信息的副本（或要求本公司将其转移给另一服务提供商）的权利；
+（e）	在特定情况下要求本公司限制、停止处理或删除本公司持有的有关您的信息的权利。
+
+10.3	您可以通过本隐私声明第2条的规定与本公司联系以行使您的上述权利或在设备设置中更新首选项以停止接收推送通知。
+11. 第三方链接
+本APP可能包含指向第三方网站、插件和APP的链接。点击这些链接或启用这些连接可能会允许第三方收集或共享有关您的数据。本公司无法控制这些第三方网站、插件和APP，且对其隐私声明不承担任何责任。当您离开本公司的网站时，本公司建议您阅读您访问的任何第三方的隐私声明。
+12. 本公司收集有关儿童的信息类型
+12.1	如用户在尝试使用本APP时表明其为儿童的，本公司将引导儿童使用本公司APP的另一模式，使该儿童通过与其他用户类似的方式使用本公司的服务，但不允许手机任何附加个人信息（如美国《儿童在线隐私权保护法》（COPPA）定义）。
+12.2	当用户表明其为儿童的，本公司仅收集上述个人信息的一部分，包括用户名和唯一标识符。儿童可以在不收集任何个人信息（如COPPA定义）的情况下使用本APP、查看内容并享受多数功能，如法律要求，本公司将会要求父母的同意。
+13. 加利福尼亚州居民的补充隐私权
+13.1	本条规定加利福尼亚法律要求的补充披露规定。
+13.2	如您是通过本APP被收集个人信息的加利福尼亚州消费者（“客户”），则《加利福尼亚消费者隐私法案》（“CCPA”）为您提供了有关该个人信息的特定权利。具体而言，您有权要求公司向您提供以下信息：
+
+（a）	本公司收集的有关您的个人信息的类别及特定项目；
+（b）	本公司收集个人信息的类别或来源；
+（c）	收集和使用个人信息的目的；
+（d）	本公司共享个人信息给第三方的，该第三方的类别；
+（e）	基于商业目的而披露的有关您的个人信息类别。
+
+13.3	除个别情况外，您还享有在特定情况下要求本公司删除个人信息的权利。此外，您有权不受歧视地行使任何这些权利。
+13.4	您可以通过本隐私声明第2条的规定与本公司联系以行使您的上述权利。如您提交请求，本公司将要求验证您的身份，根据您提出请求的类型以及衡量该要求相关个人信息风险所需的验证措施，本公司可能会将您的身份信息与本公司拥有的有关您的个人信息进行匹配。对于特定的个人信息，本公司没有合理的方法来验证您的身份以达到法律要求的确定程度，例如cookie ID、设备ID和IP地址等唯一标识符（与该信息相关的直接可识别信息非由本公司保存时）。在特定情况下可能存在该等权利的例外，如在您因例外而无法行使权利的，Pokémon将另行提供该信息。Pokémon将在适用法律规定的回复时间内尽合理努力以满足您的要求。
+13.5	Pokémon不会出售CCPA定义的您的个人信息，且在过去的12个月内从未进行该等行为。
+13.6	除了上述5.1（e）条及第6条中与其他第三方（包括专业顾问）共享您的个人信息的目的之外，共享还包括需要访问本公司保存个人信息的系统（例如提供云数据存储、维护本公司系统的安全性及提供客户支持）的商业目的的共享。在过去的12个月内，本公司已向供应商披露了第3条中规定的所有个人信息类别。
+13.7	加利福尼亚州民法典（California Civil Code）1798.83条允许加利福尼亚州居民的客户向第三方要求与第三方出于直接营销目的而披露的个人信息相关的特定信息。未经您的同意，本公司不会出于非关联第三方的直接营销目的而与其共享客户的个人信息。如您就本公司的披露政策有任何疑问，请通过第2条的规定与本公司联系。
+14. 数据保护官
+14.1	如您希望联系本公司的数据保护官，请使用以下方式联络：
+
+（a）	The Pokémon Company
+（b）	收件人：Data Protection Officer
+（c）	地址：Roppongi Hills Mori Tower 8F
+
+（i）	6-10-1 Roppongi, Minato-ku
+（ii）	Tokyo 106-6108 Japan
+15. 本隐私声明的变更以及您应告知本公司的变更事项
+本公司会以修改最后更新日期的方式随时变更本隐私声明。本公司进行关于本公司如何收集、使用或共享您的个人信息的重大变更的，本公司将说明该等变更并在法律要求的情况下，就该等变更征求您的同意。
+对本公司而言，掌握关于您的准确和最新的个人数据十分重要。如在您与本公司的合同期间内您的个人数据发生了变更，请通过更新个人资料帐户信息的方式通知本公司，或通过本隐私声明第2条的规定与本公司联系，以更新该信息。
+
+本隐私声明于2020年11月11日更新。
+
+*亚洲
+印度
+印度尼西亚
+新加坡
+泰国
+巴基斯坦
+菲律宾
+文莱
+马来西亚
+韩国
+香港
+澳门
+台湾
+日本
+
+
+
+THE POKÉMON COMPANY關於POKÉMON HOME的隱私權聲明
+適用於居住在亞洲以外※的用戶（詳見本聲明文末的亞洲國家/地區清單）
+1. 介紹
+本隱私權聲明（「本隱私權聲明」）規定 The Pokémon Company及其關係企業Pokémon Center Co., Ltd.、 The Pokémon Company International, Inc.與Pokémon Korea, Inc.（統稱「本公司」）如何就Pokémon HOME（「本App」）收集及使用您的個人資料（您的個人資訊）。本隱私權聲明同時說明您對於存取或變更您的個人資料享有的權利。
+2. 關於本公司
+2.1	The Pokémon Company為依日本法設立登記之公司，其地址如下。
+2.2	您可以下列方式聯絡本公司：
+
+The Pokémon Company International, Inc.
+收件人： Pokémon HOME
+地址：10400 NE 4th Street, Suite 2800
+         Bellevue, WA 98004 USA
+Email: privacyquestions@pokemon.com
+3. 本公司所取得的您的資訊
+3.1 您向本公司提供的資訊
+本公司不要求用戶於使用本App時須提供個人資訊。但如您選擇不揭露個人資訊，您可能無法使用本App的特定功能。
+
+3.1.1	於您進行下列行為時，我們將收集您向我們提供的任何資訊：
+
+(a)	存取要求個人資訊的本App內的特定功能或機能；
+(b)	經由電子郵件或本公司客服系統提出諮詢、提供回饋意見或申訴；
+(c)	經由郵寄、電子郵件或本公司客服系統聯絡本公司。
+
+3.1.2	於您使用本App時，您將提供本公司包括下列資訊（依個別情況有別）
+
+(a)	識別資料。您的居住國或地區、出生日期；
+(b)	玩家檔案資料。您亦可能提供用戶名稱、移轉或備份用ID（以便將您的檔案資料移轉至新裝置）及語言喜好設定。
+
+
+註：請勿在用戶名稱中使用您的真實姓名、首字母縮寫或者其他可用以特定您本人的資訊，包括：
+・任何遊戲中ID、密碼等
+・聯絡資訊
+3.2 本公司所取得的您的資訊
+(a)	交易資料。本公司將收集您於本App內的購買交易相關資訊，包括日期時間、金額及其他相關交易明細；
+(b)	往來連絡中所包含的資訊。本公司將收集與您聯絡中所包含的任何資訊。例如，如您為尋求客服協助而聯絡本公司時，本公司將保留該連絡記錄；
+(c)	技術資料。本公司將收集關於您如何使用本App及您用以存取本App的裝置的特定資訊，縱使於您尚未創立或登入帳號亦然。此收集行為可能包括您的地理位置、裝置資訊（例如您的硬體型號、作業系統資訊、UDID、終端識別碼、廣告識別碼、終端資訊、終端設定資訊等）、廣告ID（應用程式內顯示廣告用）、唯一玩家識別碼例如移轉或備份ID及金鑰、玩家ID、玩家金鑰、存取金鑰、您的瀏覽器所傳送的數據（例如您的IP位址、時區設定、存取狀態/HTTP狀態碼、語言設定及時區設定參照來源）、您與本App的互動資訊、包括如頁面瀏覽的特定日期或時間的資訊、要求、聚會次數、下載次數、玩家遊戲進度、遊戲相關數據包括遊戲錯誤、應用程式內購買資訊、本App訪問時間、鍵次登錄及其他類似資訊。這些資訊可能由第三人分析服務業者代本公司收集，且/或可能使用Cookie或類似技術進行收集。關於Cookie的詳細資訊，請參閱下列第7條；
+(d)	App存取許可。本公司可能要求存取您的裝置內應用程式或特定功能之許可。當您同意本公司收集地理位置數據時，本App可能要求存取GPS。本公司亦可能要求存取您的裝置中的照相功能，使您可以於本App中加入好友，以及存取麥克風功能以啟動聲音檢索，以將音頻以無法特定您個人之方式，傳送至您的裝置的作業系統提供者（於該提供者依其隱私權政策所要求時）。
+4. 本公司將如何使用您的資訊、您的資訊的受領者
+4.1	本公司將依下列目的使用您的資訊：
+
+(a)	為履行與您之間的契約及向您提供本公司服務；
+(b)	於本公司要求並取得您的同意時；
+(c)	本公司為遵守法令規定時；
+(d)	為本公司之適法利益。
+
+4.2	本公司根據上述原則（參見4.1條）並為達成以下本公司合法經營目的而使用您的資訊：
+
+(a)	為提供本App之存取。為提供您存取本App便利且最佳的方式、為提供個人化內容並允許您可於本App內儲存遊戲歷程；
+(b)	為允許您存取特定App功能。為使您可存取應用程式內購買或遊戲等功能；
+(c)	為使您可與其他玩家交流。本公司將使用您提供的資訊（例如您的用戶名及語言設定）使您可與其他玩家共同進行遊戲；
+(d)	為處理及便利與本公司之交易。本公司將使用您的資訊以處理交易及付款，且用於收取及回收您對本公司的應付款項；
+(e)	用戶及客戶支援。為提供客戶服務與支援、處理關於本App的諮詢或申訴、於提供客戶支援所必要時與本App研發人員、IT支援業者、支付服務業者分享您的資訊；
+(f)	為寄送推送通知。於取得必要許可後，向您寄送本公司認為您可能有興趣之關於本App的使用、本公司的最新資訊、活動、新的App功能、產品或服務等之推送通知；
+(g)	分析。為使用數據分析以改善本App、產品/服務、市場行銷、顧客關係與體驗；
+(h)	檢測與預防詐欺及違法行為。為防免、調查及偵測詐欺、未經授權或違法行為（包括冒名詐騙）；為保護Pokémon及本公司代理人、本公司客戶或其他人之權利及財產（包括執行本公司相關條款、政策、規定及協定）；為確保任何人之安全；以及/或為確保Pokémon及本公司合作廠商之服務、網站及應用程式之安全；
+(i)	為遵守政策、程序及法令。為使本公司遵守本公司之政策及程序、行使本公司之法定權利、與本公司之技術或法律顧問分享您的資訊，為遵守法令或回應合法要求或法定程序，例如遵守法院命令或傳喚。
+
+4.3	如您居住於EU或英國，且對本公司之資訊處理有任何問題，請參照下列第10條「居住於EU或英國境內用戶之權利」。
+5. 本公司可能分享您的資訊的對象
+5.1	關於上述使用目的且合法根據範圍內，本公司將向下列相關第三人分享您的資訊，例如：
+
+(a)	與您一起進行遊戲的App用戶。其他與您一起進行遊戲，可能位於EU或英國境內或境外的App用戶；
+(b)	本公司之服務提供業者。第三方業者、顧問及其他為本公司提供服務而須存取您的個人資訊以進行其業務者；
+(c)	其他第三人。當您同意向其他第三人分享您的資訊以將其服務與本App連結使用時，依據其個別的隱私權政策，可能包括該取得您同意的第三人。當您選擇將您的Nintendo Account連結至Pokémon GO時，為提供服務之目的，本公司將與Niantic, Inc.分享您的資訊；
+(d)	關係企業。位在日本、英國、美國及韓國之The Pokémon Center Co., Ltd.、The Pokémon Company International, Inc.及Pokémon Korea, Inc.；
+(e)	本公司事業的潛在買方或賣方。關於任何合併、融資、收購、破產、清算、交易或該等協商中，或進行出售、轉讓、處分資產或揭露本公司事業或資產之全部或一部；
+(f)	其他任何第三人（包括專家顧問）。為本公司執行本公司之法律權利、或保護權利、財產或本公司員工之安全，依法所許可而揭露予任何位於英國、美國、日本及其他國家/地區之第三人（包括法律或其他顧問、主管機關、法院、執法機關及政府機關）。
+6. 第三人資訊收集模組的使用
+為了本App的使用動向調查、本App的有效運營、防止詐欺及向顧客提供廣告，本公司可能會使用第三人資訊收集模組。於此情形，顧客資訊可能於此目的內提供予下列機構，請參見該等公司的隱私權聲明。
+[Advertising SDK] Metaps Co., Ltd. (Metapslinks)
+[Push Notifications] Google Inc. (Google Firebase)
+[Crash Data through Nintendo Switch] Nintendo Co., Ltd.
+7. COOKIE及追蹤
+7.1	本公司及其他人使用Cookie、網路信標、裝置ID及其他追蹤方法以確保您能充分使用本App。Cookie是本公司儲存於您用以存取本App的裝置上的文字檔案形式的小型資訊。Cookie與其他追蹤方法，例如裝置ID，允許本公司及其他人監看您的軟體使用、簡化您對於本App的使用，並幫助本公司及其他人連繫您使用的行動裝置、您的網站活動紀錄及您的瀏覽器，以達到廣告目的。
+7.2	如您不希望安裝Cookie至您的裝置，您可透過變更裝置上的設定以拒絕Cookie。關於如何設定以拒絕Cookie，請拜訪下列網站以取得更多資訊：http://www.aboutcookies.org。請注意，如您設定網路瀏覽器以拒絕Cookie，您可能無法存取本App之所有功能。因特定退選（opt-out）喜好設定也經由Cookie儲存於您的裝置（例如拒絕廣告公司），請注意如您移除所有Cookie，您將需要更因您的退選設定。部分網路瀏覽器可能傳送「請勿追蹤」訊號。因「請勿追蹤」之統一標準尚未受採用，本App可能未發覺或處理「請勿追蹤」訊號。
+7.3	本公司網站可能包括第三人所營運網站之內容及連結，其亦可能使用Cookie或其他追蹤方法。本公司無法管控該第三人網站或其追蹤行為，且本隱私權聲明亦不適用於該等公司。請查閱該第三人網站之條款、條件及隱私權聲明以了解該網站如何收集及使用您的資訊，並了解其是否使用Cookie、為何種目的使用Cookie
+8. 本公司如何管理您的資訊以及保管期間
+8.1	本公司採取適當的技術上與營運上安全措施以保護您的資訊不受未經許可的存取或非法使用。
+8.2	本公司將於依您向本公司的請求而向您提供服務之適當期間內，或本公司為合法商業目的（ 例如遵循或執行法令之目的、或解決紛爭）而合理要求的期間內保存您的資訊。實際保存期間將依個別因素而異，例如產品類型、資料類型與敏感程度、商業需要、顧客期待與需求、可使用的用戶控制項的類型及資料儲存形式。
+9. 將您的資訊移轉至國外
+9.1	本公司位於日本，而本公司向您所收集的個人資訊將主要儲存於法國及德國。此會發生將資料移轉至EEA或英國境外之效果。
+9.2	不論本公司將您的個人資訊由EEA或英國境內移轉至EEA或英國境外，本公司將確保進行下列至少其一移轉方式，以提供相近程度的保護：
+
+(a)	當本公司任用特定服務提供者時，本公司可能採用受European Commission所認可，就個人資訊提供與歐洲境內相同程度保護的特定契約。請參照下列網址以瞭解詳細內容： European Commission: Model contracts for the transfer of personal data to third countries；
+(b)	當本公司任用位於美國的服務提供者時，如該等業者屬於隱私護盾（Privacy Field）的一部分，且被要求就歐洲及美國間分享的個人資料提供相近程度之保護時，本公司可能將資料移轉予該等業者。請參照下列網址以瞭解詳細內容： European Commission: EU-US Privacy Shield。
+
+9.3	如您希望取得對本公司將您的資訊移轉至EEA或英國境外地區的特定方法的進一步資訊，請依本隱私權聲明第2條所定方式與本公司聯絡。
+10. 居住在EU或英國境內用戶之權利
+10.1	如您居住於EU或英國境內，您對於我們所保有關於您的資訊享有下列權利：
+
+(a)	受告知本隱私權聲明中所載本公司關於您的資訊的使用方法的權利；
+(b)	要求本公司不將您的個人資訊使用於市場行銷目的之權利；
+(c)	要求存取本公司所保有關於您的資訊的權利；
+(d)	如本公司所保有關於您的資訊不正確或已非最新內容時，要求訂正或更新之權利；
+(e)	於特定情況下要求停止處理關於您的資訊的權利；
+(f)	向UK Information Commissioner 辦公室提出申訴的權利（https://ico.org.uk/）。
+
+10.2	依2018年5月25日生效的新資訊保護法令，就本公司所保有關於您的資訊，您並享有下列權利：
+
+(a)	除向UK Information Commissioner辦公室提出申訴（https://ico.org.uk/）外，您亦可向您工作或居住所在國家/地區之主管機關提出申訴；
+(b)	於本公司根據您的同意使用您的資訊時，撤銷您的同意。您可經由本隱私權聲明第2條所定內容聯絡本公司以撤銷該同意；
+(c)	於您有特定理由時，反對本公司基於本公司合法利益下使用您的資訊；
+(d)	於特定情況下要求以有體系、通常使用、可以機器閱讀格式取得本公司所保有關於您的任何資訊的副本（或要求本公司移轉予其他服務提供業者）之權利；
+(e)	於特定情況下要求本公司限制、停止處理或刪除本公司所保有關於您的資訊的權利。
+
+請注意本公司為儲存紀錄及研發目的可能須保存特定資料。縱於您拒絕收到市場行銷連絡時，本公司仍可能須向您寄送關於您的網站用戶帳號的服務相關連絡。於特定情況下可能存在上述權利之例外情況，您於該例外情況中可能無法行使權利，我們將另行說明。
+10.3	依2018年5月25日生效的新資訊保護法令，就本公司所保有關於您的資訊，您並享有下列權利：
+11. 第三人連結
+本App可能包括第三人網站之連結、外掛程式及應用程式。點選這些連結或使其生效可能允許第三人收集或分享關於您的資訊。本公司無法控制第三人網站、外掛程式及應用程式，且對其隱私權政策不負責任。如您離開本公司網站，本公司建議您應詳讀您造訪的任何第三人網站之隱私權聲明。
+12. 我們所收集關於兒童的資訊類型
+12.1	如用戶於嘗試使用本App表明其為兒童時，本公司將於本App內引導該兒童進行不同體驗方式，使該兒童盡可能如其他用戶使用本App但不允許收集其他追加個人資訊（如COPPA所定義）。
+12.2	當用戶表明其為兒童時，本公司僅就該用戶收集一部分個人資料，包括用戶名及唯一識別碼。在不收集任何個人資訊（如COPPA所定義）下，兒童可使用本App、瀏覽內容並使用多數功能，如依法取得父母之同意時，我們亦將要求該同意。
+13. 對加州居民的補充隱私權利
+13.1	本條規定加州法下的補充揭露規定。
+13.2	如您為經由本App收集個人資訊的加州消費者， California Consumer Privacy Act (「CCPA」)提供您關於個人資訊的特定權利。具體而言，您可要求公司提供您下列資訊：
+
+(a)	本公司所收集關於您的個人資訊的類別與特定項目；
+(b)	本公司所收集個人資訊的類別或來源；
+(c)	收集及使用個人資訊之目的；
+(d)	本公司分享個人資訊予第三人時，該第三人的類別；
+(e)	為商業目的所揭露關於您的個人資料之類別。
+
+13.3	您亦享有於特定情況滿足例外條件時要求本公司刪除個人資料之權利。您亦有權於行使此等權利時不受特定或區分。
+13.4	您可經由本隱私權聲明第2項所定內容聯絡本公司以行使您的上述權利。如您提出請求，本公司將要求您確認您的身分，依照要求類別與衡量該要求所關個人資料風險下所適當的確認方法，本公司可能進行您的身分資訊與本公司保有關於您的個人資訊的對照。就特定個人資訊，不存在本公司可確認您的身分至法定明確程度的合理方法，例如唯一識別碼（例如Cookie ID、裝置ID、IP位址（關於可直接可確認身分之資訊非由本公司所保有時））。在特定情況下可能存在該等權利之例外事由，如您因例外事由而無法行使該等權利時，Pokémon將另行提供該資訊。Pokémon將依應適用法令所規定回應期間內盡合理努力滿足您的請求。
+13.5	Pokémon不出售依CCPA所定之您的個人資訊，且於過去12個月內未進行該等行為。
+13.6	於依第5.1 (e)條及第6條將您的個人資訊分享與其他第三人時，除上述目的外，包括要求存取保有個人資料之本公司系統之商業目的（例如提供雲端資料儲存、維護本公司系統安全性及提供客戶支援）。於過去12個月內，本公司已向相關業者揭露第3條所定個人資料之所有類別。
+13.7	California Civil Code 1798.83條之規定允許身為加州居民的顧客可要求為第三人之直接行銷之目的而向該第三人揭露個人資訊之特定資訊。本公司並未在未取得您的同意之情形下，將顧客個人資訊，在以該第三人之直接行銷之目的下，分享予非關係人之第三人。如您就本公司的揭露政策有任何疑問，請依第2條規定與我們聯絡。
+14. 資訊保護主管
+14.1	如您希望聯絡本公司之資訊保護主管，請以下列方式聯絡：
+
+(a)	The Pokémon Company
+(b)	收件人：資訊保護主管
+(c)	地址：Roppongi Hills Mori Tower 8F
+
+(i)	6-10-1 Roppongi, Minato-ku
+(ii)	Tokyo 106-6108 Japan
+15. 本隱私權聲明之變更及您應告知本公司之變更事項
+本公司可能以修改最終更新日之方式隨時變更本隱私權聲明。如本公司進行關於本公司如何收集、使用及分享您的個人資訊之重要變更時，本公司將說明該變更，於法律要求時，並另行取得您對於該變更之同意。
+本公司所保有關於您的個人資料之正確性及即時性相當重要。如在您與本公司的契約期間內您的個人資料有所變更時，請以更新您的檔案帳戶資訊方式、或依本隱私權聲明第2條所定內容聯絡我們，以更新該資訊。
+
+本隱私權聲明之最終更新日為2020年11月11日。
+*亞洲
+印度
+印度尼西亞
+新加坡
+泰國
+巴基斯坦
+菲律賓
+汶萊
+馬來西亞
+韓國
+香港
+澳門
+台灣
+日本
+
+
+
+Pokémon HOME Privacy Policy
+For Users residing in Asia* other than Japan/Korea
+The Pokémon Company and its subsidiaries (collectively “Pokémon” or “we”, “us”, or “our”) work to protect your information. We formulated this Privacy Policy (“Privacy Policy”) to explain what information we collect, how we use that information and under what circumstances we may disclose the information in connection with your usage of Pokémon HOME (“Services”).
+
+The Privacy Policy and Pokémon HOME Terms of Use (“Terms”) apply to your use of the Services. By starting to use the Services, you are agreeing to the Terms and Privacy Policy.
+
+If you are a minor in your country/region of residence, you acknowledge that your guardian has read these Terms and Privacy Policy and agreed to your usage of the Services subject to these Terms and Privacy Policy. You may not use the Services unless you or your guardian agree to these Terms or Privacy Policy.
+
+This Privacy Policy applies only to information provided and collected through the Services. In addition, the Privacy Policy applies only to the Services and we are not responsible for any other services, applications, content or business activities on a website, to which external links shift you from the Services. If you click on an advertisement or other link and shift from the Services to another website, the Privacy Policy shall not apply. In such case, please refer to the privacy policy of the destination website to find out how your information is treated in any such other website.
+Table of Contents
+1.	Information we collect relating to you
+2.	Purpose of the use of your information
+3.	Disclosure of information we collect from you to third parties.
+4.	Information collection modules
+5.	Storage and transfer of your information
+6.	Security measures to protect your information
+7.	Discontinuing collection of your information and retention thereof
+8.	Update of Privacy Policy
+9.	Contact
+1. Information we collect relating to you
+(1)	We may collect information you provide in connection with your usage of the Services, including:
+
+・	date of birth
+・	age
+・	pseudonym
+
+Note:	Please do not use as part of your pseudonym your real name, initials or any other information that may help identify you.
+
+・	ID and password, etc., you choose to use when playing the game.
+・	Information regarding your inquiries.
+
+(2)	We may collect information relating to you in connection with your usage of the Services, including:
+
+・	information regarding telecommunication (e.g., IP address)
+・	information regarding devices and OS (e.g., unique device identifier, advertising identifier, device information, OS information and device settings)
+・	information regarding your residential area
+・	information regarding your location
+・	in-app purchase information
+・	play data and error data in applications
+
+(3)	Upon your usage of the Services, we may use cookies and other similar technologies. Cookies are small data transmitted to your browsers and devices. You may change the settings of your browsers and devices to disable and block cookies and other data transmission, but it may limit your ability to use the Services.
+2. Purpose of the use of your information
+(1)	Usage to provide Services
+	We use information we collect from you for the provision, maintenance and improvement of the Services and in order to answer your inquiries thereof.
+(2)	Usage for purposes other than provision of Services
+	We use information we collect from you for marketing research and development, the provision, maintenance and improvement of products, services and promotions, etc., other than the Services, and in order to answer your inquiries thereof.
+(3)	Advertising and marketing
+	We use information we collect from you for delivery of information (including sending push notifications and displaying advertisements) to you regarding our, or third parties’, products and services.
+(4)	Creation and provision of statistical information
+	After turning it into non-personally identifiable statistical information, we may disclose or provide information we collect from you to third parties.
+3. Disclosure of information we collect from you to third parties
+(1)	Other users of the Services may be able to view part of your information (including pseudonym and play data).
+(2)	In connection with the provision of the Services, we may provide your information to any third party, including outsourcing contractors, providers of information collection modules, advisers and any other service provider whose service you consent to associate with the Services (including Niantic, Inc. when you choose to connect your Nintendo Account to Pokémon GO). Such third parties may be located outside of your country/region of residence.
+(3)	After turning it into non-personally identifiable statistical information, we may provide information we collect from you to third parties.
+(4)	We may disclose your information to third parties without your consent when such disclosure is required pursuant to laws and regulations.
+(5)	Your information may be transferred to any successor in connection with any corporate merger, sale of assets, acquisition, dissolution, reorganization, bankruptcy, change of control or any other similar situation. In addition, your information may be provided to third parties to the extent necessary when considering such transactions.
+4. Information collection modules
+We may use third party information collection modules that are independent from the operations of the Services for trend surveys with respect to the usage of the Services, the effective operation of the Services, prevention of fraud and other purposes. Please refer to the privacy policies of the relevant third parties regarding the management of information collected through such information collection modules.
+
+Metaps Analytics
+Service provider:	Metaps Links Inc.
+Collected information:	telecommunications service provider, device model, OS, OS version, advertising ID, app version, advertising identifier (i.e., IDFA or AAID)
+Purpose of use:	survey of the number of users and traffic, report of survey results, and verification and improvement of effects
+Privacy Policy:	https://analytics.metaps.com/en/privacy
+Firebase
+Service provider:	Google LLC
+Collected information:	APNs Device Token, Firebase Instance ID
+Purpose of use:	Sending push notifications
+Privacy Policy:	http://www.google.com/intl/en/policies/privacy
+Crash data through Nintendo Switch
+Service provider:	Nintendo Co., Ltd.
+Collected information:	Support ID, Error data in applications
+Purpose of use:	improving the Services
+Privacy Policy:	https://accounts.nintendo.com/term_chooser/privacy_policy
+5. Storage and transfer of your information
+Generally, the information we collect from you will be stored in France or Germany. You acknowledge that your information is transferred to France and Germany, outside of your country/region of residence and, by using the Services, you are agreeing to the information transfer. You also hereby acknowledge that the laws and regulations applicable in the country in which your information is stored may not provide the level of protection that is equivalent to those provided under the laws and regulations in your country/region of residence.
+6. Security measures to protect your information
+We take commercially reasonable measures to protect information we receive and use technical, administrative and physical means to protect your personal information from unauthorized access and inappropriate usage. We review our internal policies on a regular basis as necessary and adequately improve such policies.
+7. Discontinuing collection of your information and retention thereof.
+(1)	you wish to stop us from collecting your information, you must stop using the Services. You may be able to prevent part of your information from being collected through settings in the Services or changing the settings on your device.
+(2)	We retain your information for as long as we consider it reasonably necessary for our business operations.
+8. Update of Privacy Policy
+We may update the Privacy Policy anytime. You will be notified of any such update of the Privacy Policy when using the Services.
+9. Contact
+For information on this Privacy Policy, queries regarding your personal information or following up on your complaints, please inform us by using the following form below.
+
+
+Contact:　 https://www.pokemon-support.com/pokemonhome/s/inquiry/
+The Pokémon Company
+Roppongi Hills Mori Tower 8F, 6-10-1 Roppongi, Minato-ku, Tokyo 106-6108
+
+    Last updated November 11, 2020
+*Asia
+Republic of India
+Republic of Indonesia
+Republic of Singapore
+Kingdom of Thailand
+Islamic Republic of Pakistan
+Republic of the Philippines
+Brunei Darussalam
+Malaysia
+Republic of Korea
+Hong Kong
+Macau
+Taiwan
+Japan
+
+
+
+Pokémon HOME相关隐私政策
+针对居住在日本和韩国以外亚洲国家/地区※的用户
+The Pokémon Company及其子公司（以下称“本公司”）致力于保护客户的信息。为说明客户使用Pokémon HOME（以下称“本服务”）过程中，本公司获取何种信息、如何使用该信息、同时在何种状况下披露信息，制定了该隐私政策（以下称“本隐私政策”）。
+
+本隐私政策及Pokémon HOME使用条款（以下称“本条款”）适用于客户对本服务的使用。开始本服务的使用即表示客户同意本条款及本隐私政策的条件。
+
+客户在居住国家/地区为未成年人的，客户应确认，客户的监护人阅读本条款及本隐私政策，监护人同意客户以该等为条件使用本服务。客户或监护人不同意本条款或本隐私政策的条件的，无法使用本服务。
+
+本隐私政策仅针对通过本服务提供和收集的信息。并且，本隐私政策仅适用于本服务，本公司对本服务内链接对象的服务、应用程序或者网站的内容和业务活动不承担责任。如客户点击广告或其他链接从本服务跳转至其他网站等的，则不适用本隐私政策。为确认客户信息的处理方法，请确认跳转后网站的隐私政策。
+目录
+1.  本公司获取的客户信息
+2.  客户信息的使用目的
+3.  向第三方披露客户信息
+4.  关于信息收集模块
+5.  客户信息的保管和转移
+6.  保护客户信息的安全手段
+7.  客户信息的获取中止及本公司的保留
+8.  隐私政策的更新
+9.  联系我们
+
+1．本公司获取的客户信息
+(1)	本公司可能会获取客户使用本服务时向本公司提供的信息。可能会包括以下信息。
+
+・	出生日期
+・	年龄
+・	昵称
+注：	请勿使用可以确定客户的真名、首字母缩写或者其他客户的信息作为昵称。
+・	任意游戏中的ID、密码等
+・	联系信息
+
+(2)	客户使用本服务时，本公司可能会获取客户信息。可能会包括以下信息。
+
+・	通信相关的信息（IP地址等）
+・	终端或OS相关的信息（终端标识符、广告标识符、终端信息、OS信息、终端上的设置信息等）
+・	居住地区相关的信息
+・	位置信息
+・	应用程序内的购买信息
+・	应用程序内的存档数据和故障相关数据
+
+(3)	本公司在客户使用本服务时，可能会使用Cookie和类似技术。Cookie是向客户的浏览器和终端发送的小型数据。客户通过更改所使用的浏览器或终端上的设置可以使Cookie等失效或受到限制，该情形下，可能会限制客户对本服务的使用。
+2．客户信息的使用目的
+(1)	用于提供本服务
+	本公司出于提供、维护和改善本服务、回复咨询等目的使用获取的客户信息。
+(2)	用于提供本服务以外的目的
+	本公司出于本公司的市场分析、本服务以外的产品、服务、活动等的开发、提供、维护及改善、回复咨询等目的使用获取的客户信息。
+(3)	广告及市场营销
+	本公司出于向客户提供本公司或第三方的产品等相关信息（包括发送推送通知和显示广告）的目的使用获取的客户信息。
+(4)	制作及提供统计信息
+	本公司可能会将从客户获取的信息处理为无法特定客户个人的统计形式后，向第三方披露或提供。
+3．向第三方披露获取的客户信息
+(1)	使用本服务的其他客户有可能可以查阅客户的部分信息（昵称、游戏数据等）。
+(2)	本公司在提供本服务时，可以向受托方、信息收集模块供应商、顾问、其他任何客户已同意将其服务与本服务连接的服务供应商（当您选择将您的任天堂账户连接至Pokémon GO時，包括Niantic, Inc.）等第三方提供客户信息。该等第三方包括从客户居住的国家/地区来看位于国家/地区外的第三方。
+(3)	本公司可能会将从客户获取的信息制作为无法特定客户个人的统计形式后，向第三方提供。
+(4)	本公司可以根据法律法规规定，无需征得客户同意向第三方披露客户信息。
+(5)	如发生企业合并、资产出售、收购、解散、重组、破产、控制权变更、其他类似情况，客户信息可能会随之转移至继承人。同时，进行上述商讨时，可能会在该商讨所需必要的范围内向第三方提供客户信息。
+4．信息收集模块的使用
+本公司出于本服务的使用相关的动向调查、本服务的有效运营、防止不正当行为等目的，可能会使用独立于本服务功能的第三方的信息收集模块。关于通过该信息获取模块收集的信息的管理，请参见该第三方制定的隐私政策。
+
+
+Metaps Analytics
+供应商：株式会社Metaps Links
+获取项目：连接运营商、终端模型名称、OS名称、OS版本、广告ID、应用程序版本、广告标识符（IDFA或AAID）
+使用目的：调查使用者人数和网站流量
+               报告效果测定结果、验证和改善效果
+隐私政策：https://analytics.metaps.com/ja/privacy
+
+Firebase
+供应商：　Google LLC
+获取项目：　APNs Device Token、Firebase Instance ID
+使用目的：　发送PUSH通知
+隐私政策：　http://www.google.com/intl/ja/policies/privacy
+
+Nintendo Switch上的错误数据统计
+供应商：任天堂株式会社
+获取项目：任意游戏内ID（客服编码）、错误相关数据
+使用目的：用于调查错误原因及改善服务品质
+隐私政策：https://accounts.nintendo.com/term_chooser/privacy_policy
+
+
+5. 客户信息的保管和转移
+本公司从客户获取的信息主要在法国和德国保管。客户应确认自己的信息将转移至居住国家/地区外的法国和德国，并同意通过使用本服务转移该信息。并且，客户应特此确认，保管客户信息国家的适用法律法规不能给予与客户居住国家/地区的法律法规同等的保护。
+6. 客户信息的保护
+本公司采取商业上合理的手段保护获取的信息，实施技术、管理、物理手段保护客户的个人信息避免被不正当访问和不恰当使用。本公司根据需要继续贯彻和验证内部方针，并进行妥当改善。
+7.　客户信息的获取中止及本公司的保留
+(1)	如希望本公司停止获取客户信息，需要停止使用本服务。另外，部分客户信息的获取可能可以由客户变更本服务内的设置和终端设置而停止。
+(2)	本公司在自身所判断的业务上合理且必要的期间内保留客户信息。
+8. 本隐私政策的更新
+本公司不时更新本隐私政策。如本公司更新本隐私政策，将在本服务内与客户联系。
+9. 联系我们
+关于本隐私政策相关信息、客户个人信息的垂询或者投诉相关联络，请采用以下形式与本公司联系。
+
+
+联系窗口：https://www.pokemon-support.com/pokemonhome/s/inquiry/
+The Pokémon Company　
+〒106-6108东京都港区六本木6-10-1　六本木Hills森Tower 8F
+
+最终更新　2020年11月11日
+*亚洲
+印度
+印度尼西亚
+新加坡
+泰国
+巴基斯坦
+菲律宾
+文莱
+马来西亚
+韩国
+香港
+澳门
+台湾
+日本
+
+
+
+Pokémon HOME隱私權政策
+適用於居住在日本和韓國以外亞洲國家/地區※的用戶
+The Pokémon Company及其子公司（以下稱「本公司」）致力於保護您的資訊。為說明在您使用Pokémon HOME（以下稱「本服務」）過程中，本公司將取得何種資訊、如何使用該資訊、在何種狀況下揭露資訊，制定本隱私權政策（以下稱「本隱私權政策」）。
+
+本隱私權政策及Pokémon HOME使用條款（以下稱「本條款」）適用於您對本服務的使用。經由開始本服務的使用，您即同意本條款及本隱私權政策的條件。
+
+您於所居住國家/地區為未成年人者，您應確認，您的監護人已閱讀本條款及本隱私權政策，且同意您以該等為條件使用本服務。如您或監護人不同意本條款或本隱私權政策的條件時，無法使用本服務。
+
+本隱私權政策僅適用於經由本服務所提供及取得的資訊。本隱私權政策僅適用於本服務，本公司對本服務內連結至外部之服務、應用程式、或者網站的內容和業務活動不負任何責任。如您點擊廣告或其他連結從本服務跳轉至其他網站等時，不適用本隱私權政策。為確認您資訊的處理方法，請確認跳轉後網站的隱私權政策。
+
+目次
+1.	本公司所取得的您的資訊
+2.	您的資訊的使用目的
+3.	向第三人揭露您的資訊
+4.	關於資訊收集模組
+5.	保管及移轉您的資訊
+6.	為保護您的資訊的安全措施
+7.	停止取得您的資訊及本公司的保存
+8.	隱私權政策的更新
+9.	本公司聯絡資訊
+
+１．本公司所取得的您的資訊
+(1)	本公司可能取得您於使用本服務時向本公司提供的資訊。包括下列資訊。
+
+・	出生日期
+・	年齡
+・	暱稱
+註：	請勿在暱稱中使用您的真實姓名、首字母縮寫或者其他可用以特定您本人的資訊。
+・	自行決定之遊戲中ID、密碼等
+・	聯絡資訊
+
+
+(2)	您使用本服務時，本公司可能會取得您的資訊。包括下列資訊。
+
+・	網路連線相關資訊（IP位址等）
+・	裝置或作業系統相關的資訊（裝置識別碼、廣告識別碼、裝置資訊、作業系統資訊、裝置上的設定資訊等）
+・	居住地區相關資訊
+・	位置資訊
+・	應用程式內的購買資訊
+・	應用程式內的遊戲歷程和故障相關數據
+
+(3)	本公司在您使用本服務時，可能會使用Cookie和類似技術。Cookie是向您的瀏覽器及裝置所發送的小型數據。您可經由更改您使用的瀏覽器或裝置上的設定而使Cookie等失效或受限。該情形下，您對本服務的使用亦可能受到限制。
+２．　您的資訊的使用目的
+(1)	為提供本服務之目的而使用
+	本公司為提供、維護和改善本服務、回覆諮詢等目的而使用所取得的您的資訊。
+(2)	為提供本服務以外的目的而使用
+	本公司為進行本公司的市場分析、本服務以外的產品、服務、活動等的開發、提供、維護及改善、回覆諮詢等目的而使用所取得的您的資訊。
+(3)	廣告及市場行銷
+	本公司為向您提供本公司或第三人之產品等相關資訊（包括發送推送通知及顯示廣告）之目的而使用所取得的您的資訊。
+(4)	統計資訊的製作及提供
+	本公司可能會將從您獲取的資訊加工為無法特定出您個人的統計形式後，向第三人揭露或提供。
+３. 向第三人揭露您的資訊
+(1)	使用本服務的其他客戶可能閱覽您的部分資訊（暱稱、遊戲數據等）。
+(2)	本公司在提供本服務時，可以向委託業者、資訊收集模組供應商、顧問、其他任何您已同意將其服務與本服務連結之供應商（當您選擇將您的Nintendo Account連結至Pokémon GO時，包括Niantic, Inc.）等第三人提供您的資訊。該等第三人包括從您居住的國家/地區來看位於國家/地區外的第三人。
+(3)	本公司可能會將從您獲取的資訊加工為無法特定您個人的統計形式後，提供予第三人。
+(4)	根據法令規定，本公司可能在未取得您的同意的情況下向第三人揭露您的資訊。
+(5)	如發生企業合併、資產出售、收購、解散、重整、破產、控制權變更、其他類似情況，伴隨上述情況，您的資訊可能會轉移至繼受人。同時，進行上述研討時，可能會在該研討所需必要的範圍內向第三人提供您的資訊。
+４　資訊收集模組的使用
+為了本服務的使用動向調查、本服務的有效運營、防止不正當行為等，本公司可能會使用獨立於本服務功能的第三人資訊收集模組。關於經由該資訊收集模組所收集資訊的管理，請參見該第三人的隱私權政策。
+
+Metaps Analytics
+供應商：株式會社Metaps Links
+取得項目：連接運營商、裝置模型名稱、作業系統名稱、作業系統版本、廣告ID、應用程式版本、廣告識別碼（IDFA或AAID）
+使用目的：調查使用者人數和網站流量
+               報告效果測定結果、驗證和改善效果
+隱私權政策：https://analytics.metaps.com/ja/privacy
+
+Firebase
+供應商：Google LLC
+取得項目：APNs Device Token、Firebase Instance ID
+使用目的：發送PUSH通知
+隱私權政策：http://www.google.com/intl/ja/policies/privacy
+
+Nintendo Switch上異常資料統計
+供應商：任天堂株式會社
+取得項目：任意遊戲內ID（服務ID）、異常相關資料
+使用目的：調查異常問題等以改善服務
+隱私權政策：https://accounts.nintendo.com/term_chooser/privacy_policy
+
+
+5. 您的資訊的保管和移轉
+本公司從您取得的資訊主要保管於法國和德國。您確認自己的資訊將移轉至居住國家/地區外的法國和德國，並同意通過使用本服務移轉該資訊。並且，您特此確認，保管您資訊國家的適用法令不能給予與您居住國家/地區的法令同等的保護。
+6. 您的資訊的保護
+本公司採取商業上合理的手段保護所受領的資訊，實施技術、管理、物理手段保護您的個人資訊避免被不當存取和不當使用。本公司於必要時將持續檢視內部方針，並進行適當改善。
+７.　 停止取得您的資訊及本公司的保存
+(1)	如希望本公司停止取得您的資訊，須停止使用本服務。另外，您的部分資訊的取得可能經由您變更本服務內的設定和裝置設定而停止。
+(2)	本公司在本公司認為在業務上合理且必要的期間內保存您的資訊。
+８. 本隱私權政策的更新
+本公司不時更新本隱私權政策。如本公司更新本隱私權政策，將在本服務內與您聯繫。
+９. 聯絡本公司
+關於諮詢本隱私權政策的資訊、您個人資訊的諮詢或者投訴，請使用以下表格與本公司聯絡。
+
+
+聯絡窗口：https://www.pokemon-support.com/pokemonhome/s/inquiry/
+The Pokémon Company　
+〒106-6108東京都港區六本木6-10-1　六本木Hills森Tower 8F
+
+最終更新　2020年11月11日
+
+
+亞洲
+印度
+印度尼西亞
+新加坡
+泰國
+巴基斯坦
+菲律賓
+汶萊
+馬來西亞
+韓國
+香港
+澳門
+台灣
+日本
+
+
+
+Pokémon HOME関するプライバシーポリシー
+日本にお住まいのユーザー用
+株式会社ポケモン、並びにその子会社（以下「当社」といいます。）は、お客様の情報の保護に努めております。お客様がPokémon HOME（以下「本サービス」といいます。）をご利用中に、当社がどのような情報を取得するか、どのようにその情報を利用し、そして、どのような状況下で情報を開示するのかをご説明するため、このプライバシーポリシー（以下「本プライバシーポリシー」といいます。）を策定いたしました。
+
+本プライバシーポリシー及びPokémon HOME利用規約（以下「本規約」といいます。）は、お客様による本サービスのご利用に適用されます。本サービスの利用を開始することにより、お客様は、本規約及び本プライバシーポリシーの条件に同意することになります。
+
+お客様が居住する国/地域において未成年である場合、お客様の保護者が本規約及び本プライバシーポリシーを読み、これらを条件に、お客様が本サービスを利用することに保護者が同意したことをお客様は確認するものとします。お客様又は保護者の方が本規約又は本プライバシーポリシーの条件に同意されない場合は、本サービスを利用することはできません。
+
+本プライバシーポリシーは、本サービスを通じて提供及び取得された情報のみに提供されます。また、本プライバシーポリシーは、本サービスにのみ適用され、当社は、本サービス内からリンクされた先のサービス、アプリケーション、又は、ウェブサイトのコンテンツや事業活動については責任を負いません。お客様が広告やその他のリンクをクリックし、他のサイト等に本サービスから移動した場合、本プライバシーポリシーは適用されません。お客様の情報がどのように取り扱われるかを確認するためには、移動先のプライバシーポリシーを確認してください。
+目次
+1.	当社が取得するお客様の情報
+2.	お客様の情報の利用目的
+3.	お客様の情報を第三者に開示する場合
+4.	情報収集モジュールについて
+5.	お客様の情報の保管と移転
+6.	お客様の情報保護のためのセキュリティ手段
+7.	お客様情報の取得の中止及び当社による保持
+8.	プライバシーポリシーの更新
+9.	当社へのお問い合わせ
+１．当社が取得するお客様の情報
+(1)	当社は、お客様が本サービス利用に伴い当社に提供する情報を取得することがあります。これには、以下の情報が含まれ得ます。
+
+・	生年月日
+・	年齢
+・	ニックネーム
+	注：ニックネームには、お客様の本名、イニシャル、又は、その他お客様を特定しうる情報を使わないようにしてください
+・	任意のゲーム内ID、パスワード等
+・	お問い合わせ情報
+
+(2)	当社は、お客様の本サービス利用に伴い、お客様の情報を取得することがあります。
+これには、以下の情報が含まれ得ます。
+
+・	通信に関する情報（IPアドレス等）
+・	端末やOS関する情報（端末識別子、広告識別子、端末情報、OS情報、端末上の設定情報等）
+・	お住まいの地域に関する情報
+・	位置情報
+・	アプリ内購入情報
+・	アプリ内のプレイデータや不具合に関するデータ
+
+(3)	当社は、お客様の本サービス利用に伴い、クッキーや、これに類する技術を使用することがあります。クッキーとは、お客様のブラウザや端末に送信される小さなデータです。お客様は、お使いのブラウザや端末上の設定を変更することによりクッキー等を無効にし、また制限することができますが、その場合、お客様の本サービス利用に制限が発生する場合があります。
+２．お客様の情報の利用目的
+(1)	本サービス提供目的での利用
+当社は、取得したお客様の情報を、本サービス提供、維持及び改善、お問い合わせへの回答等のために利用します。
+(2)	本サービス提供以外の目的での利用
+当社は、取得したお客様の情報を、当社による市場分析や、本サービス以外の製品、サービス、キャンペーン等の開発、提供、維持及び改善、お問い合わせへの回答等のために利用します。
+(3)	広告及びマーケティング
+当社は、取得したお客様の情報を、お客様に対する当社又は第三者の製品等に関する情報提供（プッシュ通知の送付や広告の表示を含みます）のために利用します。
+(4)	統計情報の作成及び提供
+当社は、お客様から取得した情報を、お客様個人が特定されない統計的な形に加工したうえで、第三者に開示または提供することがあります。
+３．取得するお客様の情報を第三者に開示する場合
+(1)	本サービスをご利用の他のお客様が、お客様の情報の一部（ニックネーム、ゲームプレイデータ等）を閲覧できる場合があります。
+(2)	当社は、本サービス提供に伴い、委託先、情報収集モジュール提供者、アドバイザー、お客様が本サービスと連携することを選択したサービスの提供者（お客様がお客様のニンテンドーアカウントとPokémon GOのサービスを連携することを選択した場合の、Niantic,Inc.を含みます。）等の第三者にお客様の情報を提供することができます。これらの第三者には、お客様がお住まいの国/地域から見て、外国にある第三者が含まれます。
+(3)	当社は、お客様から取得した情報を、お客様個人が特定されない統計的な形に加工したうえで、第三者に提供することがあります。
+(4)	当社は、法令に基づく場合、お客様の同意を得ることなく、お客様の情報を第三者に開示することがあります。
+(5)	企業の合併、資産の売却、買収、解散、再編、破産、支配権の変更、その他の類似状況があった場合、上記に伴い、お客様の情報が継承者に移転されることがあります。また、上記の検討の際、当該検討に必要な範囲でお客様の情報が第三者に提供される場合があります。
+４．情報収集モジュールの利用
+当社は、本サービスの利用に関する動向調査、本サービスの効果的な運営、不正行為防止等のために、本サービスの機能とは独立した、第三者の情報収集モジュールを利用することがあります。当該情報取得モジュールにより収集された情報の管理については、当該第三者の定めるプライバシーポリシーをご参照ください。
+
+Metaps Analytics
+提供者：　株式会社メタップスリンクス
+取得項目：　接続キャリア、端末モデル名、OS名、OSバージョン、広告ID、
+　　　　　　アプリバージョン、広告識別子（IDFAまたはAAID）
+利用目的：　利用者数やトラフィックを調査するため
+　　　　　　効果測定結果の報告、効果の検証および改善
+プライバシーポリシー：　https://analytics.metaps.com/ja/privacy
+
+Firebase
+提供者：　Google LLC
+取得項目：　APNs Device Token、Firebase Instance ID
+利用目的：　PUSH通知送信のため
+プライバシーポリシー：　http://www.google.com/intl/ja/policies/privacy
+
+Nintendo Switch（本体システム）による不具合データの集計
+提供者：　任天堂株式会社
+取得項目：　任意のゲーム内ID（サポートID）、不具合に関するデータ
+利用目的：　不具合調査など、サービス改善のため
+プライバシーポリシー：　https://accounts.nintendo.com/term_chooser/privacy_policy
+５．お客様の情報の保管と移転
+当社がお客様から取得する情報は、主にフランス及びドイツに保管されます。お客様は、自己の情報が居住国/地域外のフランス及びドイツに移転されることを確認し、また、本サービスを利用することにより、当該情報の移転に同意するものとします。また、お客様の情報が保管される国における適用法令が、お客様の居住国/地域における法令と同等の保護を与えるものではないことについても、お客さまは、ここに確認するものとします。
+６．お客様の情報の保護のためのセキュリティ手段
+当社は、受領した情報を保護するため商業的に合理的な手段を施し、不正なアクセス及び不適切な利用からお客様の個人情報を保護するため技術的、管理的、物理的手段を実施しております。当社は、必要に応じて内部ポリシーを継続して検証し、適切に改善して参ります。
+７．お客様情報の取得の中止及び当社による保持
+(1)	当社によるお客様情報の取得を停止したい場合、本サービスの利用の停止が必要になります。なお、一部のお客様情報の取得については、お客様による本サービス内の設定や端末設定の変更により停止できる場合があります。
+(2)	当社は、お客様の情報を、当社による業務に合理的に必要と判断する期間保持します。
+８. 本プライバシーポリシーの更新
+当社は、本プライバシーポリシーを都度更新することができます。当社が本プライバシーポリシーを更新する場合、本サービス内でお客様にご連絡いたします。
+９. 当社へのお問い合わせ
+本プライバシーポリシーに関する情報、お客様の個人情報の照会についてのお問い合わせ、又は、苦情に関するお問い合わせにつきましては、以下のフォームをご利用のうえ、当社までお知らせください。
+
+お問い合わせ窓口：https://www.pokemon-support.com/pokemonhome/s/inquiry/
+
+株式会社ポケモン
+
+〒106-6108 東京都港区六本木6-10-1　六本木ヒルズ森タワー8F
+
+最終更新　2020年11月11日
+
+
+
+Pokémon HOME 개인정보 처리방침
+한국에 거주하는 유저용
+주식회사 포켓몬, 및 그 자회사(이하 「당사」라고 합니다)는 고객의 정보 보호에 힘쓰고 있습니다. 고객님이 Pokémon HOME(이하 「본 서비스」라고 합니다)를 이용 중에 당사가 어떠한 정보를 취급하는지, 어떻게 그 정보를 이용하고 그리고, 어떤 상황에서 정보를 개시하는지를 설명하기 위해 이 개인정보 처리방침(이하 「본 방침」이라고 합니다)을 책정하였습니다.
+
+본 방침 및 Pokémon HOME 이용약관(이하 「본 약관」이라고 합니다)은, 고객님에 의한 본 서비스 이용에 적용됩니다. 본 서비스 이용을 개시하는 것에 의해 고객님은 본 약관 및 본 방침의 조건에 동의하게 됩니다.
+
+고객님이 거주하는 국가/지역에서 미성년인 경우 고객님의 보호자가 본 약관 및 본 방침을 읽고 이 조건에 고객님이 본 서비스를 이용하는 것에 보호자가 동의한 것을 고객님이 확인한 것으로 합니다. 고객님 또는 보호자가 본 약관 또는 본 방침의 조건에 동의하지 않는 경우는 본 서비스를 이용할 수 없습니다.
+
+본 방침은 본 서비스를 통해 제공 및 취득된 정보에 한해 제공됩니다. 또한, 본 방침은 본 서비스에 한해 적용되며 당사는 본 서비스 내에서 링크된 서비스, 애플리케이션, 또는 웹사이트의 콘텐츠와 사업 활동에 대해서는 책임을 지지 않습니다. 고객님이 광고나 기타 링크를 클릭하여 다른 사이트 등에 본 서비스로부터 이동한 경우 본 방침은 적용되지 않습니다. 고객님의 정보가 어떻게 취급되는지 확인하기 위해서는 이동하는 곳의 개인정보 처리방침을 확인해 주십시오.
+목차
+1.	당사가 취득하는 고객 정보
+2.	고객 정보 이용 목적
+3.	고객 정보를 제3자에게 개시하는 경우
+4.	정보 수집 모듈에 대하여
+5.	고객 정보 보관과 이전
+6.	고객 정보 보호를 위한 보안 수단
+7.	고객 정보 취득 중지 및 당사에 의한 보유
+8.	개인정보 처리방침의 갱신
+9.	고객 문의
+１. 당사가 취득하는 고객 정보
+(1)	당사는 고객님이 본 서비스 이용과 함께 당사에 제공하는 정보를 취득할 수 있습니다. 이에는 이하 정보가 포함되어 있습니다.
+
+・	생년월일
+・	연령
+・	닉네임
+	주:닉네임에는 고객님의 본명, 이니셜, 또는 기타 고객님을 특정 가능한 정보를 사용하지 않도록 해주세요.
+・	임의의 게임 내 ID, 패스워드 등
+・	문의 정보
+
+(2)	당사는 고객님의 본 서비스 이용과 함께 고객님의 정보를 취득할 수 있습니다.
+이에는, 이하의 정보가 포함되어 있습니다.
+
+・	통신에 관한 정보(IP 주소 등)
+・	단말기나 OS에 관한 정보(단말기 식별자, 광고 식별자, 단말기 정보, OS 정보, 단말기 상의 설정 정보 등)
+・	거주하는 지역에 관한 정보
+・	위치 정보
+・	앱 내 구입 정보
+・	앱 내 플레이 데이터나 오류에 관한 데이터
+
+(3)	당사는 고객님의 본 서비스 이용과 함께 쿠키나 이와 같은 종류의 기술을 사용할 수 있습니다. 쿠키란, 고객님의 브라우저나 단말기에 송신되는 작은 데이터입니다. 고객님은 사용하시는 브라우저나 단말기 상의 설정을 변경하는 것으로 쿠키 등을 무효로 하거나 제한할 수 있습니다만, 그 경우 고객님의 본 서비스 이용에 제한이 발생할 경우가 있습니다.
+２. 고객 정보 이용 목적
+(1)	본 서비스 제공 목적으로의 이용
+당사는 취득한 고객님의 정보를 본 서비스 제공, 유지 및 개선, 문의에 대한 답변을 위해 이용합니다.
+(2)	본 서비스 제공 이외의 목적으로의 이용
+당사는 취득한 고객의 정보를 당사에 의한 시장 분석과 본 서비스 이외의 제품, 서비스, 캠페인 등의 개발, 제공, 유지 및 개선, 문의에 대한 답변 등을 위해 이용합니다.
+(3)	광고 및 마케팅
+당사는 취득한 고객님의 정보를 고객님에 대한 당사 또는 제3자의 제품 등에 관한 정보 제공(푸쉬 알림 송신과 광고 표시를 포함합니다)을 위해 이용합니다.
+(4)	통계 정보 작성 및 제공
+당사는 고객님으로부터 취득한 정보를 고객님 개인이 특정되지 않은 통계적인 형태로 가공하여 제3자에게 개시 또는 제공할 수 있습니다.
+３. 취득하는 고객 정보를 제3자에게 개시하는 경우
+(1)	본 서비스를 이용하는 다른 고객님이 고객님의 정보 일부(닉네임, 게임 플레이 데이터 등)를 열람할 수 있는 경우가 있습니다.
+(2)	당사는 본 서비스 제공과 함께 위탁자, 정보 수집 모듈 제공자, 어드바이저, 고색님의 본 서비스와 연동하는 것을 선택한 서비스 제공자(고객님이 고객 닌텐도 어카운트와 Pokémon GO 서비스 연동을 선택한 경우의 Niantic, Inc.을 포함합니다.) 등의 제3자에게 고객님의 정보를 제공할 수 있습니다. 이들 제3자에는 고객님이 거주하는 국가/지역에서 볼 때 외국에 있는 제3자가 포함됩니다.
+(3)	당사는 고객님으로부터 취득한 정보를 고객님 개인이 특정되지 않는 통계적인 형태로 가공한 후에 제3자에게 제공할 수 있습니다.
+(4)	당사는 법령에 따르는 경우, 고객님의 동의를 얻지 않고 고객님의 정보를 제3자에게 개시할 수 있습니다.
+(5)	기업 합병, 자산 매각, 매수, 해산, 재편, 파산, 지배권 변경, 기타 유사 상황이 있는 경우, 상기와 함께 고객님의 정보가 계승자에게 이전될 수 있습니다. 또한, 상기 검토 시, 해당 검토에 필요한 범위에 고객님의 정보가 제3자에게 제공되는 경우가 있습니다.
+４. 정보 수집 모듈의 이용
+당사는 본 서비스의 이용에 관한 동향 조사, 본 서비스의 효과적인 운영, 부정행위 방지 등을 위해 본 서비스의 기능과는 독립한 제3자의 정보 수집 모듈을 이용할 수 있습니다. 해당 정보 취득 모듈에 의해 수집된 정보 관리에 대해서는 해당 제3자가 정하는 개인정보 처리방침을 참고하여 주십시오.
+
+Metaps Analytics
+제공자: 주식회사 Metaps Analytics
+취득 항목: 접속 캐리어, 단말기 모델명, OS 명, OS 버전, 광고ID,
+　　　　　애플리케이션, 광고 식별자(IDFA 또는 AAID)
+이용 목적: 이용자 수와 트래픽을 조사하기 위해
+　　　　　효과 측정 결과의 보고, 효과의 검증 및 개선
+개인정보 처리방침: https://analytics.metaps.com/ja/privacy
+
+Firebase
+제공자: Google LLC
+취득항목: APNs Device Token、Firebase Instance ID
+이용 목적: PUSH 알림 송신을 위해
+개인정보 처리방침: http://www.google.com/intl/ja/policies/privacy
+
+Nintendo Switch에 의한 이상 현상 데이터 집계
+제공자: 닌텐도주식회사
+취득항목: 임의의 게임 내 ID(서포트 ID), 이상 현상에 관한 데이터
+이용 목적: 이상 현상 조사 등, 서비스 개선
+개인정보 처리방침: https://accounts.nintendo.com/term_chooser/privacy_policy
+５. 고객 정보 보관과 이전
+당사가 고객님으로부터 취득한 정보는 주로 프랑스 및 독일에 보관됩니다. 고객님은 자기 정보가 거주 국가/지역 외의 프랑스 및 독일에 이전되는 것을 확인하고 또한, 본 서비스를 이용하는 것으로 해당 정보의 이전에 동의하는 것으로 합니다. 또한 고객님의 정보가 보관되는 국가에서의 적용 법령이 고객님의 거주 국가/지역에 있어서 법령과 동등하게 보호해 주는 것이 아닌 것에 대해서도 고객님은 이를 확인하는 것으로 합니다.
+６. 고객 정보 보호
+당사는 수령한 정보를 보호하기 위해 상업적으로 합리적인 수단을 세우고 부정한 액세스 및 부적절한 이용으로부터 고객님의 개인 정보를 보호하기 위해 기술적, 관리적, 물리적 수단을 실시하고 있습니다. 당사는 필요에 따라 내부 방침을 계속하여 검증하고 적절히 개선하고 있습니다.
+７. 고객 정보 취득 중지 및 당사에 의한 보유
+(1)	당사에 의한 고객 정보 취득을 정지하고 싶은 경우, 본 서비스의 이용 정지가 필요하게 됩니다. 나아가 일부 고객 정보의 취득에 대해서는 고객님에 의한 본 서비스 내 설정이나 단말기 설정 변경으로 정지할 수 있는 경우도 있습니다.
+(2)	당사는 고객 정보를 당사에 의한 업무에 합리적으로 필요하다고 판단하는 기간 보유합니다.
+８. 본 방침의 갱신
+당사는 본 방침을 필요에 따라 갱신할 수 있습니다. 당사가 본 방침을 갱신하는 경우, 본 서비스 내에서 고객님에게 연락을 하겠습니다.
+９. 고객 문의
+본 방침에 관한 정보, 고객님의 개인정보 조회에 대하여 문의 또는 고충에 관한 문의에 대해서는 아래 양식을 이용하여 당사에 문의하여 주십시오
+
+고객문의：mobilemaster@pokemonkorea.co.kr
+
+㈜포켓몬코리아
+
+경기도 용인시 수지구 신수로 801, 4층
+
+최종 갱신: 2020년 11월 11일

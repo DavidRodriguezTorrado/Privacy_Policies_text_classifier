@@ -1,0 +1,8 @@
+Age Verification
+
+Please enter your date of birth below to continue.
+
+MM
+Your date of birth is required for the approval process and will only be used for verification purposes. Such information will be deleted after we complete the legal guardian consent process.
+Continue
+ 

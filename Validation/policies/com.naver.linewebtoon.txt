@@ -1,0 +1,222 @@
+skip content
+
+WEBTOON
+
+Creators 101 Publish Log In | Search
+
+MENU
+
+ORIGINALS
+GENRES
+POPULAR
+CANVAS
+TERMS OF USE
+PRIVACY POLICY
+COMMUNITY POLICY
+AD REVENUE SHARING TERMS
+COOKIE POLICY
+PRIVACY POLICY
+WEBTOON™ PRIVACY POLICY HIGHLIGHTS [for EU residents]
+
+WEBTOON ENTERTAINMENT Inc. (including its subsidiary, NAVER WEBTOON Ltd., hereinafter together referred to as “we”, “our” or “us”) respect your concerns about privacy. This Privacy Policy applies to the personal information we collect through WEBTOON application and/or website and CANVAS (collectively “Services”).
+
+OVERVIEW OF PRIVACY POLICY
+
+In this Privacy Policy, we describe the types of personal information we process through the Services, how we may use the information, with whom we may share it and the choices available to you regarding use of the information and exercising your rights. We also describe the measures we take to safeguard the information and tell you how to contact us about our privacy practices. Below you will find a summary of the key messages contained in our Privacy Policy. For more detailed information on how we process your information, please click on the headings or continue to read below.
+
+1. Information We Collect
+2. How We Use the Information We Collect
+3. Information Sharing
+4. Retention of Personal Information
+5. Your Choices
+6. Your Rights
+7. How We Protect Personal Information
+8. International Transfer of Information
+9. Children’s Personal Information
+10. Contact Us
+11. Links to Other Websites
+12. Updates to Our Privacy Policy
+
+WEBTOON™ PRIVACY POLICY
+1. Information We Collect
+
+The following personal information is collected in connection with the Services:
+
+Information you provide directly
+
+Some Services enable you to give us information directly. For example:
+- When you access our Services, we may request your date of birth to verify your age.
+- When a user is under the age of 16, or equivalent minimum age depending on jurisdiction (i.e. 15 in France), we may need user’s name and legal guardian’s e-mail address to obtain legal guardian’s consent.
+- When you create your own account and login to your account once created, we may need nickname, email address and password.
+- When you login to a third party account or to your profile with us, we may ask for information such as nickname or profile picture.
+- To provide responses when you contact our Customer Care, we may collect any information you choose to provide, such as your requests or inquiries.
+- When you communicate with our Customer Care staff or others, your communications will be transmitted through our systems through your email address.
+
+[For Creators]
+When you use CANVAS and/or AD REVENUE SHARING PROGRAM, we may need collect the following additional information :
+- We may request that your PayPal ID or Patreon ID be linked to the Service.
+- If you choose to provide your PayPal account, we may ask for additional information such as your Name (Legal Name/Business Alias), Full name/Business Name, Country, Residency, Address, Postal code, E-mail, Signature and Tax ID (or Social Security Number when applicable) for tax processing purposes.
+
+Information about your use of services
+
+In addition to the information you provide, we will collect information about your use of our Services through software on your devices and by other means. We will collect:
+- Service usage information: your interactions with the Services (such as search terms, and the apps and features you use), dates and times of use of the Services, any Service usage information collected through cookies. For more information about how we use cookies for our Service, please see our Cookie Policy. You can manage the use of optional cookies by clicking on the ‘Cookie Settings’ solution displayed when you open the application / visit the website and at any time through the Cookie Settings;
+- Information relating to the organization of contests and/or any promotional operations: date of participation, responses to the contests and nature of the prizes offered;
+- Device and Log Information: Device and log information such as device model, OS version, IP address, setting of devices, nation based on IP address, URL and network type; and
+- Transaction Data/Payment details: we do not collect or process any transaction data concerning you (e.g. credit card details). Such information is only collected and processed through Apple’s App Store and Google Play Store. The only information that Apple and Google may share with us is technical information that does not allow us to identify you (e.g. transaction number), and is only processed to validate the transactions.
+
+Information collected through 3rd Party Analytics
+
+- Through certain Services, we may collect personal information about your online activities on websites and connected devices over time and across third-party websites, devices, apps and other online features and services. We may use third-party analytics services on the Services, such as Google Analytics. The information we obtain may be disclosed to or collected directly by these providers and other relevant third parties who use the information, for example, to evaluate use of the Services or help administer the Services. To learn more about Google Analytics, please visit: https://www.google.com/policies/privacy/partners/.
+
+2. How We Use the Information We Collect
+Provision of services based on your contractual relationship with us:
+
+[For Users and Creators]
+- Provide a Service or feature you request, such as to respond to your request, questions and instructions made through Services;
+- Conduct surveys and analyses necessary for improving the Service;
+- Processing payment and billing when a user purchases a product or uses a Service which is not free;
+- Provide you with tailored functions such as recommendation based on your most visited webpages and additional content tailored to your interests via the Interest tab;
+- Identify and authenticate you so you may use certain Services; and
+- Respond to your inquiries and send users important notifications when necessary.
+
+[For Creators using CANVAS and/or AD REVENUE SHARING PROGRAM]
+In addition to the above provision of services, we may use the information collected on creators using CANVAS and/or AD REVENUE SHARING PROGRAM for the following additional purposes:
+- Provide AD REVENUE SHARING PROGRAM to users;
+- Send emails relevant to your usage, as controlled by your email preference; and
+- Reply to your questions.
+
+Use of information for further purpose based on our legitimate interests:
+
+Where we rely on our legitimate interests, we have carried out a balancing test to document our interests, to consider what the impact of the processing will be on individuals and to determine whether individuals interests outweigh our interests in the processing taking place. You can obtain more information about this balancing test by using the contact details at the end of the notice.
+
+[For Users and Creators]
+- Protect against, identify and prevent fraud and other criminal activity, claims and other liabilities;
+- Ensure and monitor the effectiveness and availability of the services to improve performance of the website and the application;
+- Generate statistical data pertaining to usage of the services; and
+- Comply with and enforce relevant industry standards and our policies, including this Privacy Policy.
+
+[For Creators using CANVAS and/or AD REVENUE SHARING PROGRAM]
+- Understand how you use the Service and create better AD REVENUE SHARING PROGRAMs;
+- Conduct research and development to improve AD REVENUE SHARING PROGRAM and develop future products;
+- Prevent fraud and abuse of AD REVENUE SHARING PROGRAM.
+
+Use of information based on your consent:
+
+- Place cookies and use similar technologies in accordance with our Cookies Policy and the information provided to you when those technologies are used;
+- Send you information and prizes for campaigns and events.
+On other occasions where we ask you for consent, we will use the data for the purpose which we explain at that time.
+
+For purposes which are required by law:
+
+[For Users and Creators]
+- Comply with and enforce applicable law requirements;
+- Respond to requests from government or law enforcement
+
+[For Creators using CANVAS and/or AD REVENUE SHARING PROGRAM]
+- Verify your identity to comply with applicable laws;
+- Comply with and enforce applicable law requirements, our statutory obligations (e.g., tax laws), relevant industry standards and our policies, including this Privacy Policy
+
+3. Information Sharing
+
+WEBTOON Entertainment Inc. and NAVER WEBTOON Ltd. share information as joint controllers of your personal information whenever necessary to provide Services efficiently and in compliance with applicable law. We disclose personal information about you through the Services as described in the following:
+- Service Providers. We may disclose your information to companies that provide Services on behalf of us, such as companies that help us develop and operate systems for the Service with customer contact centers, as well as customer care activities, advertising (including customized advertising on our websites, third-party websites, or online platforms), conducting customer satisfaction surveys, billing or that send emails on our behalf. These entities are limited by contractual provisions in their ability to use your information for purposes other than providing Services for us.
+- Other Parties When Required by Law or as Necessary to Protect Our Services. There may be instances when we disclose your information to other parties:
+- to comply with the law or respond to compulsory legal process (such as a search warrant or other court order);
+- to verify or enforce compliance with the policies governing our Services; and
+- to protect our rights, property, or safety, or, in compliance with data protection laws, any of our respective affiliates, business partners, or customers.
+- Other Parties in Connection with Transactions. We may disclose your information to a third party as part of an actual or planned merger or transfer, acquisition or sale, or in the event of a bankruptcy.
+- Other Parties with Your Consent or on Your Request. In addition to the disclosures described in this Privacy Policy, we may share information about you with third parties when you separately consent to or request such sharing.
+- Links to Other Websites, Devices, Apps and Features. The Service may provide the ability to connect to other websites, devices, apps and other features, which may operate independently from us and may have their own privacy notices or policies, which we strongly suggest you review. To the extent any linked website, device, app or other feature is not owned or controlled by us, we are not responsible for its content, use or privacy practices.
+
+4. Retention of Personal Information
+
+We take appropriate steps to ensure that we process and retain information about you based on the following logic:
+- at least the duration for which the information is used to provide you with a service;
+- as required under law, a contract, or with regard to our statutory obligations (e.g., tax laws); or
+- only for as long as is necessary for the purpose for which it was collected, is processed, or longer if required under any contract, by applicable law, or, in anonymized form, for statistical purposes, subject to appropriate safeguards.
+
+5. Your Choices
+
+We offer you certain choices in connection with the personal information we obtain about you. To limit communications you receive from us, or submit a request, please contact us as specified in the Contact Us section (section 10 of this Privacy Policy). You can unsubscribe from our email marketing communications at any time by clicking the “unsubscribe” link on the bottom of the email.
+
+6. Your Rights
+
+Your right of access: you have the right to ask us whether or not we are using or storing your personal information. You can also ask us for copies of your personal information.
+Your right to rectification: you have the right to ask us to rectify information you think is inaccurate. You also have the right to complete information you consider is incomplete.
+Your right to erasure: you have the right to ask us to erase your personal information in the following circumstances: (i) we no longer need your personal information, (ii) you initially consented to the use of your personal information, but have now withdrawn your consent, (iii) you have objected to the use of your personal information and your interests outweigh those of our company, (iv) we have collected or used your personal information unlawfully; and/or (v) we have a legal obligation to erase your personal information.
+Your right to restriction of processing: you have the right to ask us to restrict the processing of your personal information in the following circumstances: temporarily limit when (i) you have challenged the accuracy of your personal information; or (ii) you have objected to the use of your personal information and /or limit if (i) we processed your personal information unlawfully without you wishing to delete it; and (ii) we no longer need your personal information but you wish us to keep it in order to defend or exercise legal claims.
+Your right to object to processing: you have the right to object to the processing of your personal information if we are using your personal information for (i) a task carried out in the public interest, (ii) our legitimate interests, (iii) scientific or historical research or statistical purposes; or (iv) direct marketing.
+Your right to data portability: this right applies to personal information you have provided to us and where the processing is automated and based on your consent or made under a contract. You have the right to ask us, if technically feasible, to transfer your personal information to another organisation or directly provide it to you in a way accessible and machine readable.
+You also have the right to withdraw consent at any time where the processing is based on your consent, without affecting the lawfulness of processing based on consent before such withdrawal.
+You have the right to lodge a complaint before a supervisory authority: You can lodge a complaint with the relevant supervisory authority if you consider that our processing of your personal information infringes applicable law. Contact details for all EU supervisory authorities can be found at https://ec.europa.eu/newsroom/article29/item-detail.cfm?item_id=612080.
+Where French data protection law is applicable, you also have the right to set guidelines for the retention and communication of your personal information after your death.
+
+7. How We Protect Personal Information
+
+We take protection of your information seriously and maintain safeguards designed to protect the information we collect in connection with the Services. However, please note that although we take reasonable steps to protect your information, no website, Internet transmission, computer system, or wireless connection is completely secure.
+
+8. International Transfer of Information
+
+Your use of our Service will involve the transfer, storage, and processing of your personal information within and outside of your country of residence, consistent with this policy. In particular, your personal information will be transferred to the United States and Republic of Korea. Please note that the data protection and other laws of countries to which your information may be transferred might not be as comprehensive as those in your country.
+
+[For European Economic Area (EEA) Residents]
+In addition, your use of the Service may also involve the transfer, storage, and processing of your personal information to other countries; such countries include, without limitation, countries in the European Economic Area, the United States and Republic of Korea. We will take appropriate measures, in compliance with applicable law, to ensure that your personal information remains protected. Such measures include for instance the use of the European Commission Standard Contractual Clauses to safeguard the transfer of information outside of the EEA and reliance on your explicit consent. To request more information or obtain a copy of the contractual agreements or other safeguards in place, please contact us. See the Contact Us section below.
+
+9. Children’s Personal Information
+
+We do not collect personal information of children under the age of 16, or equivalent minimum age depending on jurisdiction (i.e. 15 in France), without parental consent from their parents or legal guardian. Therefore, before being able to use our services, we will ask you to provide age-related information in order to help us comply with data protection laws. In particular, we will request your date of birth to determine whether or not you are allowed to benefit from the services or we have to obtain verifiable parental consent from your parent or relevant holder of parental responsibility before allowing you to access and/or benefit from the services.
+
+10. Contact Us
+
+WEBTOON Entertainment Inc. and NAVER WEBTOON Ltd. share joint responsibility for processing personal information and share information as joint controllers of your personal information whenever necessary to provide Services efficiently and in compliance with applicable law.
+- If you have any questions, concerns or inquiries concerning the Policies for handling personal information, you may send them to our personal information management department at: Customer Care.
+- If you are based outside of the European Union, you can contact us by sending an email to our Data Protection Officer (DPO) at the following address: dpo@webtoonscorp.com
+- If you are based in the European Union, you can contact us by sending an email to our European data protection representative at the following address: eu_representative@navercorp.com
+- In any event, you can contact us in writing at the following addresses.
+
+WEBTOON Entertainment Inc.
+
+5700 Wilshire Blvd Suite 220,
+Los Angeles, CA 90036
+United States
+
+As WEBTOON Entertainment Inc. and NAVER WEBTOON Ltd. will take joint action whenever necessary to comply with your rights, requests or complaints, you can also contact us at NAVER WEBTOON Ltd.:
+
+NAVER WEBTOON Ltd.
+
+9F Krafton Tower, 117, Bundangnaegok-ro, Bundang-gu, Seongnam-si, Gyeonggi-do, Republic of Korea. : NAVER WEBTOON Limited head office located 9F Krafton Tower, 117, Bundangnaegok-ro, Bundang-gu, Seongnam-si, Gyeonggi-do, Republic of Korea.
+
+11. Links to Other Websites
+
+You may identify hyperlinks to access the websites of other organisations on our websites or in the content we provide to you (e.g. promotional email or events). Please note that this privacy policy does not cover how other companies will process your personal information. We recommend you to read the privacy policies applicable to such other websites.
+
+12. Updates to Our Privacy Policy
+
+This Privacy Policy may be updated to reflect changes in our personal information practices with respect to the Service, or changes in the applicable law. We will post a notice on our Service to notify you in advance of material changes to our Privacy Policy and indicate at the top of the notice when it was most recently updated.
+
+
+
+
+This Privacy Policy is effective from - February 23, 2021 (effective immediately for new users).
+
+Download WEBTOON now!
+
+GET IT on Google Play Download on the App Store
+facebook instagram twitter youtube
+About | Feedback | Help | Terms | Privacy | Personal Data | Advertise  | 
+English
+English
+
+ⓒ WEBTOON Entertainment Inc.
+
+WEBTOON
+
+Recently viewed
+Recently viewed
+
+WEBTOON uses cookies necessary for authentication and security purposes. We would also like to use optional cookies to provide personalized content and to improve our services based on how you use such services. You can accept or refuse all optional cookies by clicking on the relevant buttons below or you can manage the use of optional cookies by clicking on the 'Cookie Settings' button. For more information on cookies, please read our Cookie Policy.
+
+I Agree.
+Cookie Settings
+layer close
