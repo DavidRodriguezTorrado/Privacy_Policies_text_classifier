@@ -58,3 +58,10 @@ Policy_Classifier_traintest_Confussion_Matrix.png refers to the train test set C
  'f1-score-negative': 0.975,
  'accuracy': 0.9705882352941176,
  'conf_matrix': [32, 2, 0, 39]}
+
+## Applying Classifier
+
+From top 100 apps of Google Play Store, we intercepted 150 domains where user's personal data was being sent. After that, employing scrapping/selenium privacy policies were searched on those domains. This classifier tries to verify if those texts are indeed privacy policies.
+
+The experiment results are on domains_testing_model.xlsx where 142 out of 150 (94.67%) were correctly identified. Cases incorrectly identified are due to doubtful privacy policies or undetailed ones.
+

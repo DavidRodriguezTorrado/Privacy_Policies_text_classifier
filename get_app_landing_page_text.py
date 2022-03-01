@@ -19,7 +19,7 @@ def is_english(text):
         return 'unknown', False
     return language, True if language == 'en' else False
 
-chromedriver_path = './../chromedriver'
+chromedriver_path = './chromedriver'
 
 def download_text(url):
     policy_text = None
@@ -30,6 +30,7 @@ def download_text(url):
     chromeOptions.add_argument("--enable-javascript")
     chromeOptions.add_argument("--headless")
     chromeOptions.add_argument('--disable-dev-shm-usage')
+    chromeOptions.add_argument("--lang=en")
     driver = webdriver.Chrome(executable_path=r'{}'.format(chromedriver_path), options=chromeOptions)
     try:
         WebDriverWait(driver, TIMEOUT).until(EC.presence_of_element_located((By.TAG_NAME, "html")))
